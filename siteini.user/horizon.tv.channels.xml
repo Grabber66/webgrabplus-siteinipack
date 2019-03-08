@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.5 -- Jan van Straaten" site="horizon.tv">
+  <channels>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503040__https://wp2-images-de-dynamic.horizon.tv/ChannelLogos/02/daserste_hd.png" xmltv_id="Das Erste HD">Das Erste HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503164__https://wp21-images-de-dynamic.horizon.tv/ChannelLogos/02/zdf_hd.png" xmltv_id="ZDF HD">ZDF HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503098__https://wp22-images-de-dynamic.horizon.tv/ChannelLogos/02/prosieben_hd.png" xmltv_id="ProSieben HD">ProSieben HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503002__https://wp20-images-de-dynamic.horizon.tv/ChannelLogos/02/vox_hd_1.png" xmltv_id="VOX HD">VOX HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503099__https://wp23-images-de-dynamic.horizon.tv/ChannelLogos/02/kabel_1_hd.png" xmltv_id="kabel eins HD">kabel eins HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29609511125__https://wp14-images-de-dynamic.horizon.tv/ChannelLogos/02/rtl_2_hd.png" xmltv_id="RTL2 HD">RTL2 HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_616178215134__https://wp4-images-de-dynamic.horizon.tv/ChannelLogos/02/3sat_hd_1.png" xmltv_id="3Sat HD">3Sat HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_342571559048__https://wp3-images-de-dynamic.horizon.tv/ChannelLogos/02/arte_hd.png" xmltv_id="arte HD">arte HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438502999__https://wp9-images-de-dynamic.horizon.tv/ChannelLogos/02/servus_tv_hd.png" xmltv_id="Servus TV HD">Servus TV HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_761024551272__https://wp22-images-de-dynamic.horizon.tv/ChannelLogos/02/wdr_fernsehen_hd.png" xmltv_id="WDR Köln HD">WDR Köln HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_761026599328__https://wp6-images-de-dynamic.horizon.tv/ChannelLogos/02/hr_hd_1.png" xmltv_id="hrfernsehen HD">hrfernsehen HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_810575399209__https://wp10-images-de-dynamic.horizon.tv/ChannelLogos/02/brf_hd_1.png" xmltv_id="BR Fernsehen Süd HD">BR Fernsehen Süd HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_834825255151__https://wp14-images-de-dynamic.horizon.tv/ChannelLogos/02/mdr_hd_Fernsehen.png" xmltv_id="MDR Thüringen HD">MDR Thüringen HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_810575911128__https://wp18-images-de-dynamic.horizon.tv/ChannelLogos/02/ndr_hd_1.png" xmltv_id="NDR Niedersachsen HD">NDR Niedersachsen HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_834825767105__https://wp21-images-de-dynamic.horizon.tv/ChannelLogos/02/rbb_hd.png" xmltv_id="rbb Berlin HD">rbb Berlin HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_834825767107__https://wp13-images-de-dynamic.horizon.tv/ChannelLogos/02/sr_hd_2.png" xmltv_id="SR Fernsehen HD">SR Fernsehen HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_867024935136__https://wp14-images-de-dynamic.horizon.tv/ChannelLogos/02/radio_bremen_hd.png" xmltv_id="Radio Bremen TV HD">Radio Bremen TV HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_761023015389__https://wp1-images-de-dynamic.horizon.tv/ChannelLogos/02/swr_hd.png" xmltv_id="SWR BW HD">SWR BW HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_349162535312__https://wp14-images-de-dynamic.horizon.tv/ChannelLogos/02/qvc_hd_2.png" xmltv_id="QVC HD">QVC HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_97245734997__https://wp23-images-de-dynamic.horizon.tv/ChannelLogos/02/hse24_hd.png" xmltv_id="HSE24 HD">HSE24 HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_720012839068__https://wp3-images-de-dynamic.horizon.tv/ChannelLogos/02/sonnenklar_tv_hd.png" xmltv_id="Sonnenklar TV HD">Sonnenklar TV HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_720012327313__https://wp11-images-de-dynamic.horizon.tv/ChannelLogos/02/1-2-3_tv_hd.png" xmltv_id="123TV HD">123TV HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_820837415370__https://wp11-images-de-dynamic.horizon.tv/ChannelLogos/02/juwelo_hd_1.png" xmltv_id="Juwelo TV HD">Juwelo TV HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_432862759164__https://wp20-images-de-dynamic.horizon.tv/ChannelLogos/02/QVC_2_HD.png" xmltv_id="QVC2 HD">QVC2 HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_834825767106__https://wp12-images-de-dynamic.horizon.tv/ChannelLogos/02/hse24_extra_hd.png" xmltv_id="HSE24 Extra HD">HSE24 Extra HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_810575911129__https://wp27-images-de-dynamic.horizon.tv/ChannelLogos/02/QVC_Style_hd.png" xmltv_id="QVC Style HD">QVC Style HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_432862759162__https://wp10-images-de-dynamic.horizon.tv/ChannelLogos/02/dmax_de_hd.png" xmltv_id="DMAX HD">DMAX HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_844304935317__https://wp24-images-de-dynamic.horizon.tv/ChannelLogos/02/zdfinfo_hd_1.png" xmltv_id="ZDFinfo HD">ZDFinfo HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_726358055419__https://wp28-images-de-dynamic.horizon.tv/ChannelLogos/02/tlc_hd_2.png" xmltv_id="TLC HD">TLC HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_867025447139__https://wp13-images-de-dynamic.horizon.tv/ChannelLogos/02/br-alpha.png" xmltv_id="ARDalpha HD">ARDalpha HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_726361639174__https://wp17-images-de-dynamic.horizon.tv/ChannelLogos/02/bibel_tv_hd.png" xmltv_id="Bibel TV HD">Bibel TV HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_427555366991__https://wp16-images-de-dynamic.horizon.tv/ChannelLogos/02/nat_geo_hd_1.png" xmltv_id="NatGeo HD">NatGeo HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438502982__https://wp18-images-de-dynamic.horizon.tv/ChannelLogos/02/spiegelwissen_hd.png" xmltv_id="Spiegel TV Wissen HD">Spiegel TV Wissen HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_810575911130__https://wp19-images-de-dynamic.horizon.tv/ChannelLogos/02/discovery_hd.png" xmltv_id="Discovery HD">Discovery HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_810575399210__https://wp20-images-de-dynamic.horizon.tv/ChannelLogos/02/history_hd_1.png" xmltv_id="History HD">History HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503059__https://wp4-images-de-dynamic.horizon.tv/ChannelLogos/02/planet_hd.png" xmltv_id="PLANET HD">PLANET HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_817724967011__https://wp1-images-de-dynamic.horizon.tv/ChannelLogos/02/nat_geo_wild_3.png" xmltv_id="NatGeo Wild HD">NatGeo Wild HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_551261735068__https://wp21-images-de-dynamic.horizon.tv/ChannelLogos/02/animal_planet_hd_1.png" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503171__https://wp11-images-de-dynamic.horizon.tv/ChannelLogos/02/rtl_living_hd_1.png" xmltv_id="RTL Living HD">RTL Living HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_720012839071__https://wp7-images-de-dynamic.horizon.tv/ChannelLogos/02/ae_sd_1.png" xmltv_id="AE HD">AE HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503146__https://wp28-images-de-dynamic.horizon.tv/ChannelLogos/02/bon_gusto_hd.png" xmltv_id="Bon Gusto HD">Bon Gusto HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_817724967009__https://wp6-images-de-dynamic.horizon.tv/ChannelLogos/02/e_entertainment_hd.png" xmltv_id="EEntertainment HD">EEntertainment HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_432862759163__https://wp23-images-de-dynamic.horizon.tv/ChannelLogos/02/comedy_central_hd.png" xmltv_id="VIVACOMEDY CENTRAL HD">VIVACOMEDY CENTRAL HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_432862759159__https://wp19-images-de-dynamic.horizon.tv/ChannelLogos/02/deluxe_music_hd.png" xmltv_id="DELUXE MUSIC HD">DELUXE MUSIC HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_726358055420__https://wp23-images-de-dynamic.horizon.tv/ChannelLogos/02/mtv_hd.png" xmltv_id="MTV HD">MTV HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438502963__https://wp9-images-de-dynamic.horizon.tv/ChannelLogos/02/mtv_live_hd.png" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438502969__https://wp15-images-de-dynamic.horizon.tv/ChannelLogos/02/stingray_classica.png" xmltv_id="CLASSICA HD">CLASSICA HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503125__https://wp1-images-de-dynamic.horizon.tv/ChannelLogos/02/super_rtl_hd_1.png" xmltv_id="Super RTL HD">Super RTL HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_706497063099__https://wp21-images-de-dynamic.horizon.tv/ChannelLogos/02/kika_hd.png" xmltv_id="KiKA HD">KiKA HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_342736423082__https://wp20-images-de-dynamic.horizon.tv/ChannelLogos/02/nick_mtvplus_hd.png" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_616654375081__https://wp7-images-de-dynamic.horizon.tv/ChannelLogos/02/zdf_neo_hd_v2.png" xmltv_id="ZDF_neo HD">ZDF_neo HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_342570535339__https://wp9-images-de-dynamic.horizon.tv/ChannelLogos/02/nitro_hd.png" xmltv_id="Nitro HD">Nitro HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_720012839067__https://wp25-images-de-dynamic.horizon.tv/ChannelLogos/02/sat1_gold_hd.png" xmltv_id="Sat1 Gold HD">Sat1 Gold HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_713302567357__https://wp22-images-de-dynamic.horizon.tv/ChannelLogos/02/tele5_hd.png" xmltv_id="Tele 5 HD">Tele 5 HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_342570535344__https://wp22-images-de-dynamic.horizon.tv/ChannelLogos/02/disney_channel_hd_1.png" xmltv_id="Disney HD">Disney HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29609511122__https://wp24-images-de-dynamic.horizon.tv/ChannelLogos/02/sixx_hd.png" xmltv_id="sixx HD">sixx HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_342570535343__https://wp28-images-de-dynamic.horizon.tv/ChannelLogos/02/pro7_maxx_hd.png" xmltv_id="ProSieben Maxx HD">ProSieben Maxx HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_616178215135__https://wp8-images-de-dynamic.horizon.tv/ChannelLogos/02/one_hd.png" xmltv_id="ONE HD">ONE HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_817724967008__https://wp14-images-de-dynamic.horizon.tv/ChannelLogos/02/anixe_hd.png" xmltv_id="Anixe HD">Anixe HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503049__https://wp5-images-de-dynamic.horizon.tv/ChannelLogos/02/tnt_film_hd_2.png" xmltv_id="TNT Film HD">TNT Film HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_427555366994__https://wp16-images-de-dynamic.horizon.tv/ChannelLogos/02/tnt_serie_hd_2.png" xmltv_id="TNT Serie HD">TNT Serie HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503168__https://wp20-images-de-dynamic.horizon.tv/ChannelLogos/02/13th_street_hd.png" xmltv_id="13th Street HD">13th Street HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503116__https://wp14-images-de-dynamic.horizon.tv/ChannelLogos/02/syfy_hd_v2.png" xmltv_id="SYFY HD">SYFY HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_427555366999__https://wp22-images-de-dynamic.horizon.tv/ChannelLogos/02/fox_2.png" xmltv_id="Fox HD">Fox HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_581525543059__https://wp10-images-de-dynamic.horizon.tv/ChannelLogos/02/classics_hd.png" xmltv_id="kabeleinsclassics HD">kabeleinsclassics HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503006__https://wp27-images-de-dynamic.horizon.tv/ChannelLogos/02/rtl_crime_hd_2.png" xmltv_id="RTL Crime HD">RTL Crime HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503122__https://wp2-images-de-dynamic.horizon.tv/ChannelLogos/02/kinowelt_tv_hd.png" xmltv_id="Kinowelt TV HD">Kinowelt TV HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_541628455131__https://wp18-images-de-dynamic.horizon.tv/ChannelLogos/02/axn_hd_3.png" xmltv_id="AXN HD">AXN HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438502994__https://wp6-images-de-dynamic.horizon.tv/ChannelLogos/02/prosieben_fun_hd.png" xmltv_id="ProSieben Fun HD">ProSieben Fun HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_706506791274__https://wp25-images-de-dynamic.horizon.tv/ChannelLogos/02/universal_tv_hd.png" xmltv_id="UNIVERSAL TV  HD">UNIVERSAL TV  HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503075__https://wp7-images-de-dynamic.horizon.tv/ChannelLogos/02/romance_tv_hd_3.png" xmltv_id="Romance TV HD">Romance TV HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503057__https://wp28-images-de-dynamic.horizon.tv/ChannelLogos/02/tnt_comedy_hd.png" xmltv_id="TNT Comedy HD">TNT Comedy HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503172__https://wp24-images-de-dynamic.horizon.tv/ChannelLogos/02/rtl_passion_hd_1.png" xmltv_id="RTL Passion HD">RTL Passion HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438502967__https://wp21-images-de-dynamic.horizon.tv/ChannelLogos/02/sport1_hd_1.png" xmltv_id="Sport1 HD">Sport1 HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_761023015388__https://wp2-images-de-dynamic.horizon.tv/ChannelLogos/02/eurosport1_hd.png" xmltv_id="Eurosport1 HD">Eurosport1 HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438502966__https://wp6-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_sport_news_hd_v2.png" xmltv_id="Sky Sport News HD">Sky Sport News HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_834825255152__https://wp27-images-de-dynamic.horizon.tv/ChannelLogos/02/eurosport_360_hd.png" xmltv_id="Eurosport360 HD 1">Eurosport360 HD 1</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_834825767110__https://wp1-images-de-dynamic.horizon.tv/ChannelLogos/02/eurosport_360_hd.png" xmltv_id="Eurosport360 HD 2">Eurosport360 HD 2</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_834825255154__https://wp27-images-de-dynamic.horizon.tv/ChannelLogos/02/eurosport_360_hd.png" xmltv_id="Eurosport360 HD 3">Eurosport360 HD 3</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438502981__https://wp28-images-de-dynamic.horizon.tv/ChannelLogos/02/sport1_plus_hd.png" xmltv_id="Sport1 HD">Sport1 HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503142__https://wp12-images-de-dynamic.horizon.tv/ChannelLogos/02/automotor_sport_hd.png" xmltv_id="Auto Motor und Sport TV HD">Auto Motor und Sport TV HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_817724967005__https://wp26-images-de-dynamic.horizon.tv/ChannelLogos/02/sportdigital_hd_1.png" xmltv_id="sportdigital HD">sportdigital HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_817724967007__https://wp17-images-de-dynamic.horizon.tv/ChannelLogos/02/mvtv_hd_1.png" xmltv_id="MOTORVISION TV HD">MOTORVISION TV HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_726358055421__https://wp1-images-de-dynamic.horizon.tv/ChannelLogos/02/welt_hd.png" xmltv_id="WELT HD">WELT HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_706496551303__https://wp9-images-de-dynamic.horizon.tv/ChannelLogos/02/phoenix_das_ganze_bild.png" xmltv_id="PHOENIX HD">PHOENIX HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_809640999019__https://wp28-images-de-dynamic.horizon.tv/ChannelLogos/02/ntv_hd.png" xmltv_id="ntv HD">ntv HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_834825255153__https://wp10-images-de-dynamic.horizon.tv/ChannelLogos/02/tagesschau_24_hd.png" xmltv_id="tagesschau24 HD">tagesschau24 HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_616178215136__https://wp25-images-de-dynamic.horizon.tv/ChannelLogos/02/bbc_world_news_hd.png" xmltv_id="BBC HD">BBC HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_563038759252__https://wp17-images-de-dynamic.horizon.tv/ChannelLogos/02/cnn_HD.png" xmltv_id="CNN International HD">CNN International HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_119414823221__https://wp13-images-de-dynamic.horizon.tv/ChannelLogos/02/lust_pur_hd.png" xmltv_id="Lust Pur HD">Lust Pur HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503017__https://wp20-images-de-dynamic.horizon.tv/ChannelLogos/02/daserste.png" xmltv_id="Das Erste">Das Erste</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503165__https://wp20-images-de-dynamic.horizon.tv/ChannelLogos/02/zdf.png" xmltv_id="ZDF">ZDF</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503175__https://wp17-images-de-dynamic.horizon.tv/ChannelLogos/02/rtl_v2.png" xmltv_id="RTL Television">RTL Television</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503126__https://wp19-images-de-dynamic.horizon.tv/ChannelLogos/02/sat1.png" xmltv_id="SAT1">SAT1</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503097__https://wp7-images-de-dynamic.horizon.tv/ChannelLogos/02/prosieben_1.png" xmltv_id="ProSieben">ProSieben</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503001__https://wp5-images-de-dynamic.horizon.tv/ChannelLogos/02/vox.png" xmltv_id="VOX">VOX</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503100__https://wp25-images-de-dynamic.horizon.tv/ChannelLogos/02/kabel_1.png" xmltv_id="kabel eins">kabel eins</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438502973__https://wp27-images-de-dynamic.horizon.tv/ChannelLogos/02/rtl2.png" xmltv_id="RTL2">RTL2</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503123__https://wp7-images-de-dynamic.horizon.tv/ChannelLogos/02/3sat_1.png" xmltv_id="3sat">3sat</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503073__https://wp6-images-de-dynamic.horizon.tv/ChannelLogos/02/arte.png" xmltv_id="arte">arte</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503000__https://wp20-images-de-dynamic.horizon.tv/ChannelLogos/02/servus_tv.png" xmltv_id="Servus TV">Servus TV</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_834825767108__https://wp14-images-de-dynamic.horizon.tv/ChannelLogos/02/wdr_koln.png" xmltv_id="WDR Köln">WDR Köln</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_834825767109__https://wp7-images-de-dynamic.horizon.tv/ChannelLogos/02/hr_fernsehen_1.png" xmltv_id="hrfernsehen">hrfernsehen</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503050__https://wp4-images-de-dynamic.horizon.tv/ChannelLogos/02/brf_sued.png" xmltv_id="BR Fernsehen Süd">BR Fernsehen Süd</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503048__https://wp8-images-de-dynamic.horizon.tv/ChannelLogos/02/brf_nord.png" xmltv_id="BR Fernsehen Nord">BR Fernsehen Nord</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503066__https://wp23-images-de-dynamic.horizon.tv/ChannelLogos/02/mdr_sachsen.png" xmltv_id="MDR Sachsen">MDR Sachsen</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503067__https://wp23-images-de-dynamic.horizon.tv/ChannelLogos/02/mdr_sachsen-anhalt.png" xmltv_id="MDR SAnhalt">MDR SAnhalt</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503068__https://wp5-images-de-dynamic.horizon.tv/ChannelLogos/02/mdr_thuringen.png" xmltv_id="MDR Thüringen">MDR Thüringen</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503144__https://wp25-images-de-dynamic.horizon.tv/ChannelLogos/02/ndr_fernsehen_nds.png" xmltv_id="NDR FS NDS">NDR FS NDS</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503143__https://wp12-images-de-dynamic.horizon.tv/ChannelLogos/02/ndr_fernsehen_hh.png" xmltv_id="NDR FS HH">NDR FS HH</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503152__https://wp26-images-de-dynamic.horizon.tv/ChannelLogos/02/ndr_fernsehen_sh.png" xmltv_id="NDR FS SH">NDR FS SH</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503151__https://wp23-images-de-dynamic.horizon.tv/ChannelLogos/02/ndr_fernsehen_mv.png" xmltv_id="NDR FS MV">NDR FS MV</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503155__https://wp1-images-de-dynamic.horizon.tv/ChannelLogos/02/rbb_brandenburg.png" xmltv_id="rbb Brandenburg">rbb Brandenburg</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503160__https://wp22-images-de-dynamic.horizon.tv/ChannelLogos/02/rbb_berlin.png" xmltv_id="rbb Berlin">rbb Berlin</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_834825255155__https://wp10-images-de-dynamic.horizon.tv/ChannelLogos/02/sr_fernsehen.png" xmltv_id="SR Fernsehen">SR Fernsehen</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_834825767112__https://wp3-images-de-dynamic.horizon.tv/ChannelLogos/02/radiobremen_2.png" xmltv_id="Radio Bremen TV">Radio Bremen TV</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503094__https://wp12-images-de-dynamic.horizon.tv/ChannelLogos/02/swr_fs_rp.png" xmltv_id="SWR Fernsehen RP">SWR Fernsehen RP</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_834825767111__https://wp3-images-de-dynamic.horizon.tv/ChannelLogos/02/swr_fs_bw.png" xmltv_id="SWR Fernsehen BW">SWR Fernsehen BW</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_563038759254__https://wp22-images-de-dynamic.horizon.tv/ChannelLogos/02/unitymedia_schnupperkanal_1.png" xmltv_id="Schnupperkanal">Schnupperkanal</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29436455444__https://wp13-images-de-dynamic.horizon.tv/ChannelLogos/02/unitymedia_videothek_2.png" xmltv_id="Videothek">Videothek</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503021__https://wp9-images-de-dynamic.horizon.tv/ChannelLogos/02/qvc2.png" xmltv_id="QVC">QVC</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503025__https://wp18-images-de-dynamic.horizon.tv/ChannelLogos/02/hse24.png" xmltv_id="HSE24">HSE24</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503162__https://wp9-images-de-dynamic.horizon.tv/ChannelLogos/02/sonnenklar.tv.png" xmltv_id="sonnenklarTV">sonnenklarTV</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503026__https://wp24-images-de-dynamic.horizon.tv/ChannelLogos/02/1-2-3.tv_1.png" xmltv_id="123tv">123tv</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29436455419__https://wp25-images-de-dynamic.horizon.tv/ChannelLogos/02/juwelo_1.png" xmltv_id="Juwelo">Juwelo</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29436455437__https://wp13-images-de-dynamic.horizon.tv/ChannelLogos/02/channel21.png" xmltv_id="Channel21">Channel21</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_706506791340__https://wp12-images-de-dynamic.horizon.tv/ChannelLogos/02/sparhandy.png" xmltv_id="SparhandyTV">SparhandyTV</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503023__https://wp7-images-de-dynamic.horizon.tv/ChannelLogos/02/QVC_2.png" xmltv_id="QVC2">QVC2</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29436455394__https://wp1-images-de-dynamic.horizon.tv/ChannelLogos/02/hse24_extra.png" xmltv_id="HSE24 EXTRA">HSE24 EXTRA</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_145416231119__https://wp9-images-de-dynamic.horizon.tv/ChannelLogos/02/QVC_style.png" xmltv_id="QVC Style">QVC Style</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503035__https://wp25-images-de-dynamic.horizon.tv/ChannelLogos/02/hse24_trend.png" xmltv_id="HSE24 TREND">HSE24 TREND</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503022__https://wp25-images-de-dynamic.horizon.tv/ChannelLogos/02/astro_tv.png" xmltv_id="Astro TV">Astro TV</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503089__https://wp18-images-de-dynamic.horizon.tv/ChannelLogos/02/dmax.png" xmltv_id="DMAX">DMAX</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503079__https://wp10-images-de-dynamic.horizon.tv/ChannelLogos/02/zdf_info.png" xmltv_id="ZDFinfo">ZDFinfo</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_488928807317__https://wp22-images-de-dynamic.horizon.tv/ChannelLogos/02/tlc_2.png" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_745574951375__https://wp7-images-de-dynamic.horizon.tv/ChannelLogos/02/kabel1_doku.png" xmltv_id="kabel eins Doku">kabel eins Doku</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_745574951376__https://wp6-images-de-dynamic.horizon.tv/ChannelLogos/02/n24doku.png" xmltv_id="N24 Doku">N24 Doku</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503083__https://wp7-images-de-dynamic.horizon.tv/ChannelLogos/02/br-alpha.png" xmltv_id="ARDalpha">ARDalpha</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_427555366987__https://wp2-images-de-dynamic.horizon.tv/ChannelLogos/02/die_neue_zeit.png" xmltv_id="DIE NEUE ZEIT TV">DIE NEUE ZEIT TV</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_97245734982__https://wp16-images-de-dynamic.horizon.tv/ChannelLogos/02/sonlife_broadcasting_network.png" xmltv_id="SonLife">SonLife</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_810575911132__https://wp9-images-de-dynamic.horizon.tv/ChannelLogos/02/health_tv.png" xmltv_id="Health TV">Health TV</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_825206311401__https://wp19-images-de-dynamic.horizon.tv/ChannelLogos/02/hope_channel.png" xmltv_id="HOPE CHANNEL">HOPE CHANNEL</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_810575911133__https://wp23-images-de-dynamic.horizon.tv/ChannelLogos/02/welt_der_wunder.png" xmltv_id="Welt der Wunder">Welt der Wunder</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_427555366990__https://wp1-images-de-dynamic.horizon.tv/ChannelLogos/02/nat_geo_1.png" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438502983__https://wp16-images-de-dynamic.horizon.tv/ChannelLogos/02/spiegelwissen.png" xmltv_id="Spiegel TV Wissen">Spiegel TV Wissen</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_810575399213__https://wp6-images-de-dynamic.horizon.tv/ChannelLogos/02/discovery_channel.png" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503163__https://wp20-images-de-dynamic.horizon.tv/ChannelLogos/02/history.png" xmltv_id="HISTORY">HISTORY</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503058__https://wp11-images-de-dynamic.horizon.tv/ChannelLogos/02/planet.png" xmltv_id="PLANET">PLANET</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_810575399211__https://wp7-images-de-dynamic.horizon.tv/ChannelLogos/02/nat_geo_wild_3.png" xmltv_id="NatGeo Wild">NatGeo Wild</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503101__https://wp11-images-de-dynamic.horizon.tv/ChannelLogos/02/animal_planet_2.png" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503170__https://wp10-images-de-dynamic.horizon.tv/ChannelLogos/02/rtl_living_1.png" xmltv_id="RTL Living">RTL Living</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503020__https://wp22-images-de-dynamic.horizon.tv/ChannelLogos/02/ae_sd_1.png" xmltv_id="AE">AE</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503127__https://wp15-images-de-dynamic.horizon.tv/ChannelLogos/02/deutsches_wetter_fernsehen.png" xmltv_id="Deutsches Wetter Fernsehen">Deutsches Wetter Fernsehen</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503087__https://wp23-images-de-dynamic.horizon.tv/ChannelLogos/02/travel_channel.png" xmltv_id="Travel Channel Deutschland">Travel Channel Deutschland</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438502952__https://wp26-images-de-dynamic.horizon.tv/ChannelLogos/02/comedy_central.png" xmltv_id="VIVACOMEDY CENTRAL">VIVACOMEDY CENTRAL</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503045__https://wp28-images-de-dynamic.horizon.tv/ChannelLogos/02/deluxe_music.png" xmltv_id="DELUXE MUSIC">DELUXE MUSIC</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_581525543056__https://wp26-images-de-dynamic.horizon.tv/ChannelLogos/02/deutsches_musik_fernsehen.png" xmltv_id="Deutsches Musik Fernsehen">Deutsches Musik Fernsehen</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_809640999021__https://wp20-images-de-dynamic.horizon.tv/ChannelLogos/02/mtv_2.png" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_551261735066__https://wp3-images-de-dynamic.horizon.tv/ChannelLogos/02/xite.png" xmltv_id="XITE">XITE</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_145416231117__https://wp7-images-de-dynamic.horizon.tv/ChannelLogos/02/mtv_brand_new.png" xmltv_id="MTV Brand New">MTV Brand New</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29436455422__https://wp2-images-de-dynamic.horizon.tv/ChannelLogos/02/rcktv.png" xmltv_id="RCK TV">RCK TV</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438502970__https://wp15-images-de-dynamic.horizon.tv/ChannelLogos/02/stingray_classica.png" xmltv_id="CLASSICA">CLASSICA</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503033__https://wp27-images-de-dynamic.horizon.tv/ChannelLogos/02/gute_laune_tv.png" xmltv_id="Gute Laune TV">Gute Laune TV</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503124__https://wp24-images-de-dynamic.horizon.tv/ChannelLogos/02/super_rtl.png" xmltv_id="Super RTL">Super RTL</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_834825255158__https://wp6-images-de-dynamic.horizon.tv/ChannelLogos/02/kika.png" xmltv_id="KiKa">KiKa</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29609511128__https://wp18-images-de-dynamic.horizon.tv/ChannelLogos/02/nick_mtvplus.png" xmltv_id="NickelodeonNicknight">NickelodeonNicknight</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_728445991321__https://wp17-images-de-dynamic.horizon.tv/ChannelLogos/02/toggo_plus.png" xmltv_id="TOGGO plus">TOGGO plus</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_581525543058__https://wp17-images-de-dynamic.horizon.tv/ChannelLogos/02/ric.png" xmltv_id="RiC">RiC</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_465354791386__https://wp19-images-de-dynamic.horizon.tv/ChannelLogos/02/disney_junior_22.png" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_465354791387__https://wp26-images-de-dynamic.horizon.tv/ChannelLogos/02/disney_xd_1.png" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503064__https://wp22-images-de-dynamic.horizon.tv/ChannelLogos/02/nicktoons.png" xmltv_id="Nicktoons">Nicktoons</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503063__https://wp13-images-de-dynamic.horizon.tv/ChannelLogos/02/boomerang_1.png" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503132__https://wp27-images-de-dynamic.horizon.tv/ChannelLogos/02/nick_jr.png" xmltv_id="Nick Jr">Nick Jr</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503129__https://wp26-images-de-dynamic.horizon.tv/ChannelLogos/02/fix_and_foxi.png" xmltv_id="FixFoxi">FixFoxi</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503149__https://wp4-images-de-dynamic.horizon.tv/ChannelLogos/02/baby_tv2.png" xmltv_id="BabyTV">BabyTV</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503117__https://wp25-images-de-dynamic.horizon.tv/ChannelLogos/02/zdf_neo_v2.png" xmltv_id="zdf_neo">zdf_neo</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503118__https://wp10-images-de-dynamic.horizon.tv/ChannelLogos/02/nitro.png" xmltv_id="Nitro">Nitro</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438502972__https://wp7-images-de-dynamic.horizon.tv/ChannelLogos/02/sat1_gold.png" xmltv_id="Sat1 Gold">Sat1 Gold</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29609511124__https://wp24-images-de-dynamic.horizon.tv/ChannelLogos/02/tele5.png" xmltv_id="Tele 5">Tele 5</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_342736423084__https://wp7-images-de-dynamic.horizon.tv/ChannelLogos/02/disney_channel_1.png" xmltv_id="Disney SD">Disney SD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_465354791388__https://wp1-images-de-dynamic.horizon.tv/ChannelLogos/02/sixx.png" xmltv_id="SIXX">SIXX</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_432862759167__https://wp20-images-de-dynamic.horizon.tv/ChannelLogos/02/prosieben_maxx.png" xmltv_id="ProSieben MAXX">ProSieben MAXX</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_728445991322__https://wp11-images-de-dynamic.horizon.tv/ChannelLogos/02/rtlplus.png" xmltv_id="RTLplus">RTLplus</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503166__https://wp14-images-de-dynamic.horizon.tv/ChannelLogos/02/one.png" xmltv_id="ONE">ONE</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_733871143282__https://wp2-images-de-dynamic.horizon.tv/ChannelLogos/02/zeeone2.png" xmltv_id="ZEEONE">ZEEONE</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_817724967010__https://wp11-images-de-dynamic.horizon.tv/ChannelLogos/02/eotv_1.png" xmltv_id="eoTV">eoTV</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503053__https://wp16-images-de-dynamic.horizon.tv/ChannelLogos/02/tnt_film_2.png" xmltv_id="TNT Film">TNT Film</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_427555366995__https://wp27-images-de-dynamic.horizon.tv/ChannelLogos/02/tnt_serie_2.png" xmltv_id="TNT Serie">TNT Serie</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_427555366998__https://wp26-images-de-dynamic.horizon.tv/ChannelLogos/02/13th_street.png" xmltv_id="13th Street">13th Street</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_427555367003__https://wp4-images-de-dynamic.horizon.tv/ChannelLogos/02/syfy_v2.png" xmltv_id="SYFY">SYFY</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_427555367000__https://wp13-images-de-dynamic.horizon.tv/ChannelLogos/02/fox_2.png" xmltv_id="Fox Serie">Fox Serie</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503181__https://wp5-images-de-dynamic.horizon.tv/ChannelLogos/02/kabel_eins_classics.png" xmltv_id="kabel eins classics">kabel eins classics</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_427555366996__https://wp28-images-de-dynamic.horizon.tv/ChannelLogos/02/rtl_crime_2.png" xmltv_id="RTL Crime">RTL Crime</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503121__https://wp25-images-de-dynamic.horizon.tv/ChannelLogos/02/kinowelt_tv.png" xmltv_id="Kinowelt TV">Kinowelt TV</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503007__https://wp21-images-de-dynamic.horizon.tv/ChannelLogos/02/axn_1.png" xmltv_id="AXN Action">AXN Action</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438502993__https://wp9-images-de-dynamic.horizon.tv/ChannelLogos/02/prosieben_fun.png" xmltv_id="ProSieben FUN">ProSieben FUN</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_532730407298__https://wp21-images-de-dynamic.horizon.tv/ChannelLogos/02/universal_tv.png" xmltv_id="UNIVERSAL TV">UNIVERSAL TV</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503091__https://wp27-images-de-dynamic.horizon.tv/ChannelLogos/02/silverline.png" xmltv_id="Silverline Movie Channel">Silverline Movie Channel</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503107__https://wp27-images-de-dynamic.horizon.tv/ChannelLogos/02/sat1_emotions2.png" xmltv_id="Sat1 Emotions">Sat1 Emotions</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503074__https://wp23-images-de-dynamic.horizon.tv/ChannelLogos/02/romance_tv_1.png" xmltv_id="Romance TV">Romance TV</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503056__https://wp27-images-de-dynamic.horizon.tv/ChannelLogos/02/tnt_comedy.png" xmltv_id="TNT Comedy">TNT Comedy</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_616178215133__https://wp27-images-de-dynamic.horizon.tv/ChannelLogos/02/sony_channel_2.png" xmltv_id="SONY CHANNEL">SONY CHANNEL</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_427555366993__https://wp21-images-de-dynamic.horizon.tv/ChannelLogos/02/rtl_passion_1.png" xmltv_id="RTL Passion">RTL Passion</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_342736423083__https://wp25-images-de-dynamic.horizon.tv/ChannelLogos/02/ginx_1.png" xmltv_id="Ginx TV">Ginx TV</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438502968__https://wp1-images-de-dynamic.horizon.tv/ChannelLogos/02/sport1_1.png" xmltv_id="SPORT1">SPORT1</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29609511127__https://wp14-images-de-dynamic.horizon.tv/ChannelLogos/02/eurosport_1.png" xmltv_id="EUROSPORT 1">EUROSPORT 1</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438502965__https://wp18-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_sport_news_v2.png" xmltv_id="Sky Sport News">Sky Sport News</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438502964__https://wp26-images-de-dynamic.horizon.tv/ChannelLogos/02/eurosport_2_1.png" xmltv_id="EUROSPORT 2">EUROSPORT 2</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503161__https://wp9-images-de-dynamic.horizon.tv/ChannelLogos/02/auto_motor_und_sport_channel.png" xmltv_id="Auto Motor und Sport channel">Auto Motor und Sport channel</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_145416231118__https://wp15-images-de-dynamic.horizon.tv/ChannelLogos/02/eSports_1.png" xmltv_id="Sport 1 US">eSPORTS 1</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438502962__https://wp3-images-de-dynamic.horizon.tv/ChannelLogos/02/sportdigital_tv.png" xmltv_id="sportdigital">sportdigital</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_810575911131__https://wp13-images-de-dynamic.horizon.tv/ChannelLogos/02/motorvision.png" xmltv_id="Motorvision">Motorvision</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_465354791385__https://wp7-images-de-dynamic.horizon.tv/ChannelLogos/02/welt.png" xmltv_id="WELT">WELT</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503090__https://wp14-images-de-dynamic.horizon.tv/ChannelLogos/02/phoenix_das_ganze_bild.png" xmltv_id="PHOENIX">PHOENIX</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503069__https://wp9-images-de-dynamic.horizon.tv/ChannelLogos/02/ntv.png" xmltv_id="ntv">ntv</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503029__https://wp8-images-de-dynamic.horizon.tv/ChannelLogos/02/euronews_(d).png" xmltv_id="euronews D">euronews D</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438502971__https://wp25-images-de-dynamic.horizon.tv/ChannelLogos/02/Tagesschau_24_1.png" xmltv_id="tagesschau24">tagesschau24</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503141__https://wp14-images-de-dynamic.horizon.tv/ChannelLogos/02/al_jazeera_international.png" xmltv_id="Al Jazeera International">Al Jazeera International</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503019__https://wp15-images-de-dynamic.horizon.tv/ChannelLogos/02/bloomberg.png" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_513168423284__https://wp24-images-de-dynamic.horizon.tv/ChannelLogos/02/cgtn.png" xmltv_id="CGTN">CGTN</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29609511126__https://wp26-images-de-dynamic.horizon.tv/ChannelLogos/02/cctv_news.png" xmltv_id="CCTV News">CCTV News</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503047__https://wp10-images-de-dynamic.horizon.tv/ChannelLogos/02/cnbc_1.png" xmltv_id="CNBC">CNBC</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503016__https://wp20-images-de-dynamic.horizon.tv/ChannelLogos/02/cnn.png" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_809640999022__https://wp27-images-de-dynamic.horizon.tv/ChannelLogos/02/france_24_(in_english).png" xmltv_id="France 24 in English">France 24 in English</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503140__https://wp14-images-de-dynamic.horizon.tv/ChannelLogos/02/russia_today.png" xmltv_id="Russia Today">Russia Today</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_817724967006__https://wp11-images-de-dynamic.horizon.tv/ChannelLogos/02/nhk_world_japan.png" xmltv_id="NHK WORLDJAPAN">NHK WORLDJAPAN</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_344381479190__https://wp14-images-de-dynamic.horizon.tv/ChannelLogos/02/lust_pur.png" xmltv_id="Lust Pur">Lust Pur</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_581525543055__https://wp26-images-de-dynamic.horizon.tv/ChannelLogos/02/trt_turk.png" xmltv_id="TRT Türk">TRT Türk</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_465354791384__https://wp23-images-de-dynamic.horizon.tv/ChannelLogos/02/haberturk_tv_2.png" xmltv_id="Habertürk">Habertürk</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29436455449__https://wp14-images-de-dynamic.horizon.tv/ChannelLogos/02/atv_avrupa_2.png" xmltv_id="ATV Avrupa">ATV Avrupa</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503178__https://wp8-images-de-dynamic.horizon.tv/ChannelLogos/02/cnn_turk.png" xmltv_id="CNN Türk">CNN Türk</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503150__https://wp1-images-de-dynamic.horizon.tv/ChannelLogos/02/euro_d.png" xmltv_id="EURO D">EURO D</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503028__https://wp25-images-de-dynamic.horizon.tv/ChannelLogos/02/euro_star.png" xmltv_id="EURO STAR">EURO STAR</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503095__https://wp13-images-de-dynamic.horizon.tv/ChannelLogos/02/kanal_7_avrupa.png" xmltv_id="Kanal 7">Kanal 7</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503120__https://wp24-images-de-dynamic.horizon.tv/ChannelLogos/02/power_turk_tv_2.png" xmltv_id="Power Türk TV">Power Türk TV</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438502979__https://wp18-images-de-dynamic.horizon.tv/ChannelLogos/02/show_turk.png" xmltv_id="SHOW TURK">SHOW TURK</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_809639975446__https://wp13-images-de-dynamic.horizon.tv/ChannelLogos/02/tv8_int.png" xmltv_id="TV 8">TV 8</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_562458663440__https://wp26-images-de-dynamic.horizon.tv/ChannelLogos/02/kazakh_tv_2.png" xmltv_id="KAZAKH TV">KAZAKH TV</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503103__https://wp21-images-de-dynamic.horizon.tv/ChannelLogos/02/channel_one_russia.png" xmltv_id="Channel One Russia">Channel One Russia</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438502989__https://wp11-images-de-dynamic.horizon.tv/ChannelLogos/02/kinomir.png" xmltv_id="Nasch Kinomir">Nasch Kinomir</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_563038759251__https://wp19-images-de-dynamic.horizon.tv/ChannelLogos/02/ntv_mir.png" xmltv_id="NTV Mir">NTV Mir</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503013__https://wp5-images-de-dynamic.horizon.tv/ChannelLogos/02/rtr_planeta.png" xmltv_id="RTR Planeta">RTR Planeta</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503031__https://wp20-images-de-dynamic.horizon.tv/ChannelLogos/02/ostwest.png" xmltv_id="OstWest">OstWest</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503042__https://wp5-images-de-dynamic.horizon.tv/ChannelLogos/02/telebom_teledom.png" xmltv_id="Telebom  Tele Dom">Telebom  Tele Dom</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438502984__https://wp6-images-de-dynamic.horizon.tv/ChannelLogos/02/mediaset_italia.png" xmltv_id="Mediaset">Mediaset</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503110__https://wp11-images-de-dynamic.horizon.tv/ChannelLogos/02/rai_uno.png" xmltv_id="Rai Uno">Rai Uno</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503034__https://wp20-images-de-dynamic.horizon.tv/ChannelLogos/02/rai_due.png" xmltv_id="Rai Due">Rai Due</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503015__https://wp7-images-de-dynamic.horizon.tv/ChannelLogos/02/rai_tre.png" xmltv_id="Rai Tre">Rai Tre</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_563038759262__https://wp11-images-de-dynamic.horizon.tv/ChannelLogos/02/rai_news_24_1.png" xmltv_id="Rai News 24">Rai News 24</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_563038759257__https://wp4-images-de-dynamic.horizon.tv/ChannelLogos/02/rai_storia.png" xmltv_id="Rai Storia">Rai Storia</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438502951__https://wp1-images-de-dynamic.horizon.tv/ChannelLogos/02/itvn.png" xmltv_id="itvn">itvn</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503038__https://wp16-images-de-dynamic.horizon.tv/ChannelLogos/02/tvn24.png" xmltv_id="TVN 24">TVN 24</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503054__https://wp28-images-de-dynamic.horizon.tv/ChannelLogos/02/tv_polonia.png" xmltv_id="TV Polonia">TV Polonia</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503106__https://wp28-images-de-dynamic.horizon.tv/ChannelLogos/02/tv_silesia.png" xmltv_id="TV Silesia">TV Silesia</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503012__https://wp11-images-de-dynamic.horizon.tv/ChannelLogos/02/record_internacional_europa.png" xmltv_id="Record Internacional">Record Internacional</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503096__https://wp11-images-de-dynamic.horizon.tv/ChannelLogos/02/canal_24horas.png" xmltv_id="24Horas">24Horas</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29436455450__https://wp11-images-de-dynamic.horizon.tv/ChannelLogos/02/rtpi.png" xmltv_id="RTPi">RTPi</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503060__https://wp10-images-de-dynamic.horizon.tv/ChannelLogos/02/tve_internacional.png" xmltv_id="TVE Internacional">TVE Internacional</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_544215078963__https://wp5-images-de-dynamic.horizon.tv/ChannelLogos/02/ocko.png" xmltv_id="OCKO">OCKO</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_563038759249__https://wp18-images-de-dynamic.horizon.tv/ChannelLogos/02/pro_tv.png" xmltv_id="Pro TV International">Pro TV International</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503105__https://wp4-images-de-dynamic.horizon.tv/ChannelLogos/02/balkanika_1.png" xmltv_id="Balkanika Music Television">Balkanika Music Television</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_563038759261__https://wp5-images-de-dynamic.horizon.tv/ChannelLogos/02/dm_sat.png" xmltv_id="DM SAT">DM SAT</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_427555366988__https://wp12-images-de-dynamic.horizon.tv/ChannelLogos/02/cmc_croatian_music_channel.png" xmltv_id="CMC">CMC</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503014__https://wp15-images-de-dynamic.horizon.tv/ChannelLogos/02/hrt_tv_1.png" xmltv_id="HRT TV 1">HRT TV 1</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503113__https://wp2-images-de-dynamic.horizon.tv/ChannelLogos/02/pink_extra.png" xmltv_id="Pink Extra">Pink Extra</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_563038759255__https://wp7-images-de-dynamic.horizon.tv/ChannelLogos/02/pink_film.png" xmltv_id="Pink Film">Pink Film</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_563038759259__https://wp2-images-de-dynamic.horizon.tv/ChannelLogos/02/pink_folk.png" xmltv_id="Pink FOLK">Pink FOLK</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29436455420__https://wp5-images-de-dynamic.horizon.tv/ChannelLogos/02/pink_music.png" xmltv_id="Pink Music">Pink Music</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29436455448__https://wp5-images-de-dynamic.horizon.tv/ChannelLogos/02/pink_plus.png" xmltv_id="Pink Plus">Pink Plus</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_563038759256__https://wp15-images-de-dynamic.horizon.tv/ChannelLogos/02/rts_sat.png" xmltv_id="RTS Sat">RTS Sat</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_544215078968__https://wp7-images-de-dynamic.horizon.tv/ChannelLogos/02/bn_tv.png" xmltv_id="BN TV">BN TV</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_513168423283__https://wp10-images-de-dynamic.horizon.tv/ChannelLogos/02/rtcg_sat.png" xmltv_id="TV Crne Gore Sat">TV Crne Gore Sat</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29609511121__https://wp26-images-de-dynamic.horizon.tv/ChannelLogos/02/ntv_hayat.png" xmltv_id="Hayat TV">Hayat TV</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_544215078992__https://wp18-images-de-dynamic.horizon.tv/ChannelLogos/02/klan_kosova.png" xmltv_id="Klan Kosova">Klan Kosova</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_563038759265__https://wp8-images-de-dynamic.horizon.tv/ChannelLogos/02/ktv_1.png" xmltv_id="Kohavision TV">Kohavision TV</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_563038759260__https://wp8-images-de-dynamic.horizon.tv/ChannelLogos/02/rtk_1.png" xmltv_id="RTK1">RTK1</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_563038759263__https://wp10-images-de-dynamic.horizon.tv/ChannelLogos/02/rtv_21.png" xmltv_id="RTV21">RTV21</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_551261735067__https://wp24-images-de-dynamic.horizon.tv/ChannelLogos/02/bvn.png" xmltv_id="BVN">BVN</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503145__https://wp6-images-de-dynamic.horizon.tv/ChannelLogos/02/tv5monde_europe.png" xmltv_id="TV5MONDE Europe">TV5MONDE Europe</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503010__https://wp9-images-de-dynamic.horizon.tv/ChannelLogos/02/france_2_1.png" xmltv_id="France 2">France 2</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438502988__https://wp21-images-de-dynamic.horizon.tv/ChannelLogos/02/france_3_1.png" xmltv_id="France 3">France 3</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_563038759258__https://wp21-images-de-dynamic.horizon.tv/ChannelLogos/02/france_4_1.png" xmltv_id="France 4">France 4</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503070__https://wp7-images-de-dynamic.horizon.tv/ChannelLogos/02/france_5_1.png" xmltv_id="France 5">France 5</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_834825255156__https://wp20-images-de-dynamic.horizon.tv/ChannelLogos/02/france_24_(en_francais).png" xmltv_id="France 24 en francais">France 24 en francais</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503133__https://wp7-images-de-dynamic.horizon.tv/ChannelLogos/02/al_jazeera_arabic.png" xmltv_id="Al Jazeera">Al Jazeera</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_563038759264__https://wp19-images-de-dynamic.horizon.tv/ChannelLogos/02/al_arabiya.png" xmltv_id="Al Arabiya">Al Arabiya</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503018__https://wp4-images-de-dynamic.horizon.tv/ChannelLogos/02/mbc_europe.png" xmltv_id="MBC Maghreb al Arabia">MBC Maghreb al Arabia</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29436455433__https://wp13-images-de-dynamic.horizon.tv/ChannelLogos/02/antenna_1_europe.png" xmltv_id="Antenna TV Ant 1">Antenna TV Ant 1</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503030__https://wp26-images-de-dynamic.horizon.tv/ChannelLogos/02/ert_world_1.png" xmltv_id="ERT World">ERT World</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_432862759165__https://wp12-images-de-dynamic.horizon.tv/ChannelLogos/02/jstv.png" xmltv_id="JSTV">JSTV</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_761023015387__https://wp17-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_1_hd.png" xmltv_id="Sky 1 HD">Sky 1 HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503036__https://wp15-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_atlantic_hd_1.png" xmltv_id="Sky Atlantic HD">Sky Atlantic HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503111__https://wp23-images-de-dynamic.horizon.tv/ChannelLogos/02/fox_2.png" xmltv_id="Fox HD S">Fox HD S</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503062__https://wp28-images-de-dynamic.horizon.tv/ChannelLogos/02/tnt_serie_hd_2.png" xmltv_id="TNT Serie HD S">TNT Serie HD S</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438502992__https://wp22-images-de-dynamic.horizon.tv/ChannelLogos/02/nat_geo_hd_1.png" xmltv_id="NatGeo HD S">NatGeo HD S</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503085__https://wp3-images-de-dynamic.horizon.tv/ChannelLogos/02/nat_geo_wild_3.png" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438502998__https://wp14-images-de-dynamic.horizon.tv/ChannelLogos/02/discovery_hd.png" xmltv_id="Discovery HD S">Discovery HD S</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_761023015392__https://wp20-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_1.png" xmltv_id="Sky 1">Sky 1</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503072__https://wp10-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_krimi_1.png" xmltv_id="Sky Krimi">Sky Krimi</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_342570535346__https://wp23-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_atlantic_1.png" xmltv_id="Sky Atlantic">Sky Atlantic</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503112__https://wp22-images-de-dynamic.horizon.tv/ChannelLogos/02/fox_2.png" xmltv_id="Fox Serie S">Fox Serie S</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503065__https://wp25-images-de-dynamic.horizon.tv/ChannelLogos/02/tnt_serie_2.png" xmltv_id="TNT Serie S">TNT Serie S</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_844305447252__https://wp12-images-de-dynamic.horizon.tv/ChannelLogos/02/universal_tv.png" xmltv_id="Universal TV">Universal TV</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503115__https://wp18-images-de-dynamic.horizon.tv/ChannelLogos/02/syfy_v2.png" xmltv_id="SYFY S">SYFY S</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503167__https://wp22-images-de-dynamic.horizon.tv/ChannelLogos/02/13th_street.png" xmltv_id="13th Street S">13th Street S</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_844304935318__https://wp6-images-de-dynamic.horizon.tv/ChannelLogos/02/tnt_comedy.png" xmltv_id="TNT Comedy">TNT Comedy</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29436455431__https://wp20-images-de-dynamic.horizon.tv/ChannelLogos/02/beate_uhse_tv.png" xmltv_id="BeateUhseTV">BeateUhseTV</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438502995__https://wp7-images-de-dynamic.horizon.tv/ChannelLogos/02/heimatkanal_1.png" xmltv_id="Heimatkanal">Heimatkanal</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503039__https://wp5-images-de-dynamic.horizon.tv/ChannelLogos/02/romance_tv_1.png" xmltv_id="Romance TV">Romance TV</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29436455424__https://wp6-images-de-dynamic.horizon.tv/ChannelLogos/02/stingray_classica.png" xmltv_id="Classica">Classica</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503078__https://wp17-images-de-dynamic.horizon.tv/ChannelLogos/02/disney_xd_1.png" xmltv_id="Disney XD S">Disney XD S</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503109__https://wp12-images-de-dynamic.horizon.tv/ChannelLogos/02/disney_junior_22.png" xmltv_id="Disney Junior S">Disney Junior S</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503108__https://wp28-images-de-dynamic.horizon.tv/ChannelLogos/02/Junior_3.png" xmltv_id="Junior">Junior</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438502997__https://wp13-images-de-dynamic.horizon.tv/ChannelLogos/02/discovery_channel.png" xmltv_id="Discovery Channel S">Discovery Channel S</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438502996__https://wp14-images-de-dynamic.horizon.tv/ChannelLogos/02/nat_geo_1.png" xmltv_id="National Geographic S">National Geographic S</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503086__https://wp13-images-de-dynamic.horizon.tv/ChannelLogos/02/nat_geo_wild_3.png" xmltv_id="NatGeo Wild">NatGeo Wild</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438502986__https://wp5-images-de-dynamic.horizon.tv/ChannelLogos/02/spiegel_geschichte_1.png" xmltv_id="Spiegel Geschichte">Spiegel Geschichte</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438502975__https://wp18-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_cinema_hd_v2.png" xmltv_id="Sky Cinema HD">Sky Cinema HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438502960__https://wp18-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_cinema_hits_hd_9.png" xmltv_id="Sky Cinema Hits HD">Sky Cinema Hits HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_342570535345__https://wp24-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_cinema_action_hd_v3.png" xmltv_id="Sky Cinema Action HD">Sky Cinema Action HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29436455438__https://wp13-images-de-dynamic.horizon.tv/ChannelLogos/02/disney_cinemagic_hd.png" xmltv_id="Disney Cinemagic HD">Disney Cinemagic HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438502974__https://wp21-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_cinema_v2.png" xmltv_id="Sky Cinema">Sky Cinema</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503092__https://wp15-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_cinema_plus1.png" xmltv_id="Sky Cinema 1">Sky Cinema 1</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438502977__https://wp13-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_cinema_plus24.png" xmltv_id="Sky Cinema 24">Sky Cinema 24</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438502959__https://wp1-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_cinema_hits_9.png" xmltv_id="Sky Cinema Hits">Sky Cinema Hits</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438502991__https://wp11-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_cinema_action_v3.png" xmltv_id="Sky Cinema Action">Sky Cinema Action</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_761023015393__https://wp28-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_cinema_family2.png" xmltv_id="Sky Cinema Family">Sky Cinema Family</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503104__https://wp8-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_cinema_comedy.png" xmltv_id="Sky Cinema Comedy">Sky Cinema Comedy</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503179__https://wp12-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_cinema_emotion_v2.png" xmltv_id="Sky Cinema Emotion">Sky Cinema Emotion</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_561410599035__https://wp1-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_cinema_nostalgie.png" xmltv_id="Sky Cinema Nostalgie">Sky Cinema Nostalgie</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29436455412__https://wp22-images-de-dynamic.horizon.tv/ChannelLogos/02/disney_cinemagic.png" xmltv_id="Disney Cinemagic">Disney Cinemagic</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_119414823226__https://wp4-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_sport_buli_1_hd.png" xmltv_id="Sky Sport Bundesliga 1 HD">Sky Sport Bundesliga 1 HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_97245734975__https://wp19-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_sport_buli_2_hd.png" xmltv_id="Sky Sport Bundesliga 2 HD">Sky Sport Bundesliga 2 HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_97245734976__https://wp27-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_sport_buli_3_hd.png" xmltv_id="Sky Sport Bundesliga 3 HD">Sky Sport Bundesliga 3 HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_97245734977__https://wp7-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_sport_buli_4_hd.png" xmltv_id="Sky Sport Bundesliga 4 HD">Sky Sport Bundesliga 4 HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503044__https://wp28-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_sport_1_hd.png" xmltv_id="Sky Sport 1 HD">Sky Sport 1 HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438502955__https://wp14-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_sport_2_hd_v1.png" xmltv_id="Sky Sport 2 HD">Sky Sport 2 HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_97245734979__https://wp26-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_sport_3_hd.png" xmltv_id="Sky Sport 3 HD">Sky Sport 3 HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_97245734980__https://wp10-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_sport_4_hd.png" xmltv_id="Sky Sport 4 HD">Sky Sport 4 HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_97245734978__https://wp23-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_sport_5_hd.png" xmltv_id="Sky Sport 5 HD">Sky Sport 5 HD</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29436455406__https://wp8-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_sport_buli_1.png" xmltv_id="Sky Sport Bundesliga 1">Sky Sport Bundesliga 1</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29436455417__https://wp23-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_sport_buli_2.png" xmltv_id="Sky Sport Bundesliga 2">Sky Sport Bundesliga 2</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29436455415__https://wp4-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_sport_buli_3.png" xmltv_id="Sky Sport Bundesliga 3">Sky Sport Bundesliga 3</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29436455402__https://wp3-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_sport_buli_4.png" xmltv_id="Sky Sport Bundesliga 4">Sky Sport Bundesliga 4</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29436455413__https://wp22-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_sport_buli_5.png" xmltv_id="Sky Sport Bundesliga 5">Sky Sport Bundesliga 5</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29436455408__https://wp2-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_sport_buli_6.png" xmltv_id="Sky Sport Bundesliga 6">Sky Sport Bundesliga 6</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29436455397__https://wp12-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_sport_buli_7.png" xmltv_id="Sky Sport Bundesliga 7">Sky Sport Bundesliga 7</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29436455416__https://wp19-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_sport_buli_8.png" xmltv_id="Sky Sport Bundesliga 8">Sky Sport Bundesliga 8</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_119414823225__https://wp2-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_sport_buli_9.png" xmltv_id="Sky Sport Bundesliga 9">Sky Sport Bundesliga 9</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_119414823224__https://wp27-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_sport_buli_10.png" xmltv_id="Sky Sport Bundesliga 10">Sky Sport Bundesliga 10</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438502956__https://wp14-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_sport_1_v2.png" xmltv_id="Sky Sport 1">Sky Sport 1</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438502957__https://wp14-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_sport_2_v3.png" xmltv_id="Sky Sport 2">Sky Sport 2</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29436455407__https://wp21-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_sport_3_v2.png" xmltv_id="Sky Sport 3">Sky Sport 3</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29436455414__https://wp4-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_sport_4_v2.png" xmltv_id="Sky Sport 4">Sky Sport 4</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29436455409__https://wp2-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_sport_6_v2.png" xmltv_id="Sky Sport 6">Sky Sport 6</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29436455398__https://wp5-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_sport_7_v2.png" xmltv_id="Sky Sport 7">Sky Sport 7</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29436455404__https://wp1-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_sport_10_v2.png" xmltv_id="Sky Sport 10">Sky Sport 10</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29436455418__https://wp8-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_sport_11_v2.png" xmltv_id="Sky Sport 11">Sky Sport 11</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_29438503154__https://wp24-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_sport_austria_v2.png" xmltv_id="Sky Sport Austria">Sky Sport Austria</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_834825767113__https://wp16-images-de-dynamic.horizon.tv/ChannelLogos/02/eurosport_360_hd.png" xmltv_id="Eurosport360 HD 1 S">Eurosport360 HD 1 S</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_834825767114__https://wp14-images-de-dynamic.horizon.tv/ChannelLogos/02/eurosport_360_hd.png" xmltv_id="Eurosport360 HD 2 S">Eurosport360 HD 2 S</channel>
+    <channel update="i" site="horizon.tv" site_id="DE/deu_834825255157__https://wp26-images-de-dynamic.horizon.tv/ChannelLogos/02/eurosport_360_hd.png" xmltv_id="Eurosport360 HD 3 S">Eurosport360 HD 3 S</channel>
+  </channels>
+</site>
