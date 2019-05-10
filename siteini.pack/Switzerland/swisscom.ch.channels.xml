@@ -1,0 +1,789 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.7 -- Jan van Straaten" site="swisscom.ch">
+  <channels>
+    <channel update="i" site="swisscom.ch" site_id="1221" xmltv_id="Teleclub Zoom D">Teleclub Zoom D</channel>
+    <channel update="i" site="swisscom.ch" site_id="399" xmltv_id="SRF 1">SRF 1</channel>
+    <channel update="i" site="swisscom.ch" site_id="401" xmltv_id="SRF zwei">SRF zwei</channel>
+    <channel update="i" site="swisscom.ch" site_id="400" xmltv_id="SRF info">SRF info</channel>
+    <channel update="i" site="swisscom.ch" site_id="25" xmltv_id="Das Erste">Das Erste</channel>
+    <channel update="i" site="swisscom.ch" site_id="656" xmltv_id="ZDF">ZDF</channel>
+    <channel update="i" site="swisscom.ch" site_id="303" xmltv_id="ORF eins">ORF eins</channel>
+    <channel update="i" site="swisscom.ch" site_id="302" xmltv_id="ORF 2">ORF 2</channel>
+    <channel update="i" site="swisscom.ch" site_id="360" xmltv_id="RTL CH">RTL CH</channel>
+    <channel update="i" site="swisscom.ch" site_id="322" xmltv_id="Pro7 CH">Pro7 CH</channel>
+    <channel update="i" site="swisscom.ch" site_id="375" xmltv_id="Sat.1 CH">Sat.1 CH</channel>
+    <channel update="i" site="swisscom.ch" site_id="4" xmltv_id="3+">3+</channel>
+    <channel update="i" site="swisscom.ch" site_id="7" xmltv_id="4+">4+</channel>
+    <channel update="i" site="swisscom.ch" site_id="651" xmltv_id="VOX CH">VOX CH</channel>
+    <channel update="i" site="swisscom.ch" site_id="359" xmltv_id="RTL 2 CH">RTL 2 CH</channel>
+    <channel update="i" site="swisscom.ch" site_id="226" xmltv_id="Kabel eins CH">Kabel eins CH</channel>
+    <channel update="i" site="swisscom.ch" site_id="136" xmltv_id="DMAX CH">DMAX CH</channel>
+    <channel update="i" site="swisscom.ch" site_id="325" xmltv_id="Puls 8 HD">Puls 8 HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="27" xmltv_id="Arte Deutsch">Arte Deutsch</channel>
+    <channel update="i" site="swisscom.ch" site_id="6" xmltv_id="3sat CH">3sat CH</channel>
+    <channel update="i" site="swisscom.ch" site_id="634" xmltv_id="TV24 HD">TV24 HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="374" xmltv_id="S1 HD">S1 HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="8" xmltv_id="5+ HD">5+ HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="665" xmltv_id="TV25 HD">TV25 HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="585" xmltv_id="Tele Züri">Tele Züri</channel>
+    <channel update="i" site="swisscom.ch" site_id="572" xmltv_id="Tele Bärn">Tele Bärn</channel>
+    <channel update="i" site="swisscom.ch" site_id="575" xmltv_id="Tele M1">Tele M1</channel>
+    <channel update="i" site="swisscom.ch" site_id="570" xmltv_id="Tele 1">Tele 1</channel>
+    <channel update="i" site="swisscom.ch" site_id="586" xmltv_id="Telebasel">Telebasel</channel>
+    <channel update="i" site="swisscom.ch" site_id="641" xmltv_id="TVO">TVO</channel>
+    <channel update="i" site="swisscom.ch" site_id="579" xmltv_id="Tele Top">Tele Top</channel>
+    <channel update="i" site="swisscom.ch" site_id="621" xmltv_id="TV Südostschweiz">TV Südostschweiz</channel>
+    <channel update="i" site="swisscom.ch" site_id="583" xmltv_id="Tele Z">Tele Z</channel>
+    <channel update="i" site="swisscom.ch" site_id="227" xmltv_id="Kanal 9">Kanal 9</channel>
+    <channel update="i" site="swisscom.ch" site_id="573" xmltv_id="Tele Bielingue">Tele Bielingue</channel>
+    <channel update="i" site="swisscom.ch" site_id="382" xmltv_id="Schaffhauser Fernsehen">Schaffhauser Fernsehen</channel>
+    <channel update="i" site="swisscom.ch" site_id="381" xmltv_id="Servus TV">Servus TV</channel>
+    <channel update="i" site="swisscom.ch" site_id="1223" xmltv_id="Swiss 1 HD">Swiss 1 HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1469" xmltv_id="6+ HD">6+ HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="405" xmltv_id="Star TV">Star TV</channel>
+    <channel update="i" site="swisscom.ch" site_id="363" xmltv_id="Nitro CH">Nitro CH</channel>
+    <channel update="i" site="swisscom.ch" site_id="323" xmltv_id="Pro7 Maxx CH">Pro7 Maxx CH</channel>
+    <channel update="i" site="swisscom.ch" site_id="24" xmltv_id="Anixe HD">Anixe HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="32" xmltv_id="AXN Deutschland">AXN Deutschland</channel>
+    <channel update="i" site="swisscom.ch" site_id="571" xmltv_id="Tele 5">Tele 5</channel>
+    <channel update="i" site="swisscom.ch" site_id="385" xmltv_id="Sixx CH">Sixx CH</channel>
+    <channel update="i" site="swisscom.ch" site_id="377" xmltv_id="Sat.1 Gold CH">Sat.1 Gold CH</channel>
+    <channel update="i" site="swisscom.ch" site_id="607" xmltv_id="TLC CH">TLC CH</channel>
+    <channel update="i" site="swisscom.ch" site_id="919" xmltv_id="RTL Plus">RTL Plus</channel>
+    <channel update="i" site="swisscom.ch" site_id="1399" xmltv_id="Kinowelt HD">Kinowelt HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1254" xmltv_id="eo TV">eo TV</channel>
+    <channel update="i" site="swisscom.ch" site_id="414" xmltv_id="SWR">SWR</channel>
+    <channel update="i" site="swisscom.ch" site_id="55" xmltv_id="BR">BR</channel>
+    <channel update="i" site="swisscom.ch" site_id="654" xmltv_id="WDR">WDR</channel>
+    <channel update="i" site="swisscom.ch" site_id="286" xmltv_id="NDR">NDR</channel>
+    <channel update="i" site="swisscom.ch" site_id="205" xmltv_id="HR">HR</channel>
+    <channel update="i" site="swisscom.ch" site_id="256" xmltv_id="MDR">MDR</channel>
+    <channel update="i" site="swisscom.ch" site_id="342" xmltv_id="RBB">RBB</channel>
+    <channel update="i" site="swisscom.ch" site_id="659" xmltv_id="ZDFneo">ZDFneo</channel>
+    <channel update="i" site="swisscom.ch" site_id="658" xmltv_id="ZDFinfo">ZDFinfo</channel>
+    <channel update="i" site="swisscom.ch" site_id="1040" xmltv_id="Channel 55">Channel 55</channel>
+    <channel update="i" site="swisscom.ch" site_id="147" xmltv_id="One">One</channel>
+    <channel update="i" site="swisscom.ch" site_id="1222" xmltv_id="ORF 3">ORF 3</channel>
+    <channel update="i" site="swisscom.ch" site_id="1502" xmltv_id="SR Fernsehen HD">SR Fernsehen HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1216" xmltv_id="Auftanken TV HD">Auftanken TV HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="26" xmltv_id="ARD-alpha">ARD-alpha</channel>
+    <channel update="i" site="swisscom.ch" site_id="277" xmltv_id="WELT CH">WELT CH</channel>
+    <channel update="i" site="swisscom.ch" site_id="297" xmltv_id="n-tv CH">n-tv CH</channel>
+    <channel update="i" site="swisscom.ch" site_id="307" xmltv_id="Phoenix TV">Phoenix TV</channel>
+    <channel update="i" site="swisscom.ch" site_id="396" xmltv_id="Spiegel TV Wissen">Spiegel TV Wissen</channel>
+    <channel update="i" site="swisscom.ch" site_id="163" xmltv_id="Euronews D">Euronews D</channel>
+    <channel update="i" site="swisscom.ch" site_id="417" xmltv_id="Tagesschau24">Tagesschau24</channel>
+    <channel update="i" site="swisscom.ch" site_id="1447" xmltv_id="DW Deutsch">DW Deutsch</channel>
+    <channel update="i" site="swisscom.ch" site_id="920" xmltv_id="kabel eins Doku CH">kabel eins Doku CH</channel>
+    <channel update="i" site="swisscom.ch" site_id="1030" xmltv_id="N24 Doku">N24 Doku</channel>
+    <channel update="i" site="swisscom.ch" site_id="167" xmltv_id="Eurosport 1 D">Eurosport 1 D</channel>
+    <channel update="i" site="swisscom.ch" site_id="170" xmltv_id="Eurosport 2 D">Eurosport 2 D</channel>
+    <channel update="i" site="swisscom.ch" site_id="398" xmltv_id="Sport1 CH">Sport1 CH</channel>
+    <channel update="i" site="swisscom.ch" site_id="1033" xmltv_id="Sky Sport News HD">Sky Sport News HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="411" xmltv_id="Super RTL CH">Super RTL CH</channel>
+    <channel update="i" site="swisscom.ch" site_id="289" xmltv_id="Nick CH">Nick CH</channel>
+    <channel update="i" site="swisscom.ch" site_id="228" xmltv_id="KiKa">KiKa</channel>
+    <channel update="i" site="swisscom.ch" site_id="128" xmltv_id="Disney Channel D">Disney Channel D</channel>
+    <channel update="i" site="swisscom.ch" site_id="110" xmltv_id="Comedy Central CH">Comedy Central CH</channel>
+    <channel update="i" site="swisscom.ch" site_id="350" xmltv_id="RIC TV">RIC TV</channel>
+    <channel update="i" site="swisscom.ch" site_id="918" xmltv_id="Toggo Plus">Toggo Plus</channel>
+    <channel update="i" site="swisscom.ch" site_id="1325" xmltv_id="Session National Council">Session National Council</channel>
+    <channel update="i" site="swisscom.ch" site_id="1326" xmltv_id="Session Council Of States">Session Council Of States</channel>
+    <channel update="i" site="swisscom.ch" site_id="268" xmltv_id="MTV CH">MTV CH</channel>
+    <channel update="i" site="swisscom.ch" site_id="149" xmltv_id="Energy TV HD">Energy TV HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="17" xmltv_id="Deluxe Music">Deluxe Music</channel>
+    <channel update="i" site="swisscom.ch" site_id="1489" xmltv_id="RTL 102.5 TV HD">RTL 102.5 TV HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1499" xmltv_id="Radionorba TV">Radionorba TV</channel>
+    <channel update="i" site="swisscom.ch" site_id="604" xmltv_id="The Box">The Box</channel>
+    <channel update="i" site="swisscom.ch" site_id="391" xmltv_id="Kerrang!">Kerrang!</channel>
+    <channel update="i" site="swisscom.ch" site_id="91" xmltv_id="Chart Show TV">Chart Show TV</channel>
+    <channel update="i" site="swisscom.ch" site_id="105" xmltv_id="Clubland TV">Clubland TV</channel>
+    <channel update="i" site="swisscom.ch" site_id="201" xmltv_id="Box Upfront">Box Upfront</channel>
+    <channel update="i" site="swisscom.ch" site_id="230" xmltv_id="Kiss TV">Kiss TV</channel>
+    <channel update="i" site="swisscom.ch" site_id="94" xmltv_id="Now 90s">Now 90s</channel>
+    <channel update="i" site="swisscom.ch" site_id="616" xmltv_id="Trace Tropical">Trace Tropical</channel>
+    <channel update="i" site="swisscom.ch" site_id="1079" xmltv_id="Trace Urban">Trace Urban</channel>
+    <channel update="i" site="swisscom.ch" site_id="121" xmltv_id="Deutsches Musik Fernsehen">Deutsches Musik Fernsehen</channel>
+    <channel update="i" site="swisscom.ch" site_id="308" xmltv_id="Pilatus Beatz HD">Pilatus Beatz HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="18" xmltv_id="Alpenland TV">Alpenland TV</channel>
+    <channel update="i" site="swisscom.ch" site_id="100" xmltv_id="CCONE">CCONE</channel>
+    <channel update="i" site="swisscom.ch" site_id="194" xmltv_id="gotv">gotv</channel>
+    <channel update="i" site="swisscom.ch" site_id="275" xmltv_id="musig24 HD">musig24 HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="180" xmltv_id="folx.tv">folx.tv</channel>
+    <channel update="i" site="swisscom.ch" site_id="1376" xmltv_id="MelodieTV">MelodieTV</channel>
+    <channel update="i" site="swisscom.ch" site_id="1257" xmltv_id="Stingray Festival 4K UHD">Stingray Festival 4K UHD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1031" xmltv_id="Zee One HD">Zee One HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="143" xmltv_id="E! Entertainment Deutschland">E! Entertainment Deutschland</channel>
+    <channel update="i" site="swisscom.ch" site_id="378" xmltv_id="Schweiz 5">Schweiz 5</channel>
+    <channel update="i" site="swisscom.ch" site_id="1272" xmltv_id="Wetter.TV HD">Wetter.TV HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1224" xmltv_id="Game TV HD">Game TV HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1269" xmltv_id="TV4TNG HD">TV4TNG HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="655" xmltv_id="Welt der Wunder TV HD">Welt der Wunder TV HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1468" xmltv_id="Televista HD">Televista HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="116" xmltv_id="Info TV Davos Klosters HD">Info TV Davos Klosters HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="630" xmltv_id="TV Rheintal">TV Rheintal</channel>
+    <channel update="i" site="swisscom.ch" site_id="49" xmltv_id="Bodensee TV HD">Bodensee TV HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="584" xmltv_id="Tele Zentralschweiz HD">Tele Zentralschweiz HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="574" xmltv_id="Tele D HD">Tele D HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="326" xmltv_id="R9 Österreich HD">R9 Österreich HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="628" xmltv_id="TV Oberwallis HD">TV Oberwallis HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="904" xmltv_id="regioTVplus HD">regioTVplus HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1027" xmltv_id="Loly TV">Loly TV</channel>
+    <channel update="i" site="swisscom.ch" site_id="1377" xmltv_id="ALF-TV HD">ALF-TV HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="44" xmltv_id="Bibel TV">Bibel TV</channel>
+    <channel update="i" site="swisscom.ch" site_id="233" xmltv_id="K-TV">K-TV</channel>
+    <channel update="i" site="swisscom.ch" site_id="204" xmltv_id="Hope Channel">Hope Channel</channel>
+    <channel update="i" site="swisscom.ch" site_id="207" xmltv_id="HSE 24">HSE 24</channel>
+    <channel update="i" site="swisscom.ch" site_id="1337" xmltv_id="LATINOS 1 HD">LATINOS 1 HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="37" xmltv_id="BBC One">BBC One</channel>
+    <channel update="i" site="swisscom.ch" site_id="39" xmltv_id="BBC Two">BBC Two</channel>
+    <channel update="i" site="swisscom.ch" site_id="902" xmltv_id="Drama">Drama</channel>
+    <channel update="i" site="swisscom.ch" site_id="35" xmltv_id="BBC Four">BBC Four</channel>
+    <channel update="i" site="swisscom.ch" site_id="218" xmltv_id="itv 1">itv 1</channel>
+    <channel update="i" site="swisscom.ch" site_id="219" xmltv_id="itv 2">itv 2</channel>
+    <channel update="i" site="swisscom.ch" site_id="220" xmltv_id="itv 3">itv 3</channel>
+    <channel update="i" site="swisscom.ch" site_id="221" xmltv_id="itv 4">itv 4</channel>
+    <channel update="i" site="swisscom.ch" site_id="1400" xmltv_id="ITV Be">ITV Be</channel>
+    <channel update="i" site="swisscom.ch" site_id="89" xmltv_id="Channel 4">Channel 4</channel>
+    <channel update="i" site="swisscom.ch" site_id="262" xmltv_id="More 4">More 4</channel>
+    <channel update="i" site="swisscom.ch" site_id="178" xmltv_id="Five">Five</channel>
+    <channel update="i" site="swisscom.ch" site_id="146" xmltv_id="E4">E4</channel>
+    <channel update="i" site="swisscom.ch" site_id="176" xmltv_id="Film Four">Film Four</channel>
+    <channel update="i" site="swisscom.ch" site_id="1258" xmltv_id="4K Universe UHD">4K Universe UHD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1375" xmltv_id="Love Nature 4K UHD">Love Nature 4K UHD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1410" xmltv_id="5Spike">5Spike</channel>
+    <channel update="i" site="swisscom.ch" site_id="1404" xmltv_id="PBS America">PBS America</channel>
+    <channel update="i" site="swisscom.ch" site_id="107" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="swisscom.ch" site_id="40" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="swisscom.ch" site_id="36" xmltv_id="BBC News HD">BBC News HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="390" xmltv_id="Sky News International">Sky News International</channel>
+    <channel update="i" site="swisscom.ch" site_id="106" xmltv_id="CNBC Europe">CNBC Europe</channel>
+    <channel update="i" site="swisscom.ch" site_id="15" xmltv_id="Al Jazeera English HD">Al Jazeera English HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="46" xmltv_id="Bloomberg TV">Bloomberg TV</channel>
+    <channel update="i" site="swisscom.ch" site_id="164" xmltv_id="Euronews E">Euronews E</channel>
+    <channel update="i" site="swisscom.ch" site_id="373" xmltv_id="Russia Today">Russia Today</channel>
+    <channel update="i" site="swisscom.ch" site_id="287" xmltv_id="NHK World HD">NHK World HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="208" xmltv_id="i24 News">i24 News</channel>
+    <channel update="i" site="swisscom.ch" site_id="1243" xmltv_id="CNN Money Switzerland HD">CNN Money Switzerland HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1411" xmltv_id="5USA">5USA</channel>
+    <channel update="i" site="swisscom.ch" site_id="1397" xmltv_id="BBC Parliament">BBC Parliament</channel>
+    <channel update="i" site="swisscom.ch" site_id="1398" xmltv_id="English Club TV HD">English Club TV HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="86" xmltv_id="CBeebies">CBeebies</channel>
+    <channel update="i" site="swisscom.ch" site_id="85" xmltv_id="CBBC">CBBC</channel>
+    <channel update="i" site="swisscom.ch" site_id="666" xmltv_id="Fashion One 4K UHD">Fashion One 4K UHD</channel>
+    <channel update="i" site="swisscom.ch" site_id="175" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel update="i" site="swisscom.ch" site_id="1256" xmltv_id="Fun Box Ultra UHD">Fun Box Ultra UHD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1378" xmltv_id="NASA TV UHD">NASA TV UHD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1292" xmltv_id="Food Network E">Food Network E</channel>
+    <channel update="i" site="swisscom.ch" site_id="1488" xmltv_id="Eurosport 1 E HD">Eurosport 1 E HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="142" xmltv_id="DW Englisch">DW Englisch</channel>
+    <channel update="i" site="swisscom.ch" site_id="1490" xmltv_id="Smithsonian Channel UK HD">Smithsonian Channel UK HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1407" xmltv_id="esportsTV HD">esportsTV HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1408" xmltv_id="Ginx TV HD">Ginx TV HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1406" xmltv_id="ES1 HD">ES1 HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="369" xmltv_id="RTS un">RTS un</channel>
+    <channel update="i" site="swisscom.ch" site_id="367" xmltv_id="RTS deux">RTS deux</channel>
+    <channel update="i" site="swisscom.ch" site_id="601" xmltv_id="TF1 CH">TF1 CH</channel>
+    <channel update="i" site="swisscom.ch" site_id="249" xmltv_id="M6 CH">M6 CH</channel>
+    <channel update="i" site="swisscom.ch" site_id="182" xmltv_id="France 2">France 2</channel>
+    <channel update="i" site="swisscom.ch" site_id="184" xmltv_id="France 3">France 3</channel>
+    <channel update="i" site="swisscom.ch" site_id="185" xmltv_id="France 4">France 4</channel>
+    <channel update="i" site="swisscom.ch" site_id="186" xmltv_id="France 5">France 5</channel>
+    <channel update="i" site="swisscom.ch" site_id="293" xmltv_id="NRJ12">NRJ12</channel>
+    <channel update="i" site="swisscom.ch" site_id="295" xmltv_id="TFX CH">TFX CH</channel>
+    <channel update="i" site="swisscom.ch" site_id="115" xmltv_id="C8 CH">C8 CH</channel>
+    <channel update="i" site="swisscom.ch" site_id="28" xmltv_id="Arte Français">Arte Français</channel>
+    <channel update="i" site="swisscom.ch" site_id="9" xmltv_id="6ter CH">6ter CH</channel>
+    <channel update="i" site="swisscom.ch" site_id="1081" xmltv_id="AB 3">AB 3</channel>
+    <channel update="i" site="swisscom.ch" site_id="244" xmltv_id="Léman Bleu Télévision">Léman Bleu Télévision</channel>
+    <channel update="i" site="swisscom.ch" site_id="242" xmltv_id="La Télé">La Télé</channel>
+    <channel update="i" site="swisscom.ch" site_id="72" xmltv_id="Canal 9">Canal 9</channel>
+    <channel update="i" site="swisscom.ch" site_id="74" xmltv_id="Canal Alpha NE">Canal Alpha NE</channel>
+    <channel update="i" site="swisscom.ch" site_id="73" xmltv_id="Canal Alpha JU">Canal Alpha JU</channel>
+    <channel update="i" site="swisscom.ch" site_id="1395" xmltv_id="La Télé - Fribourg HD">La Télé - Fribourg HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="637" xmltv_id="TV8 Mont Blanc">TV8 Mont Blanc</channel>
+    <channel update="i" site="swisscom.ch" site_id="1128" xmltv_id="Crime District">Crime District</channel>
+    <channel update="i" site="swisscom.ch" site_id="183" xmltv_id="France 24">France 24</channel>
+    <channel update="i" site="swisscom.ch" site_id="43" xmltv_id="BFM TV CH">BFM TV CH</channel>
+    <channel update="i" site="swisscom.ch" site_id="635" xmltv_id="TV5 MONDE EUROPE">TV5 MONDE EUROPE</channel>
+    <channel update="i" site="swisscom.ch" site_id="636" xmltv_id="TV5 Monde FBS">TV5 Monde FBS</channel>
+    <channel update="i" site="swisscom.ch" site_id="165" xmltv_id="Euronews F">Euronews F</channel>
+    <channel update="i" site="swisscom.ch" site_id="42" xmltv_id="BFM Business">BFM Business</channel>
+    <channel update="i" site="swisscom.ch" site_id="1456" xmltv_id="Ajoie TV HD">Ajoie TV HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="209" xmltv_id="i24 News Français">i24 News Français</channel>
+    <channel update="i" site="swisscom.ch" site_id="1064" xmltv_id="franceinfo">franceinfo</channel>
+    <channel update="i" site="swisscom.ch" site_id="1217" xmltv_id="Ultra Nature UHD">Ultra Nature UHD</channel>
+    <channel update="i" site="swisscom.ch" site_id="420" xmltv_id="Teleclub Zoom F">Teleclub Zoom F</channel>
+    <channel update="i" site="swisscom.ch" site_id="41" xmltv_id="BeCurious TV HD">BeCurious TV HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="355" xmltv_id="Rouge TV">Rouge TV</channel>
+    <channel update="i" site="swisscom.ch" site_id="232" xmltv_id="KTO">KTO</channel>
+    <channel update="i" site="swisscom.ch" site_id="253" xmltv_id="Max TV">Max TV</channel>
+    <channel update="i" site="swisscom.ch" site_id="248" xmltv_id="M6 Boutique">M6 Boutique</channel>
+    <channel update="i" site="swisscom.ch" site_id="582" xmltv_id="Genève Région Télévision">Genève Région Télévision</channel>
+    <channel update="i" site="swisscom.ch" site_id="294" xmltv_id="NRTV">NRTV</channel>
+    <channel update="i" site="swisscom.ch" site_id="246" xmltv_id="lfm TV HD">lfm TV HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1328" xmltv_id="Grand Genève TV HD">Grand Genève TV HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1082" xmltv_id="Booster TV">Booster TV</channel>
+    <channel update="i" site="swisscom.ch" site_id="1331" xmltv_id="TV Onex HD">TV Onex HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="640" xmltv_id="TVM3">TVM3</channel>
+    <channel update="i" site="swisscom.ch" site_id="356" xmltv_id="RSI La 1">RSI La 1</channel>
+    <channel update="i" site="swisscom.ch" site_id="357" xmltv_id="RSI LA 2">RSI LA 2</channel>
+    <channel update="i" site="swisscom.ch" site_id="79" xmltv_id="Canale 5">Canale 5</channel>
+    <channel update="i" site="swisscom.ch" site_id="327" xmltv_id="Rai 1">Rai 1</channel>
+    <channel update="i" site="swisscom.ch" site_id="328" xmltv_id="Rai 2">Rai 2</channel>
+    <channel update="i" site="swisscom.ch" site_id="329" xmltv_id="Rai 3">Rai 3</channel>
+    <channel update="i" site="swisscom.ch" site_id="330" xmltv_id="Rai 4">Rai 4</channel>
+    <channel update="i" site="swisscom.ch" site_id="215" xmltv_id="Italia 1">Italia 1</channel>
+    <channel update="i" site="swisscom.ch" site_id="348" xmltv_id="Rete 4">Rete 4</channel>
+    <channel update="i" site="swisscom.ch" site_id="96" xmltv_id="Cielo">Cielo</channel>
+    <channel update="i" site="swisscom.ch" site_id="237" xmltv_id="La 7">La 7</channel>
+    <channel update="i" site="swisscom.ch" site_id="592" xmltv_id="Telelombardia">Telelombardia</channel>
+    <channel update="i" site="swisscom.ch" site_id="80" xmltv_id="Canale Italia">Canale Italia</channel>
+    <channel update="i" site="swisscom.ch" site_id="578" xmltv_id="Tele Ticino">Tele Ticino</channel>
+    <channel update="i" site="swisscom.ch" site_id="1380" xmltv_id="Antenna 3">Antenna 3</channel>
+    <channel update="i" site="swisscom.ch" site_id="335" xmltv_id="Rai News">Rai News</channel>
+    <channel update="i" site="swisscom.ch" site_id="340" xmltv_id="Rai Storia">Rai Storia</channel>
+    <channel update="i" site="swisscom.ch" site_id="166" xmltv_id="Euronews I">Euronews I</channel>
+    <channel update="i" site="swisscom.ch" site_id="1287" xmltv_id="TGCom24">TGCom24</channel>
+    <channel update="i" site="swisscom.ch" site_id="1346" xmltv_id="Focus">Focus</channel>
+    <channel update="i" site="swisscom.ch" site_id="338" xmltv_id="Rai Sport 1">Rai Sport 1</channel>
+    <channel update="i" site="swisscom.ch" site_id="339" xmltv_id="Rai Sport 2">Rai Sport 2</channel>
+    <channel update="i" site="swisscom.ch" site_id="1387" xmltv_id="Sport Italia">Sport Italia</channel>
+    <channel update="i" site="swisscom.ch" site_id="1384" xmltv_id="Motor Trend">Motor Trend</channel>
+    <channel update="i" site="swisscom.ch" site_id="1386" xmltv_id="SuperTennis TV HD">SuperTennis TV HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="51" xmltv_id="Boing I">Boing I</channel>
+    <channel update="i" site="swisscom.ch" site_id="214" xmltv_id="IRIS">IRIS</channel>
+    <channel update="i" site="swisscom.ch" site_id="243" xmltv_id="La5">La5</channel>
+    <channel update="i" site="swisscom.ch" site_id="239" xmltv_id="La 7d">La 7d</channel>
+    <channel update="i" site="swisscom.ch" site_id="1288" xmltv_id="Paramount Channel I">Paramount Channel I</channel>
+    <channel update="i" site="swisscom.ch" site_id="1379" xmltv_id="20 Mediaset HD">20 Mediaset HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1381" xmltv_id="Cine Sony">Cine Sony</channel>
+    <channel update="i" site="swisscom.ch" site_id="1388" xmltv_id="Telecity 7 Gold">Telecity 7 Gold</channel>
+    <channel update="i" site="swisscom.ch" site_id="1382" xmltv_id="Italia Channel">Italia Channel</channel>
+    <channel update="i" site="swisscom.ch" site_id="594" xmltv_id="Telepace">Telepace</channel>
+    <channel update="i" site="swisscom.ch" site_id="593" xmltv_id="Telenova">Telenova</channel>
+    <channel update="i" site="swisscom.ch" site_id="1347" xmltv_id="Spike">Spike</channel>
+    <channel update="i" site="swisscom.ch" site_id="1383" xmltv_id="Marco Polo TV">Marco Polo TV</channel>
+    <channel update="i" site="swisscom.ch" site_id="266" xmltv_id="TV8">TV8</channel>
+    <channel update="i" site="swisscom.ch" site_id="118" xmltv_id="NOVE">NOVE</channel>
+    <channel update="i" site="swisscom.ch" site_id="1291" xmltv_id="Canal Extremadura">Canal Extremadura</channel>
+    <channel update="i" site="swisscom.ch" site_id="639" xmltv_id="TVE Internacional">TVE Internacional</channel>
+    <channel update="i" site="swisscom.ch" site_id="19" xmltv_id="Andalucía Televisión">Andalucía Televisión</channel>
+    <channel update="i" site="swisscom.ch" site_id="71" xmltv_id="Canal 24 Horas">Canal 24 Horas</channel>
+    <channel update="i" site="swisscom.ch" site_id="624" xmltv_id="Televisión de Galicia">Televisión de Galicia</channel>
+    <channel update="i" site="swisscom.ch" site_id="347" xmltv_id="Record TV">Record TV</channel>
+    <channel update="i" site="swisscom.ch" site_id="365" xmltv_id="RTP Internacional">RTP Internacional</channel>
+    <channel update="i" site="swisscom.ch" site_id="383" xmltv_id="Show Türk">Show Türk</channel>
+    <channel update="i" site="swisscom.ch" site_id="30" xmltv_id="ATV Avrupa">ATV Avrupa</channel>
+    <channel update="i" site="swisscom.ch" site_id="161" xmltv_id="Euro D">Euro D</channel>
+    <channel update="i" site="swisscom.ch" site_id="394" xmltv_id="360">360</channel>
+    <channel update="i" site="swisscom.ch" site_id="620" xmltv_id="TRT Türk">TRT Türk</channel>
+    <channel update="i" site="swisscom.ch" site_id="602" xmltv_id="TGRT EU">TGRT EU</channel>
+    <channel update="i" site="swisscom.ch" site_id="638" xmltv_id="TV8 Turkey">TV8 Turkey</channel>
+    <channel update="i" site="swisscom.ch" site_id="320" xmltv_id="Powertürk">Powertürk</channel>
+    <channel update="i" site="swisscom.ch" site_id="162" xmltv_id="Euro Star">Euro Star</channel>
+    <channel update="i" site="swisscom.ch" site_id="1297" xmltv_id="Showmax">Showmax</channel>
+    <channel update="i" site="swisscom.ch" site_id="135" xmltv_id="DM Sat TV">DM Sat TV</channel>
+    <channel update="i" site="swisscom.ch" site_id="324" xmltv_id="PTPC">PTPC</channel>
+    <channel update="i" site="swisscom.ch" site_id="413" xmltv_id="Svet Plus">Svet Plus</channel>
+    <channel update="i" site="swisscom.ch" site_id="358" xmltv_id="RTK1">RTK1</channel>
+    <channel update="i" site="swisscom.ch" site_id="206" xmltv_id="HRT 1">HRT 1</channel>
+    <channel update="i" site="swisscom.ch" site_id="632" xmltv_id="Z1 Televizija">Z1 Televizija</channel>
+    <channel update="i" site="swisscom.ch" site_id="629" xmltv_id="TV Polonia">TV Polonia</channel>
+    <channel update="i" site="swisscom.ch" site_id="139" xmltv_id="Duna TV">Duna TV</channel>
+    <channel update="i" site="swisscom.ch" site_id="321" xmltv_id="Pro TV International">Pro TV International</channel>
+    <channel update="i" site="swisscom.ch" site_id="631" xmltv_id="TV Romania International">TV Romania International</channel>
+    <channel update="i" site="swisscom.ch" site_id="33" xmltv_id="B1 TV">B1 TV</channel>
+    <channel update="i" site="swisscom.ch" site_id="13" xmltv_id="Al Arabiya">Al Arabiya</channel>
+    <channel update="i" site="swisscom.ch" site_id="154" xmltv_id="ESC1 (Al Masriya)">ESC1 (Al Masriya)</channel>
+    <channel update="i" site="swisscom.ch" site_id="3" xmltv_id="2M Monde">2M Monde</channel>
+    <channel update="i" site="swisscom.ch" site_id="14" xmltv_id="Al Jazeera">Al Jazeera</channel>
+    <channel update="i" site="swisscom.ch" site_id="138" xmltv_id="Dubai TV">Dubai TV</channel>
+    <channel update="i" site="swisscom.ch" site_id="56" xmltv_id="BVN TV">BVN TV</channel>
+    <channel update="i" site="swisscom.ch" site_id="351" xmltv_id="RIK Sat">RIK Sat</channel>
+    <channel update="i" site="swisscom.ch" site_id="90" xmltv_id="Channel 1 Russia">Channel 1 Russia</channel>
+    <channel update="i" site="swisscom.ch" site_id="366" xmltv_id="RTR Planeta">RTR Planeta</channel>
+    <channel update="i" site="swisscom.ch" site_id="409" xmltv_id="STS International">STS International</channel>
+    <channel update="i" site="swisscom.ch" site_id="1501" xmltv_id="Hayat Music">Hayat Music</channel>
+    <channel update="i" site="swisscom.ch" site_id="88" xmltv_id="CCTV4">CCTV4</channel>
+    <channel update="i" site="swisscom.ch" site_id="87" xmltv_id="CGTN">CGTN</channel>
+    <channel update="i" site="swisscom.ch" site_id="306" xmltv_id="Phoenix Info News">Phoenix Info News</channel>
+    <channel update="i" site="swisscom.ch" site_id="603" xmltv_id="Thai TV Global Network">Thai TV Global Network</channel>
+    <channel update="i" site="swisscom.ch" site_id="140" xmltv_id="Duna World">Duna World</channel>
+    <channel update="i" site="swisscom.ch" site_id="372" xmltv_id="Rudaw TV HD">Rudaw TV HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="235" xmltv_id="Kurdistan TV">Kurdistan TV</channel>
+    <channel update="i" site="swisscom.ch" site_id="619" xmltv_id="TRT Kurdi">TRT Kurdi</channel>
+    <channel update="i" site="swisscom.ch" site_id="301" xmltv_id="One TV CH HD">One TV CH HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="153" xmltv_id="ERT World">ERT World</channel>
+    <channel update="i" site="swisscom.ch" site_id="1401" xmltv_id="Kuriakos TV HD">Kuriakos TV HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1445" xmltv_id="RTS Svet HD">RTS Svet HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1479" xmltv_id="TRT Spor HD">TRT Spor HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1478" xmltv_id="TRT Belgesel HD">TRT Belgesel HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1477" xmltv_id="TRT Çocuk HD">TRT Çocuk HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1457" xmltv_id="The Israeli Network">The Israeli Network</channel>
+    <channel update="i" site="swisscom.ch" site_id="1481" xmltv_id="OBN TV">OBN TV</channel>
+    <channel update="i" site="swisscom.ch" site_id="1500" xmltv_id="KBS World HD">KBS World HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="669" xmltv_id="UHD1 by ASTRA UHD">UHD1 by ASTRA UHD</channel>
+    <channel update="i" site="swisscom.ch" site_id="667" xmltv_id="Insight UHD">Insight UHD</channel>
+    <channel update="i" site="swisscom.ch" site_id="917" xmltv_id="Vision TV">Vision TV</channel>
+    <channel update="i" site="swisscom.ch" site_id="588" xmltv_id="Teleclub Cinema">Teleclub Cinema</channel>
+    <channel update="i" site="swisscom.ch" site_id="591" xmltv_id="Teleclub Action">Teleclub Action</channel>
+    <channel update="i" site="swisscom.ch" site_id="589" xmltv_id="Teleclub Emotion">Teleclub Emotion</channel>
+    <channel update="i" site="swisscom.ch" site_id="1225" xmltv_id="Teleclub City">Teleclub City</channel>
+    <channel update="i" site="swisscom.ch" site_id="1226" xmltv_id="Teleclub Retro">Teleclub Retro</channel>
+    <channel update="i" site="swisscom.ch" site_id="1123" xmltv_id="Sky 1">Sky 1</channel>
+    <channel update="i" site="swisscom.ch" site_id="386" xmltv_id="Sky Atlantic">Sky Atlantic</channel>
+    <channel update="i" site="swisscom.ch" site_id="181" xmltv_id="Fox">Fox</channel>
+    <channel update="i" site="swisscom.ch" site_id="2" xmltv_id="13th Street">13th Street</channel>
+    <channel update="i" site="swisscom.ch" site_id="415" xmltv_id="Syfy D">Syfy D</channel>
+    <channel update="i" site="swisscom.ch" site_id="610" xmltv_id="TNT Film">TNT Film</channel>
+    <channel update="i" site="swisscom.ch" site_id="612" xmltv_id="TNT Serie">TNT Serie</channel>
+    <channel update="i" site="swisscom.ch" site_id="611" xmltv_id="TNT Comedy">TNT Comedy</channel>
+    <channel update="i" site="swisscom.ch" site_id="389" xmltv_id="Sky Krimi">Sky Krimi</channel>
+    <channel update="i" site="swisscom.ch" site_id="361" xmltv_id="RTL Crime">RTL Crime</channel>
+    <channel update="i" site="swisscom.ch" site_id="1083" xmltv_id="Sony Channel">Sony Channel</channel>
+    <channel update="i" site="swisscom.ch" site_id="305" xmltv_id="RTL Passion">RTL Passion</channel>
+    <channel update="i" site="swisscom.ch" site_id="1124" xmltv_id="Universal TV">Universal TV</channel>
+    <channel update="i" site="swisscom.ch" site_id="1451" xmltv_id="Teleclub Cinemax">Teleclub Cinemax</channel>
+    <channel update="i" site="swisscom.ch" site_id="122" xmltv_id="Discovery Channel D">Discovery Channel D</channel>
+    <channel update="i" site="swisscom.ch" site_id="278" xmltv_id="National Geographic D">National Geographic D</channel>
+    <channel update="i" site="swisscom.ch" site_id="282" xmltv_id="National Geographic Wild D">National Geographic Wild D</channel>
+    <channel update="i" site="swisscom.ch" site_id="20" xmltv_id="Animal Planet D">Animal Planet D</channel>
+    <channel update="i" site="swisscom.ch" site_id="395" xmltv_id="Spiegel Geschichte">Spiegel Geschichte</channel>
+    <channel update="i" site="swisscom.ch" site_id="203" xmltv_id="History HD">History HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="99" xmltv_id="Disney Cinemagic">Disney Cinemagic</channel>
+    <channel update="i" site="swisscom.ch" site_id="133" xmltv_id="Disney XD D">Disney XD D</channel>
+    <channel update="i" site="swisscom.ch" site_id="131" xmltv_id="Disney Junior D">Disney Junior D</channel>
+    <channel update="i" site="swisscom.ch" site_id="224" xmltv_id="Junior">Junior</channel>
+    <channel update="i" site="swisscom.ch" site_id="83" xmltv_id="Cartoon Network D CH">Cartoon Network D CH</channel>
+    <channel update="i" site="swisscom.ch" site_id="54" xmltv_id="Boomerang D">Boomerang D</channel>
+    <channel update="i" site="swisscom.ch" site_id="354" xmltv_id="Romance TV">Romance TV</channel>
+    <channel update="i" site="swisscom.ch" site_id="362" xmltv_id="RTL Living">RTL Living</channel>
+    <channel update="i" site="swisscom.ch" site_id="664" xmltv_id="Heimatkanal">Heimatkanal</channel>
+    <channel update="i" site="swisscom.ch" site_id="1334" xmltv_id="A&amp;E">A&amp;E</channel>
+    <channel update="i" site="swisscom.ch" site_id="1333" xmltv_id="GEO Television">GEO Television</channel>
+    <channel update="i" site="swisscom.ch" site_id="483" xmltv_id="Teleclub Sport 1">Teleclub Sport 1</channel>
+    <channel update="i" site="swisscom.ch" site_id="494" xmltv_id="Teleclub Sport 2">Teleclub Sport 2</channel>
+    <channel update="i" site="swisscom.ch" site_id="505" xmltv_id="Sky Sport 1">Sky Sport 1</channel>
+    <channel update="i" site="swisscom.ch" site_id="392" xmltv_id="Sky Sport 2">Sky Sport 2</channel>
+    <channel update="i" site="swisscom.ch" site_id="1240" xmltv_id="Eurosport 2 XTRA HD">Eurosport 2 XTRA HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1242" xmltv_id="Chelsea TV HD">Chelsea TV HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1241" xmltv_id="MUTV HD">MUTV HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="663" xmltv_id="Teleclub Sport Live 1">Teleclub Sport Live 1</channel>
+    <channel update="i" site="swisscom.ch" site_id="511" xmltv_id="Teleclub Sport Live 2">Teleclub Sport Live 2</channel>
+    <channel update="i" site="swisscom.ch" site_id="512" xmltv_id="Teleclub Sport Live 3">Teleclub Sport Live 3</channel>
+    <channel update="i" site="swisscom.ch" site_id="513" xmltv_id="Teleclub Sport Live 4">Teleclub Sport Live 4</channel>
+    <channel update="i" site="swisscom.ch" site_id="514" xmltv_id="Teleclub Sport Live 5">Teleclub Sport Live 5</channel>
+    <channel update="i" site="swisscom.ch" site_id="515" xmltv_id="Teleclub Sport Live 6">Teleclub Sport Live 6</channel>
+    <channel update="i" site="swisscom.ch" site_id="516" xmltv_id="Teleclub Sport Live 7">Teleclub Sport Live 7</channel>
+    <channel update="i" site="swisscom.ch" site_id="484" xmltv_id="Teleclub Sport Live 8">Teleclub Sport Live 8</channel>
+    <channel update="i" site="swisscom.ch" site_id="485" xmltv_id="Teleclub Sport Live 9">Teleclub Sport Live 9</channel>
+    <channel update="i" site="swisscom.ch" site_id="486" xmltv_id="Teleclub Sport Live 10">Teleclub Sport Live 10</channel>
+    <channel update="i" site="swisscom.ch" site_id="487" xmltv_id="Teleclub Sport Live 11">Teleclub Sport Live 11</channel>
+    <channel update="i" site="swisscom.ch" site_id="488" xmltv_id="Teleclub Sport Live 12">Teleclub Sport Live 12</channel>
+    <channel update="i" site="swisscom.ch" site_id="489" xmltv_id="Teleclub Sport Live 13">Teleclub Sport Live 13</channel>
+    <channel update="i" site="swisscom.ch" site_id="490" xmltv_id="Teleclub Sport Live 14">Teleclub Sport Live 14</channel>
+    <channel update="i" site="swisscom.ch" site_id="491" xmltv_id="Teleclub Sport Live 15">Teleclub Sport Live 15</channel>
+    <channel update="i" site="swisscom.ch" site_id="492" xmltv_id="Teleclub Sport Live 16">Teleclub Sport Live 16</channel>
+    <channel update="i" site="swisscom.ch" site_id="493" xmltv_id="Teleclub Sport Live 17">Teleclub Sport Live 17</channel>
+    <channel update="i" site="swisscom.ch" site_id="495" xmltv_id="Teleclub Sport Live 18">Teleclub Sport Live 18</channel>
+    <channel update="i" site="swisscom.ch" site_id="496" xmltv_id="Teleclub Sport Live 19">Teleclub Sport Live 19</channel>
+    <channel update="i" site="swisscom.ch" site_id="497" xmltv_id="Teleclub Sport Live 20">Teleclub Sport Live 20</channel>
+    <channel update="i" site="swisscom.ch" site_id="498" xmltv_id="Teleclub Sport Live 21">Teleclub Sport Live 21</channel>
+    <channel update="i" site="swisscom.ch" site_id="499" xmltv_id="Teleclub Sport Live 22">Teleclub Sport Live 22</channel>
+    <channel update="i" site="swisscom.ch" site_id="500" xmltv_id="Teleclub Sport Live 23">Teleclub Sport Live 23</channel>
+    <channel update="i" site="swisscom.ch" site_id="501" xmltv_id="Teleclub Sport Live 24">Teleclub Sport Live 24</channel>
+    <channel update="i" site="swisscom.ch" site_id="502" xmltv_id="Teleclub Sport Live 25">Teleclub Sport Live 25</channel>
+    <channel update="i" site="swisscom.ch" site_id="503" xmltv_id="Teleclub Sport Live 26">Teleclub Sport Live 26</channel>
+    <channel update="i" site="swisscom.ch" site_id="504" xmltv_id="Teleclub Sport Live 27">Teleclub Sport Live 27</channel>
+    <channel update="i" site="swisscom.ch" site_id="924" xmltv_id="Teleclub Sport Live 28">Teleclub Sport Live 28</channel>
+    <channel update="i" site="swisscom.ch" site_id="926" xmltv_id="Teleclub Sport Live 29">Teleclub Sport Live 29</channel>
+    <channel update="i" site="swisscom.ch" site_id="928" xmltv_id="Teleclub Sport Live 30">Teleclub Sport Live 30</channel>
+    <channel update="i" site="swisscom.ch" site_id="1415" xmltv_id="Teleclub Sport Live 31">Teleclub Sport Live 31</channel>
+    <channel update="i" site="swisscom.ch" site_id="1427" xmltv_id="Teleclub Sport Live 32">Teleclub Sport Live 32</channel>
+    <channel update="i" site="swisscom.ch" site_id="1428" xmltv_id="Teleclub Sport Live 33">Teleclub Sport Live 33</channel>
+    <channel update="i" site="swisscom.ch" site_id="1429" xmltv_id="Teleclub Sport Live 34">Teleclub Sport Live 34</channel>
+    <channel update="i" site="swisscom.ch" site_id="1430" xmltv_id="Teleclub Sport Live 35">Teleclub Sport Live 35</channel>
+    <channel update="i" site="swisscom.ch" site_id="1431" xmltv_id="Teleclub Sport Live 36">Teleclub Sport Live 36</channel>
+    <channel update="i" site="swisscom.ch" site_id="1432" xmltv_id="Teleclub Sport Live 37">Teleclub Sport Live 37</channel>
+    <channel update="i" site="swisscom.ch" site_id="1433" xmltv_id="Teleclub Sport Live 38">Teleclub Sport Live 38</channel>
+    <channel update="i" site="swisscom.ch" site_id="1442" xmltv_id="Teleclub Sport Live 39">Teleclub Sport Live 39</channel>
+    <channel update="i" site="swisscom.ch" site_id="1000" xmltv_id="Teleclub Sport Live 1 UHD">Teleclub Sport Live 1 UHD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1249" xmltv_id="Teleclub Sport Live 2 UHD">Teleclub Sport Live 2 UHD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1250" xmltv_id="Teleclub Sport Live 3 UHD UHD">Teleclub Sport Live 3 UHD UHD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1440" xmltv_id="Teleclub Sport Live 4 UHD">Teleclub Sport Live 4 UHD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1285" xmltv_id="Sky App">Sky App</channel>
+    <channel update="i" site="swisscom.ch" site_id="1452" xmltv_id="DAZN">DAZN</channel>
+    <channel update="i" site="swisscom.ch" site_id="120" xmltv_id="Deluxe Music HD">Deluxe Music HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="211" xmltv_id="Stingray iConcerts">Stingray iConcerts</channel>
+    <channel update="i" site="swisscom.ch" site_id="102" xmltv_id="Stingray Classica D HD">Stingray Classica D HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1389" xmltv_id="Kabel eins Classics HD">Kabel eins Classics HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1409" xmltv_id="Planet D HD">Planet D HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="590" xmltv_id="Teleclub Sports">Teleclub Sports</channel>
+    <channel update="i" site="swisscom.ch" site_id="1036" xmltv_id="RMC Sport Access 1">RMC Sport Access 1</channel>
+    <channel update="i" site="swisscom.ch" site_id="250" xmltv_id="RMC Sport Access 2">RMC Sport Access 2</channel>
+    <channel update="i" site="swisscom.ch" site_id="1039" xmltv_id="RMC Sport Access 3">RMC Sport Access 3</channel>
+    <channel update="i" site="swisscom.ch" site_id="950" xmltv_id="Teleclub Sports Live 1">Teleclub Sports Live 1</channel>
+    <channel update="i" site="swisscom.ch" site_id="952" xmltv_id="Teleclub Sports Live 2">Teleclub Sports Live 2</channel>
+    <channel update="i" site="swisscom.ch" site_id="954" xmltv_id="Teleclub Sports Live 3">Teleclub Sports Live 3</channel>
+    <channel update="i" site="swisscom.ch" site_id="956" xmltv_id="Teleclub Sports Live 4">Teleclub Sports Live 4</channel>
+    <channel update="i" site="swisscom.ch" site_id="958" xmltv_id="Teleclub Sports Live 5">Teleclub Sports Live 5</channel>
+    <channel update="i" site="swisscom.ch" site_id="930" xmltv_id="Teleclub Sports Live 6">Teleclub Sports Live 6</channel>
+    <channel update="i" site="swisscom.ch" site_id="932" xmltv_id="Teleclub Sports Live 7">Teleclub Sports Live 7</channel>
+    <channel update="i" site="swisscom.ch" site_id="934" xmltv_id="Teleclub Sports Live 8">Teleclub Sports Live 8</channel>
+    <channel update="i" site="swisscom.ch" site_id="936" xmltv_id="Teleclub Sports Live 9">Teleclub Sports Live 9</channel>
+    <channel update="i" site="swisscom.ch" site_id="938" xmltv_id="Teleclub Sports Live 10">Teleclub Sports Live 10</channel>
+    <channel update="i" site="swisscom.ch" site_id="940" xmltv_id="Teleclub Sports Live 11">Teleclub Sports Live 11</channel>
+    <channel update="i" site="swisscom.ch" site_id="942" xmltv_id="Teleclub Sports Live 12">Teleclub Sports Live 12</channel>
+    <channel update="i" site="swisscom.ch" site_id="944" xmltv_id="Teleclub Sports Live 13">Teleclub Sports Live 13</channel>
+    <channel update="i" site="swisscom.ch" site_id="946" xmltv_id="Teleclub Sports Live 14">Teleclub Sports Live 14</channel>
+    <channel update="i" site="swisscom.ch" site_id="948" xmltv_id="Teleclub Sports Live 15">Teleclub Sports Live 15</channel>
+    <channel update="i" site="swisscom.ch" site_id="506" xmltv_id="Teleclub Sports Live 16">Teleclub Sports Live 16</channel>
+    <channel update="i" site="swisscom.ch" site_id="507" xmltv_id="Teleclub Sports Live 17">Teleclub Sports Live 17</channel>
+    <channel update="i" site="swisscom.ch" site_id="508" xmltv_id="Teleclub Sports Live 18">Teleclub Sports Live 18</channel>
+    <channel update="i" site="swisscom.ch" site_id="509" xmltv_id="Teleclub Sports Live 19">Teleclub Sports Live 19</channel>
+    <channel update="i" site="swisscom.ch" site_id="510" xmltv_id="Teleclub Sports Live 20">Teleclub Sports Live 20</channel>
+    <channel update="i" site="swisscom.ch" site_id="192" xmltv_id="Golf Channel">Golf Channel</channel>
+    <channel update="i" site="swisscom.ch" site_id="1414" xmltv_id="Motorvision">Motorvision</channel>
+    <channel update="i" site="swisscom.ch" site_id="285" xmltv_id="Nautical Channel">Nautical Channel</channel>
+    <channel update="i" site="swisscom.ch" site_id="151" xmltv_id="Equidia Live">Equidia Live</channel>
+    <channel update="i" site="swisscom.ch" site_id="92" xmltv_id="Chasse et Peche">Chasse et Peche</channel>
+    <channel update="i" site="swisscom.ch" site_id="1275" xmltv_id="RMC Sport 4 HD">RMC Sport 4 HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1274" xmltv_id="RMC Sport News HD">RMC Sport News HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1356" xmltv_id="Teleclub Sports Live 21">Teleclub Sports Live 21</channel>
+    <channel update="i" site="swisscom.ch" site_id="1354" xmltv_id="Teleclub Sports Live 22">Teleclub Sports Live 22</channel>
+    <channel update="i" site="swisscom.ch" site_id="1355" xmltv_id="Teleclub Sports Live 23">Teleclub Sports Live 23</channel>
+    <channel update="i" site="swisscom.ch" site_id="1357" xmltv_id="Teleclub Sports Live 24">Teleclub Sports Live 24</channel>
+    <channel update="i" site="swisscom.ch" site_id="1358" xmltv_id="Teleclub Sports Live 25">Teleclub Sports Live 25</channel>
+    <channel update="i" site="swisscom.ch" site_id="1359" xmltv_id="Teleclub Sports Live 26">Teleclub Sports Live 26</channel>
+    <channel update="i" site="swisscom.ch" site_id="1360" xmltv_id="Teleclub Sports Live 27">Teleclub Sports Live 27</channel>
+    <channel update="i" site="swisscom.ch" site_id="1361" xmltv_id="Teleclub Sports Live 28">Teleclub Sports Live 28</channel>
+    <channel update="i" site="swisscom.ch" site_id="1362" xmltv_id="Teleclub Sports Live 29">Teleclub Sports Live 29</channel>
+    <channel update="i" site="swisscom.ch" site_id="1364" xmltv_id="Teleclub Sports Live 30">Teleclub Sports Live 30</channel>
+    <channel update="i" site="swisscom.ch" site_id="1437" xmltv_id="Teleclub Sports Live 31">Teleclub Sports Live 31</channel>
+    <channel update="i" site="swisscom.ch" site_id="1438" xmltv_id="Teleclub Sports Live 32">Teleclub Sports Live 32</channel>
+    <channel update="i" site="swisscom.ch" site_id="1439" xmltv_id="Teleclub Sports Live 33">Teleclub Sports Live 33</channel>
+    <channel update="i" site="swisscom.ch" site_id="1001" xmltv_id="Teleclub Sports Live 1 UHD">Teleclub Sports Live 1 UHD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1251" xmltv_id="Teleclub Sports Live 2 UHD">Teleclub Sports Live 2 UHD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1252" xmltv_id="Teleclub Sports Live 3 UHD">Teleclub Sports Live 3 UHD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1441" xmltv_id="Teleclub Sports Live 4 UHD">Teleclub Sports Live 4 UHD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1080" xmltv_id="Netflix">Netflix</channel>
+    <channel update="i" site="swisscom.ch" site_id="1" xmltv_id="13eme Rue">13eme Rue</channel>
+    <channel update="i" site="swisscom.ch" site_id="416" xmltv_id="Syfy F">Syfy F</channel>
+    <channel update="i" site="swisscom.ch" site_id="1329" xmltv_id="Warner TV HD">Warner TV HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="622" xmltv_id="tv breizh">tv breizh</channel>
+    <channel update="i" site="swisscom.ch" site_id="652" xmltv_id="voyage">voyage</channel>
+    <channel update="i" site="swisscom.ch" site_id="123" xmltv_id="Discovery F">Discovery F</channel>
+    <channel update="i" site="swisscom.ch" site_id="125" xmltv_id="Science Channel F">Science Channel F</channel>
+    <channel update="i" site="swisscom.ch" site_id="279" xmltv_id="National Geographic F">National Geographic F</channel>
+    <channel update="i" site="swisscom.ch" site_id="283" xmltv_id="National Geographic Wild F">National Geographic Wild F</channel>
+    <channel update="i" site="swisscom.ch" site_id="644" xmltv_id="Ushuaia TV">Ushuaia TV</channel>
+    <channel update="i" site="swisscom.ch" site_id="304" xmltv_id="Paramount F HD">Paramount F HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="202" xmltv_id="histoire">histoire</channel>
+    <channel update="i" site="swisscom.ch" site_id="290" xmltv_id="Nickelodeon Junior">Nickelodeon Junior</channel>
+    <channel update="i" site="swisscom.ch" site_id="252" xmltv_id="Mangas">Mangas</channel>
+    <channel update="i" site="swisscom.ch" site_id="52" xmltv_id="Boing F">Boing F</channel>
+    <channel update="i" site="swisscom.ch" site_id="129" xmltv_id="Disney Channel F">Disney Channel F</channel>
+    <channel update="i" site="swisscom.ch" site_id="130" xmltv_id="Disney Cinema F">Disney Cinema F</channel>
+    <channel update="i" site="swisscom.ch" site_id="132" xmltv_id="Disney Junior F">Disney Junior F</channel>
+    <channel update="i" site="swisscom.ch" site_id="134" xmltv_id="Disney XD F">Disney XD F</channel>
+    <channel update="i" site="swisscom.ch" site_id="1227" xmltv_id="OCS Max HD">OCS Max HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1228" xmltv_id="OCS City génération HBO HD">OCS City génération HBO HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1229" xmltv_id="OCS Choc HD">OCS Choc HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1230" xmltv_id="OCS Géants HD">OCS Géants HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1284" xmltv_id="My Cuisine HD">My Cuisine HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1330" xmltv_id="Toonami HD">Toonami HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1286" xmltv_id="OCS App">OCS App</channel>
+    <channel update="i" site="swisscom.ch" site_id="67" xmltv_id="Ciné + Premier">Ciné + Premier</channel>
+    <channel update="i" site="swisscom.ch" site_id="66" xmltv_id="Cine+ Frisson">Cine+ Frisson</channel>
+    <channel update="i" site="swisscom.ch" site_id="62" xmltv_id="Cine+ Emotion">Cine+ Emotion</channel>
+    <channel update="i" site="swisscom.ch" site_id="65" xmltv_id="Ciné+ Famiz">Ciné+ Famiz</channel>
+    <channel update="i" site="swisscom.ch" site_id="60" xmltv_id="Ciné+ Club">Ciné+ Club</channel>
+    <channel update="i" site="swisscom.ch" site_id="59" xmltv_id="Ciné+ Classic">Ciné+ Classic</channel>
+    <channel update="i" site="swisscom.ch" site_id="213" xmltv_id="infosport+">infosport+</channel>
+    <channel update="i" site="swisscom.ch" site_id="109" xmltv_id="Comedie!+">Comedie!+</channel>
+    <channel update="i" site="swisscom.ch" site_id="316" xmltv_id="Planète+">Planète+</channel>
+    <channel update="i" site="swisscom.ch" site_id="317" xmltv_id="Planète+ A&amp;E">Planète+ A&amp;E</channel>
+    <channel update="i" site="swisscom.ch" site_id="318" xmltv_id="Planète+ C&amp;I">Planète+ C&amp;I</channel>
+    <channel update="i" site="swisscom.ch" site_id="380" xmltv_id="Seasons">Seasons</channel>
+    <channel update="i" site="swisscom.ch" site_id="315" xmltv_id="Piwi+">Piwi+</channel>
+    <channel update="i" site="swisscom.ch" site_id="595" xmltv_id="Télétoon+">Télétoon+</channel>
+    <channel update="i" site="swisscom.ch" site_id="57" xmltv_id="CANAL+">CANAL+</channel>
+    <channel update="i" site="swisscom.ch" site_id="58" xmltv_id="CANAL+ Cinema">CANAL+ Cinema</channel>
+    <channel update="i" site="swisscom.ch" site_id="69" xmltv_id="CANAL+ Sport">CANAL+ Sport</channel>
+    <channel update="i" site="swisscom.ch" site_id="68" xmltv_id="CANAL+ Series">CANAL+ Series</channel>
+    <channel update="i" site="swisscom.ch" site_id="64" xmltv_id="CANAL+ Family">CANAL+ Family</channel>
+    <channel update="i" site="swisscom.ch" site_id="61" xmltv_id="CANAL+ Décalé">CANAL+ Décalé</channel>
+    <channel update="i" site="swisscom.ch" site_id="1273" xmltv_id="Polar+ HD">Polar+ HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="193" xmltv_id="GOLF+ HD">GOLF+ HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1336" xmltv_id="my Canal">my Canal</channel>
+    <channel update="i" site="swisscom.ch" site_id="353" xmltv_id="RMC Découverte HD">RMC Découverte HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="93" xmltv_id="Chérie 25 HD">Chérie 25 HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="199" xmltv_id="TF1 Séries Films HD">TF1 Séries Films HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="298" xmltv_id="RMC Story HD">RMC Story HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="168" xmltv_id="Eurosport 1 F">Eurosport 1 F</channel>
+    <channel update="i" site="swisscom.ch" site_id="171" xmltv_id="Eurosport 2 F">Eurosport 2 F</channel>
+    <channel update="i" site="swisscom.ch" site_id="245" xmltv_id="L'Equipe HD">L'Equipe HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="103" xmltv_id="Stingray Classica F HD">Stingray Classica F HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="144" xmltv_id="E! Entertainment France">E! Entertainment France</channel>
+    <channel update="i" site="swisscom.ch" site_id="280" xmltv_id="National Geographic I HD">National Geographic I HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="284" xmltv_id="National Geographic Wild I HD">National Geographic Wild I HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="281" xmltv_id="Nat Geo People I">Nat Geo People I</channel>
+    <channel update="i" site="swisscom.ch" site_id="124" xmltv_id="Discovery Channel I">Discovery Channel I</channel>
+    <channel update="i" site="swisscom.ch" site_id="126" xmltv_id="Science Channel I">Science Channel I</channel>
+    <channel update="i" site="swisscom.ch" site_id="169" xmltv_id="Eurosport 1 I">Eurosport 1 I</channel>
+    <channel update="i" site="swisscom.ch" site_id="104" xmltv_id="Stingray Classica I HD">Stingray Classica I HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="647" xmltv_id="Video Italia TV">Video Italia TV</channel>
+    <channel update="i" site="swisscom.ch" site_id="1253" xmltv_id="VH1 Italy">VH1 Italy</channel>
+    <channel update="i" site="swisscom.ch" site_id="384" xmltv_id="SIC Internacional">SIC Internacional</channel>
+    <channel update="i" site="swisscom.ch" site_id="1487" xmltv_id="TVI Ficção">TVI Ficção</channel>
+    <channel update="i" site="swisscom.ch" site_id="1482" xmltv_id="SIC Noticias">SIC Noticias</channel>
+    <channel update="i" site="swisscom.ch" site_id="1483" xmltv_id="TVI Internacional">TVI Internacional</channel>
+    <channel update="i" site="swisscom.ch" site_id="1484" xmltv_id="RTP 3">RTP 3</channel>
+    <channel update="i" site="swisscom.ch" site_id="625" xmltv_id="TV Globo Internacional">TV Globo Internacional</channel>
+    <channel update="i" site="swisscom.ch" site_id="314" xmltv_id="Pink Plus">Pink Plus</channel>
+    <channel update="i" site="swisscom.ch" site_id="309" xmltv_id="Pink Extra">Pink Extra</channel>
+    <channel update="i" site="swisscom.ch" site_id="310" xmltv_id="Pink Film">Pink Film</channel>
+    <channel update="i" site="swisscom.ch" site_id="311" xmltv_id="Pink Kids">Pink Kids</channel>
+    <channel update="i" site="swisscom.ch" site_id="313" xmltv_id="Pink Music">Pink Music</channel>
+    <channel update="i" site="swisscom.ch" site_id="312" xmltv_id="Pink Koncert">Pink Koncert</channel>
+    <channel update="i" site="swisscom.ch" site_id="1413" xmltv_id="Pink Folk">Pink Folk</channel>
+    <channel update="i" site="swisscom.ch" site_id="1459" xmltv_id="Pink Reality">Pink Reality</channel>
+    <channel update="i" site="swisscom.ch" site_id="197" xmltv_id="Hayat PLUS">Hayat PLUS</channel>
+    <channel update="i" site="swisscom.ch" site_id="196" xmltv_id="Hayat FOLK">Hayat FOLK</channel>
+    <channel update="i" site="swisscom.ch" site_id="48" xmltv_id="BN TV Sat">BN TV Sat</channel>
+    <channel update="i" site="swisscom.ch" site_id="112" xmltv_id="Croatian Music Channel">Croatian Music Channel</channel>
+    <channel update="i" site="swisscom.ch" site_id="75" xmltv_id="Canal de las Estrellas Europe">Canal de las Estrellas Europe</channel>
+    <channel update="i" site="swisscom.ch" site_id="117" xmltv_id="De Pelicula">De Pelicula</channel>
+    <channel update="i" site="swisscom.ch" site_id="352" xmltv_id="Ritmoson">Ritmoson</channel>
+    <channel update="i" site="swisscom.ch" site_id="608" xmltv_id="Tlnovelas">Tlnovelas</channel>
+    <channel update="i" site="swisscom.ch" site_id="234" xmltv_id="KTV Kohavision">KTV Kohavision</channel>
+    <channel update="i" site="swisscom.ch" site_id="370" xmltv_id="RTV 21 Sat">RTV 21 Sat</channel>
+    <channel update="i" site="swisscom.ch" site_id="231" xmltv_id="Klan Kosova">Klan Kosova</channel>
+    <channel update="i" site="swisscom.ch" site_id="1446" xmltv_id="TV Dukagjini HD">TV Dukagjini HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="587" xmltv_id="TeleBom - TeleDom">TeleBom - TeleDom</channel>
+    <channel update="i" site="swisscom.ch" site_id="229" xmltv_id="Kinomir">Kinomir</channel>
+    <channel update="i" site="swisscom.ch" site_id="922" xmltv_id="OstWest">OstWest</channel>
+    <channel update="i" site="swisscom.ch" site_id="404" xmltv_id="Star Plus">Star Plus</channel>
+    <channel update="i" site="swisscom.ch" site_id="403" xmltv_id="Star Gold">Star Gold</channel>
+    <channel update="i" site="swisscom.ch" site_id="407" xmltv_id="Star Vijay">Star Vijay</channel>
+    <channel update="i" site="swisscom.ch" site_id="609" xmltv_id="TMC CH">TMC CH</channel>
+    <channel update="i" site="swisscom.ch" site_id="364" xmltv_id="RTL9 CH">RTL9 CH</channel>
+    <channel update="i" site="swisscom.ch" site_id="653" xmltv_id="W9 CH">W9 CH</channel>
+    <channel update="i" site="swisscom.ch" site_id="11" xmltv_id="AB1">AB1</channel>
+    <channel update="i" site="swisscom.ch" site_id="217" xmltv_id="CNEWS">CNEWS</channel>
+    <channel update="i" site="swisscom.ch" site_id="241" xmltv_id="La Chaine Info">La Chaine Info</channel>
+    <channel update="i" site="swisscom.ch" site_id="12" xmltv_id="Action">Action</channel>
+    <channel update="i" site="swisscom.ch" site_id="22" xmltv_id="Animaux">Animaux</channel>
+    <channel update="i" site="swisscom.ch" site_id="618" xmltv_id="Trek">Trek</channel>
+    <channel update="i" site="swisscom.ch" site_id="10" xmltv_id="AUTOMOTO">AUTOMOTO</channel>
+    <channel update="i" site="swisscom.ch" site_id="63" xmltv_id="Canal+ en clair">Canal+ en clair</channel>
+    <channel update="i" site="swisscom.ch" site_id="379" xmltv_id="Science &amp; Vie">Science &amp; Vie</channel>
+    <channel update="i" site="swisscom.ch" site_id="615" xmltv_id="Toute l'Histoire">Toute l'Histoire</channel>
+    <channel update="i" site="swisscom.ch" site_id="53" xmltv_id="Boomerang F">Boomerang F</channel>
+    <channel update="i" site="swisscom.ch" site_id="605" xmltv_id="Tiji">Tiji</channel>
+    <channel update="i" site="swisscom.ch" site_id="76" xmltv_id="Canal J">Canal J</channel>
+    <channel update="i" site="swisscom.ch" site_id="223" xmltv_id="ELLE GIRL">ELLE GIRL</channel>
+    <channel update="i" site="swisscom.ch" site_id="82" xmltv_id="Cartoon Network F CH">Cartoon Network F CH</channel>
+    <channel update="i" site="swisscom.ch" site_id="195" xmltv_id="Gulli">Gulli</channel>
+    <channel update="i" site="swisscom.ch" site_id="291" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="swisscom.ch" site_id="255" xmltv_id="MCM Top">MCM Top</channel>
+    <channel update="i" site="swisscom.ch" site_id="114" xmltv_id="CSTAR">CSTAR</channel>
+    <channel update="i" site="swisscom.ch" site_id="258" xmltv_id="Mezzo">Mezzo</channel>
+    <channel update="i" site="swisscom.ch" site_id="187" xmltv_id="France O">France O</channel>
+    <channel update="i" site="swisscom.ch" site_id="257" xmltv_id="Mediaset Extra">Mediaset Extra</channel>
+    <channel update="i" site="swisscom.ch" site_id="216" xmltv_id="Italia 2">Italia 2</channel>
+    <channel update="i" site="swisscom.ch" site_id="172" xmltv_id="Eurosport 2 I">Eurosport 2 I</channel>
+    <channel update="i" site="swisscom.ch" site_id="332" xmltv_id="Rai Gulp">Rai Gulp</channel>
+    <channel update="i" site="swisscom.ch" site_id="346" xmltv_id="Real Time">Real Time</channel>
+    <channel update="i" site="swisscom.ch" site_id="145" xmltv_id="E! Entertainment Europe">E! Entertainment Europe</channel>
+    <channel update="i" site="swisscom.ch" site_id="337" xmltv_id="Rai Scuola">Rai Scuola</channel>
+    <channel update="i" site="swisscom.ch" site_id="137" xmltv_id="DMAX Italia">DMAX Italia</channel>
+    <channel update="i" site="swisscom.ch" site_id="633" xmltv_id="TV2000">TV2000</channel>
+    <channel update="i" site="swisscom.ch" site_id="334" xmltv_id="Rai Movie">Rai Movie</channel>
+    <channel update="i" site="swisscom.ch" site_id="336" xmltv_id="Rai Premium">Rai Premium</channel>
+    <channel update="i" site="swisscom.ch" site_id="191" xmltv_id="Giallo">Giallo</channel>
+    <channel update="i" site="swisscom.ch" site_id="613" xmltv_id="Top Crime">Top Crime</channel>
+    <channel update="i" site="swisscom.ch" site_id="84" xmltv_id="cartoonito">cartoonito</channel>
+    <channel update="i" site="swisscom.ch" site_id="189" xmltv_id="Frisbee">Frisbee</channel>
+    <channel update="i" site="swisscom.ch" site_id="225" xmltv_id="K2">K2</channel>
+    <channel update="i" site="swisscom.ch" site_id="341" xmltv_id="Rai Yoyo">Rai Yoyo</channel>
+    <channel update="i" site="swisscom.ch" site_id="412" xmltv_id="Super!">Super!</channel>
+    <channel update="i" site="swisscom.ch" site_id="101" xmltv_id="Class TV Moda">Class TV Moda</channel>
+    <channel update="i" site="swisscom.ch" site_id="16" xmltv_id="Alice">Alice</channel>
+    <channel update="i" site="swisscom.ch" site_id="1348" xmltv_id="Food Network IT">Food Network IT</channel>
+    <channel update="i" site="swisscom.ch" site_id="331" xmltv_id="Rai 5">Rai 5</channel>
+    <channel update="i" site="swisscom.ch" site_id="393" xmltv_id="sky TG 24">sky TG 24</channel>
+    <channel update="i" site="swisscom.ch" site_id="643" xmltv_id="UNINETTUNO University TV">UNINETTUNO University TV</channel>
+    <channel update="i" site="swisscom.ch" site_id="1029" xmltv_id="Insight HD">Insight HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="661" xmltv_id="Teleclub Sport Event 1">Teleclub Sport Event 1</channel>
+    <channel update="i" site="swisscom.ch" site_id="422" xmltv_id="Teleclub Sport Event 2">Teleclub Sport Event 2</channel>
+    <channel update="i" site="swisscom.ch" site_id="443" xmltv_id="Teleclub Sport Event 3">Teleclub Sport Event 3</channel>
+    <channel update="i" site="swisscom.ch" site_id="465" xmltv_id="Teleclub Sport Event 4">Teleclub Sport Event 4</channel>
+    <channel update="i" site="swisscom.ch" site_id="471" xmltv_id="Teleclub Sport Event 5">Teleclub Sport Event 5</channel>
+    <channel update="i" site="swisscom.ch" site_id="473" xmltv_id="Teleclub Sport Event 6">Teleclub Sport Event 6</channel>
+    <channel update="i" site="swisscom.ch" site_id="475" xmltv_id="Teleclub Sport Event 7">Teleclub Sport Event 7</channel>
+    <channel update="i" site="swisscom.ch" site_id="477" xmltv_id="Teleclub Sport Event 8">Teleclub Sport Event 8</channel>
+    <channel update="i" site="swisscom.ch" site_id="479" xmltv_id="Teleclub Sport Event 9">Teleclub Sport Event 9</channel>
+    <channel update="i" site="swisscom.ch" site_id="481" xmltv_id="Teleclub Sport Event 10">Teleclub Sport Event 10</channel>
+    <channel update="i" site="swisscom.ch" site_id="423" xmltv_id="Teleclub Sport Event 11">Teleclub Sport Event 11</channel>
+    <channel update="i" site="swisscom.ch" site_id="425" xmltv_id="Teleclub Sport Event 12">Teleclub Sport Event 12</channel>
+    <channel update="i" site="swisscom.ch" site_id="427" xmltv_id="Teleclub Sport Event 13">Teleclub Sport Event 13</channel>
+    <channel update="i" site="swisscom.ch" site_id="429" xmltv_id="Teleclub Sport Event 14">Teleclub Sport Event 14</channel>
+    <channel update="i" site="swisscom.ch" site_id="431" xmltv_id="Teleclub Sport Event 15">Teleclub Sport Event 15</channel>
+    <channel update="i" site="swisscom.ch" site_id="433" xmltv_id="Teleclub Sport Event 16">Teleclub Sport Event 16</channel>
+    <channel update="i" site="swisscom.ch" site_id="435" xmltv_id="Teleclub Sport Event 17">Teleclub Sport Event 17</channel>
+    <channel update="i" site="swisscom.ch" site_id="437" xmltv_id="Teleclub Sport Event 18">Teleclub Sport Event 18</channel>
+    <channel update="i" site="swisscom.ch" site_id="439" xmltv_id="Teleclub Sport Event 19">Teleclub Sport Event 19</channel>
+    <channel update="i" site="swisscom.ch" site_id="441" xmltv_id="Teleclub Sport Event 20">Teleclub Sport Event 20</channel>
+    <channel update="i" site="swisscom.ch" site_id="445" xmltv_id="Teleclub Sport Event 21">Teleclub Sport Event 21</channel>
+    <channel update="i" site="swisscom.ch" site_id="447" xmltv_id="Teleclub Sport Event 22">Teleclub Sport Event 22</channel>
+    <channel update="i" site="swisscom.ch" site_id="449" xmltv_id="Teleclub Sport Event 23">Teleclub Sport Event 23</channel>
+    <channel update="i" site="swisscom.ch" site_id="451" xmltv_id="Teleclub Sport Event 24">Teleclub Sport Event 24</channel>
+    <channel update="i" site="swisscom.ch" site_id="453" xmltv_id="Teleclub Sport Event 25">Teleclub Sport Event 25</channel>
+    <channel update="i" site="swisscom.ch" site_id="455" xmltv_id="Teleclub Sport Event 26">Teleclub Sport Event 26</channel>
+    <channel update="i" site="swisscom.ch" site_id="457" xmltv_id="Teleclub Sport Event 27">Teleclub Sport Event 27</channel>
+    <channel update="i" site="swisscom.ch" site_id="990" xmltv_id="Teleclub Sport Event 28">Teleclub Sport Event 28</channel>
+    <channel update="i" site="swisscom.ch" site_id="992" xmltv_id="Teleclub Sport Event 29">Teleclub Sport Event 29</channel>
+    <channel update="i" site="swisscom.ch" site_id="994" xmltv_id="Teleclub Sport Event 30">Teleclub Sport Event 30</channel>
+    <channel update="i" site="swisscom.ch" site_id="1416" xmltv_id="Teleclub Sport Event 31">Teleclub Sport Event 31</channel>
+    <channel update="i" site="swisscom.ch" site_id="1419" xmltv_id="Teleclub Sport Event 32">Teleclub Sport Event 32</channel>
+    <channel update="i" site="swisscom.ch" site_id="1420" xmltv_id="Teleclub Sport Event 33">Teleclub Sport Event 33</channel>
+    <channel update="i" site="swisscom.ch" site_id="1421" xmltv_id="Teleclub Sport Event 34">Teleclub Sport Event 34</channel>
+    <channel update="i" site="swisscom.ch" site_id="1422" xmltv_id="Teleclub Sport Event 35">Teleclub Sport Event 35</channel>
+    <channel update="i" site="swisscom.ch" site_id="1423" xmltv_id="Teleclub Sport Event 36">Teleclub Sport Event 36</channel>
+    <channel update="i" site="swisscom.ch" site_id="1424" xmltv_id="Teleclub Sport Event 37">Teleclub Sport Event 37</channel>
+    <channel update="i" site="swisscom.ch" site_id="1425" xmltv_id="Teleclub Sport Event 38">Teleclub Sport Event 38</channel>
+    <channel update="i" site="swisscom.ch" site_id="1426" xmltv_id="Teleclub Sport Event 39">Teleclub Sport Event 39</channel>
+    <channel update="i" site="swisscom.ch" site_id="960" xmltv_id="Teleclub Sports Event 1">Teleclub Sports Event 1</channel>
+    <channel update="i" site="swisscom.ch" site_id="962" xmltv_id="Teleclub Sports Event 2">Teleclub Sports Event 2</channel>
+    <channel update="i" site="swisscom.ch" site_id="964" xmltv_id="Teleclub Sports Event 3">Teleclub Sports Event 3</channel>
+    <channel update="i" site="swisscom.ch" site_id="966" xmltv_id="Teleclub Sports Event 4">Teleclub Sports Event 4</channel>
+    <channel update="i" site="swisscom.ch" site_id="968" xmltv_id="Teleclub Sports Event 5">Teleclub Sports Event 5</channel>
+    <channel update="i" site="swisscom.ch" site_id="970" xmltv_id="Teleclub Sports Event 6">Teleclub Sports Event 6</channel>
+    <channel update="i" site="swisscom.ch" site_id="972" xmltv_id="Teleclub Sports Event 7">Teleclub Sports Event 7</channel>
+    <channel update="i" site="swisscom.ch" site_id="974" xmltv_id="Teleclub Sports Event 8">Teleclub Sports Event 8</channel>
+    <channel update="i" site="swisscom.ch" site_id="976" xmltv_id="Teleclub Sports Event 9">Teleclub Sports Event 9</channel>
+    <channel update="i" site="swisscom.ch" site_id="978" xmltv_id="Teleclub Sports Event 10">Teleclub Sports Event 10</channel>
+    <channel update="i" site="swisscom.ch" site_id="980" xmltv_id="Teleclub Sports Event 11">Teleclub Sports Event 11</channel>
+    <channel update="i" site="swisscom.ch" site_id="982" xmltv_id="Teleclub Sports Event 12">Teleclub Sports Event 12</channel>
+    <channel update="i" site="swisscom.ch" site_id="984" xmltv_id="Teleclub Sports Event 13">Teleclub Sports Event 13</channel>
+    <channel update="i" site="swisscom.ch" site_id="986" xmltv_id="Teleclub Sports Event 14">Teleclub Sports Event 14</channel>
+    <channel update="i" site="swisscom.ch" site_id="988" xmltv_id="Teleclub Sports Event 15">Teleclub Sports Event 15</channel>
+    <channel update="i" site="swisscom.ch" site_id="459" xmltv_id="Teleclub Sports Event 16">Teleclub Sports Event 16</channel>
+    <channel update="i" site="swisscom.ch" site_id="461" xmltv_id="Teleclub Sports Event 17">Teleclub Sports Event 17</channel>
+    <channel update="i" site="swisscom.ch" site_id="463" xmltv_id="Teleclub Sports Event 18">Teleclub Sports Event 18</channel>
+    <channel update="i" site="swisscom.ch" site_id="467" xmltv_id="Teleclub Sports Event 19">Teleclub Sports Event 19</channel>
+    <channel update="i" site="swisscom.ch" site_id="469" xmltv_id="Teleclub Sports Event 20">Teleclub Sports Event 20</channel>
+    <channel update="i" site="swisscom.ch" site_id="1365" xmltv_id="Teleclub Sports Event 21">Teleclub Sports Event 21</channel>
+    <channel update="i" site="swisscom.ch" site_id="1366" xmltv_id="Teleclub Sports Event 22">Teleclub Sports Event 22</channel>
+    <channel update="i" site="swisscom.ch" site_id="1367" xmltv_id="Teleclub Sports Event 23">Teleclub Sports Event 23</channel>
+    <channel update="i" site="swisscom.ch" site_id="1368" xmltv_id="Teleclub Sports Event 24">Teleclub Sports Event 24</channel>
+    <channel update="i" site="swisscom.ch" site_id="1369" xmltv_id="Teleclub Sports Event 25">Teleclub Sports Event 25</channel>
+    <channel update="i" site="swisscom.ch" site_id="1370" xmltv_id="Teleclub Sports Event 26">Teleclub Sports Event 26</channel>
+    <channel update="i" site="swisscom.ch" site_id="1371" xmltv_id="Teleclub Sports Event 27">Teleclub Sports Event 27</channel>
+    <channel update="i" site="swisscom.ch" site_id="1372" xmltv_id="Teleclub Sports Event 28">Teleclub Sports Event 28</channel>
+    <channel update="i" site="swisscom.ch" site_id="1373" xmltv_id="Teleclub Sports Event 29">Teleclub Sports Event 29</channel>
+    <channel update="i" site="swisscom.ch" site_id="1374" xmltv_id="Teleclub Sports Event 30">Teleclub Sports Event 30</channel>
+    <channel update="i" site="swisscom.ch" site_id="1434" xmltv_id="Teleclub Sports Event 31">Teleclub Sports Event 31</channel>
+    <channel update="i" site="swisscom.ch" site_id="1435" xmltv_id="Teleclub Sports Event 32">Teleclub Sports Event 32</channel>
+    <channel update="i" site="swisscom.ch" site_id="1436" xmltv_id="Teleclub Sports Event 33">Teleclub Sports Event 33</channel>
+    <channel update="i" site="swisscom.ch" site_id="1283" xmltv_id="Teleclub Extra F">Teleclub Extra F</channel>
+    <channel update="i" site="swisscom.ch" site_id="1282" xmltv_id="Teleclub Xtra D">Teleclub Xtra D</channel>
+    <channel update="i" site="swisscom.ch" site_id="1002" xmltv_id="Teleclub Sport Event 1 UHD">Teleclub Sport Event 1 UHD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1245" xmltv_id="Teleclub Sport Event 2 UHD">Teleclub Sport Event 2 UHD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1246" xmltv_id="Teleclub Sport Event 3 UHD">Teleclub Sport Event 3 UHD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1417" xmltv_id="Teleclub Sport Event 4 UHD">Teleclub Sport Event 4 UHD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1003" xmltv_id="Teleclub Sports Event 1 UHD">Teleclub Sports Event 1 UHD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1247" xmltv_id="Teleclub Sports Event 2 UHD">Teleclub Sports Event 2 UHD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1248" xmltv_id="Teleclub Sports Event 3 UHD">Teleclub Sports Event 3 UHD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1418" xmltv_id="Teleclub Sports Event 4 UHD">Teleclub Sports Event 4 UHD</channel>
+    <channel update="i" site="swisscom.ch" site_id="600" xmltv_id="Test Italia">Test Italia</channel>
+    <channel update="i" site="swisscom.ch" site_id="108" xmltv_id="Collection">Collection</channel>
+    <channel update="i" site="swisscom.ch" site_id="648" xmltv_id="VIVA CH">VIVA CH</channel>
+    <channel update="i" site="swisscom.ch" site_id="657" xmltv_id="ZDF.kultur">ZDF.kultur</channel>
+    <channel update="i" site="swisscom.ch" site_id="1066" xmltv_id="AXN Deutschland">AXN Deutschland</channel>
+    <channel update="i" site="swisscom.ch" site_id="148" xmltv_id="Eins Plus">Eins Plus</channel>
+    <channel update="i" site="swisscom.ch" site_id="349" xmltv_id="RFM TV">RFM TV</channel>
+    <channel update="i" site="swisscom.ch" site_id="1077" xmltv_id="Télétoon+">Télétoon+</channel>
+    <channel update="i" site="swisscom.ch" site_id="299" xmltv_id="Nuvola61">Nuvola61</channel>
+    <channel update="i" site="swisscom.ch" site_id="38" xmltv_id="BBC Three">BBC Three</channel>
+    <channel update="i" site="swisscom.ch" site_id="368" xmltv_id="RTS Sat">RTS Sat</channel>
+    <channel update="i" site="swisscom.ch" site_id="259" xmltv_id="MGM">MGM</channel>
+    <channel update="i" site="swisscom.ch" site_id="1069" xmltv_id="Fox">Fox</channel>
+    <channel update="i" site="swisscom.ch" site_id="376" xmltv_id="Sat.1 emotions">Sat.1 emotions</channel>
+    <channel update="i" site="swisscom.ch" site_id="1067" xmltv_id="Disney Cinemagic">Disney Cinemagic</channel>
+    <channel update="i" site="swisscom.ch" site_id="264" xmltv_id="Motorvision TV">Motorvision TV</channel>
+    <channel update="i" site="swisscom.ch" site_id="333" xmltv_id="Rai HD">Rai HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="34" xmltv_id="BBC Entertainment">BBC Entertainment</channel>
+    <channel update="i" site="swisscom.ch" site_id="190" xmltv_id="Game TV">Game TV</channel>
+    <channel update="i" site="swisscom.ch" site_id="50" xmltv_id="Body in Balance">Body in Balance</channel>
+    <channel update="i" site="swisscom.ch" site_id="402" xmltv_id="Sport Szene Fernsehen">Sport Szene Fernsehen</channel>
+    <channel update="i" site="swisscom.ch" site_id="29" xmltv_id="ATV">ATV</channel>
+    <channel update="i" site="swisscom.ch" site_id="45" xmltv_id="Bliss">Bliss</channel>
+    <channel update="i" site="swisscom.ch" site_id="81" xmltv_id="Capital TV">Capital TV</channel>
+    <channel update="i" site="swisscom.ch" site_id="179" xmltv_id="Flava">Flava</channel>
+    <channel update="i" site="swisscom.ch" site_id="200" xmltv_id="Heart TV">Heart TV</channel>
+    <channel update="i" site="swisscom.ch" site_id="119" xmltv_id="Deepam TV">Deepam TV</channel>
+    <channel update="i" site="swisscom.ch" site_id="236" xmltv_id="Kurdsat">Kurdsat</channel>
+    <channel update="i" site="swisscom.ch" site_id="276" xmltv_id="My Music">My Music</channel>
+    <channel update="i" site="swisscom.ch" site_id="406" xmltv_id="Star TV Tur">Star TV Tur</channel>
+    <channel update="i" site="swisscom.ch" site_id="614" xmltv_id="Top News">Top News</channel>
+    <channel update="i" site="swisscom.ch" site_id="642" xmltv_id="RTSH 1">RTSH 1</channel>
+    <channel update="i" site="swisscom.ch" site_id="371" xmltv_id="RTVi">RTVi</channel>
+    <channel update="i" site="swisscom.ch" site_id="127" xmltv_id="Discovery Travel + Living I">Discovery Travel + Living I</channel>
+    <channel update="i" site="swisscom.ch" site_id="627" xmltv_id="TV K:CN">TV K:CN</channel>
+    <channel update="i" site="swisscom.ch" site_id="265" xmltv_id="MPT Sat">MPT Sat</channel>
+    <channel update="i" site="swisscom.ch" site_id="419" xmltv_id="TC Flash D">TC Flash D</channel>
+    <channel update="i" site="swisscom.ch" site_id="1078" xmltv_id="Trace Tropical">Trace Tropical</channel>
+    <channel update="i" site="swisscom.ch" site_id="617" xmltv_id="Trace Urban">Trace Urban</channel>
+    <channel update="i" site="swisscom.ch" site_id="269" xmltv_id="MTV Dance CH">MTV Dance CH</channel>
+    <channel update="i" site="swisscom.ch" site_id="270" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="swisscom.ch" site_id="272" xmltv_id="MTV Music 24">MTV Music 24</channel>
+    <channel update="i" site="swisscom.ch" site_id="274" xmltv_id="MTV Rocks">MTV Rocks</channel>
+    <channel update="i" site="swisscom.ch" site_id="645" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="swisscom.ch" site_id="646" xmltv_id="VH1 Classic">VH1 Classic</channel>
+    <channel update="i" site="swisscom.ch" site_id="296" xmltv_id="NTV Avrupa">NTV Avrupa</channel>
+    <channel update="i" site="swisscom.ch" site_id="97" xmltv_id="Ciné FX">Ciné FX</channel>
+    <channel update="i" site="swisscom.ch" site_id="98" xmltv_id="Ciné Polar">Ciné Polar</channel>
+    <channel update="i" site="swisscom.ch" site_id="271" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="581" xmltv_id="Tele Top TG">Tele Top TG</channel>
+    <channel update="i" site="swisscom.ch" site_id="580" xmltv_id="Tele Top SH">Tele Top SH</channel>
+    <channel update="i" site="swisscom.ch" site_id="222" xmltv_id="joiz">joiz</channel>
+    <channel update="i" site="swisscom.ch" site_id="23" xmltv_id="Animax">Animax</channel>
+    <channel update="i" site="swisscom.ch" site_id="1076" xmltv_id="Spiegel TV Wissen">Spiegel TV Wissen</channel>
+    <channel update="i" site="swisscom.ch" site_id="1070" xmltv_id="National Geographic D">National Geographic D</channel>
+    <channel update="i" site="swisscom.ch" site_id="319" xmltv_id="Planète+ Thalassa">Planète+ Thalassa</channel>
+    <channel update="i" site="swisscom.ch" site_id="251" xmltv_id="Maison+">Maison+</channel>
+    <channel update="i" site="swisscom.ch" site_id="113" xmltv_id="Cuisine+">Cuisine+</channel>
+    <channel update="i" site="swisscom.ch" site_id="263" xmltv_id="Motorsport TV">Motorsport TV</channel>
+    <channel update="i" site="swisscom.ch" site_id="173" xmltv_id="Extreme Sport">Extreme Sport</channel>
+    <channel update="i" site="swisscom.ch" site_id="150" xmltv_id="Equidia Life">Equidia Life</channel>
+    <channel update="i" site="swisscom.ch" site_id="569" xmltv_id="TCM CINEMA">TCM CINEMA</channel>
+    <channel update="i" site="swisscom.ch" site_id="1071" xmltv_id="National Geographic F">National Geographic F</channel>
+    <channel update="i" site="swisscom.ch" site_id="1072" xmltv_id="National Geographic Wild F">National Geographic Wild F</channel>
+    <channel update="i" site="swisscom.ch" site_id="410" xmltv_id="Stylia">Stylia</channel>
+    <channel update="i" site="swisscom.ch" site_id="649" xmltv_id="Vivolta">Vivolta</channel>
+    <channel update="i" site="swisscom.ch" site_id="1068" xmltv_id="Disney Cinema F">Disney Cinema F</channel>
+    <channel update="i" site="swisscom.ch" site_id="95" xmltv_id="CHTV">CHTV</channel>
+    <channel update="i" site="swisscom.ch" site_id="1074" xmltv_id="RTL Crime">RTL Crime</channel>
+    <channel update="i" site="swisscom.ch" site_id="1073" xmltv_id="RTL Passion">RTL Passion</channel>
+    <channel update="i" site="swisscom.ch" site_id="1075" xmltv_id="RTL Living">RTL Living</channel>
+    <channel update="i" site="swisscom.ch" site_id="5" xmltv_id="3D Demo HD">3D Demo HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="267" xmltv_id="MTV Brand New">MTV Brand New</channel>
+    <channel update="i" site="swisscom.ch" site_id="261" xmltv_id="Montagne TV">Montagne TV</channel>
+    <channel update="i" site="swisscom.ch" site_id="177" xmltv_id="Fine Living">Fine Living</channel>
+    <channel update="i" site="swisscom.ch" site_id="21" xmltv_id="Animal Planet I">Animal Planet I</channel>
+    <channel update="i" site="swisscom.ch" site_id="174" xmltv_id="tm3">tm3</channel>
+    <channel update="i" site="swisscom.ch" site_id="388" xmltv_id="Sky Sport Bundesliga 1">Sky Sport Bundesliga 1</channel>
+    <channel update="i" site="swisscom.ch" site_id="660" xmltv_id="Sky Atlantic +1 HD">Sky Atlantic +1 HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="668" xmltv_id="Hispasat 4K UHD">Hispasat 4K UHD</channel>
+    <channel update="i" site="swisscom.ch" site_id="670" xmltv_id="Hot Bird 4K1 UHD">Hot Bird 4K1 UHD</channel>
+    <channel update="i" site="swisscom.ch" site_id="671" xmltv_id="Fransat UHD Demo UHD">Fransat UHD Demo UHD</channel>
+    <channel update="i" site="swisscom.ch" site_id="672" xmltv_id="Digiturk UHD">Digiturk UHD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1034" xmltv_id="Lancy TV HD">Lancy TV HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1037" xmltv_id="SFR Sport 4K UHD">SFR Sport 4K UHD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1065" xmltv_id="ULS Network HD">ULS Network HD</channel>
+    <channel update="i" site="swisscom.ch" site_id="1270" xmltv_id="Sky 1+ 1 HD">Sky 1+ 1 HD</channel>
+  </channels>
+</site>

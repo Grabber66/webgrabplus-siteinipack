@@ -1,0 +1,984 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="xmltv.se">
+  <channels>
+    <channel update="i" site="xmltv.se" site_id="1.bluemovie.de" xmltv_id="1 Bluemovie De">1 Bluemovie De</channel>
+    <channel update="i" site="xmltv.se" site_id="13thstreet.de" xmltv_id="13thstreet De">13thstreet De</channel>
+    <channel update="i" site="xmltv.se" site_id="1bar.dazn.de" xmltv_id="1bar Dazn De">1bar Dazn De</channel>
+    <channel update="i" site="xmltv.se" site_id="2.bluemovie.de" xmltv_id="2 Bluemovie De">2 Bluemovie De</channel>
+    <channel update="i" site="xmltv.se" site_id="2.eurosport.de" xmltv_id="2 Eurosport De">2 Eurosport De</channel>
+    <channel update="i" site="xmltv.se" site_id="20.mediaset.it" xmltv_id="20 Mediaset It">20 Mediaset It</channel>
+    <channel update="i" site="xmltv.se" site_id="2bar.dazn.de" xmltv_id="2bar Dazn De">2bar Dazn De</channel>
+    <channel update="i" site="xmltv.se" site_id="2extra.eurosport.de" xmltv_id="2extra Eurosport De">2extra Eurosport De</channel>
+    <channel update="i" site="xmltv.se" site_id="3.bluemovie.de" xmltv_id="3 Bluemovie De">3 Bluemovie De</channel>
+    <channel update="i" site="xmltv.se" site_id="360tunebox.spi.pl" xmltv_id="360tunebox Spi Pl">360tunebox Spi Pl</channel>
+    <channel update="i" site="xmltv.se" site_id="3plus.ee" xmltv_id="3plus Ee">3plus Ee</channel>
+    <channel update="i" site="xmltv.se" site_id="3plus.lv" xmltv_id="3plus Lv">3plus Lv</channel>
+    <channel update="i" site="xmltv.se" site_id="3plus.tv" xmltv_id="3plus Tv">3plus Tv</channel>
+    <channel update="i" site="xmltv.se" site_id="3sat.de" xmltv_id="3sat De">3sat De</channel>
+    <channel update="i" site="xmltv.se" site_id="4plus.tv" xmltv_id="4plus Tv">4plus Tv</channel>
+    <channel update="i" site="xmltv.se" site_id="5plus.tv" xmltv_id="5plus Tv">5plus Tv</channel>
+    <channel update="i" site="xmltv.se" site_id="6-eren.dk" xmltv_id="6 Eren Dk">6 Eren Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="abc.tvp.pl" xmltv_id="Abc Tvp Pl">Abc Tvp Pl</channel>
+    <channel update="i" site="xmltv.se" site_id="action.cmore.dk" xmltv_id="Action Cmore Dk">Action Cmore Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="action.cmore.fi" xmltv_id="Action Cmore Fi">Action Cmore Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="action.cmore.no" xmltv_id="Action Cmore No">Action Cmore No</channel>
+    <channel update="i" site="xmltv.se" site_id="action.cmore.se" xmltv_id="Action Cmore Se">Action Cmore Se</channel>
+    <channel update="i" site="xmltv.se" site_id="action.film.viasat.dk" xmltv_id="Action Film Viasat Dk">Action Film Viasat Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="action.film.viasat.fi" xmltv_id="Action Film Viasat Fi">Action Film Viasat Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="action.film.viasat.no" xmltv_id="Action Film Viasat No">Action Film Viasat No</channel>
+    <channel update="i" site="xmltv.se" site_id="action.film.viasat.se" xmltv_id="Action Film Viasat Se">Action Film Viasat Se</channel>
+    <channel update="i" site="xmltv.se" site_id="action.sky.de" xmltv_id="Action Sky De">Action Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="actionhd.film.viasat.se" xmltv_id="Actionhd Film Viasat Se">Actionhd Film Viasat Se</channel>
+    <channel update="i" site="xmltv.se" site_id="actionhd.sky.de" xmltv_id="Actionhd Sky De">Actionhd Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="adultchannel.co.uk" xmltv_id="Adultchannel Co Uk">Adultchannel Co Uk</channel>
+    <channel update="i" site="xmltv.se" site_id="ae-tv.de" xmltv_id="Ae Tv De">Ae Tv De</channel>
+    <channel update="i" site="xmltv.se" site_id="alfatv.fi" xmltv_id="Alfatv Fi">Alfatv Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="animalplanet.discovery.de" xmltv_id="Animalplanet Discovery De">Animalplanet Discovery De</channel>
+    <channel update="i" site="xmltv.se" site_id="animalplanet.discovery.dk" xmltv_id="Animalplanet Discovery Dk">Animalplanet Discovery Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="animalplanet.discovery.eu" xmltv_id="Animalplanet Discovery Eu">Animalplanet Discovery Eu</channel>
+    <channel update="i" site="xmltv.se" site_id="animalplanet.discovery.fi" xmltv_id="Animalplanet Discovery Fi">Animalplanet Discovery Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="animalplanet.discovery.no" xmltv_id="Animalplanet Discovery No">Animalplanet Discovery No</channel>
+    <channel update="i" site="xmltv.se" site_id="animalplanet.se" xmltv_id="Animalplanet Se">Animalplanet Se</channel>
+    <channel update="i" site="xmltv.se" site_id="ar.france24.com" xmltv_id="Ar France24 Com">Ar France24 Com</channel>
+    <channel update="i" site="xmltv.se" site_id="arte.de" xmltv_id="Arte De">Arte De</channel>
+    <channel update="i" site="xmltv.se" site_id="arthouse.spi.pl" xmltv_id="Arthouse Spi Pl">Arthouse Spi Pl</channel>
+    <channel update="i" site="xmltv.se" site_id="arts.sky.de" xmltv_id="Arts Sky De">Arts Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="asia.tve.es" xmltv_id="Asia Tve Es">Asia Tve Es</channel>
+    <channel update="i" site="xmltv.se" site_id="asien.dw.de" xmltv_id="Asien Dw De">Asien Dw De</channel>
+    <channel update="i" site="xmltv.se" site_id="at.viva.tv" xmltv_id="At Viva Tv">At Viva Tv</channel>
+    <channel update="i" site="xmltv.se" site_id="atlantic.sky.de" xmltv_id="Atlantic Sky De">Atlantic Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="atlantichd.sky.de" xmltv_id="Atlantichd Sky De">Atlantichd Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="atlanticp1.sky.de" xmltv_id="Atlanticp1 Sky De">Atlanticp1 Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="atv.at" xmltv_id="Atv At">Atv At</channel>
+    <channel update="i" site="xmltv.se" site_id="atv2.at" xmltv_id="Atv2 At">Atv2 At</channel>
+    <channel update="i" site="xmltv.se" site_id="auto-motor-und-sport.tv" xmltv_id="Auto Motor Und Sport Tv">Auto Motor Und Sport Tv</channel>
+    <channel update="i" site="xmltv.se" site_id="ava.mtv.fi" xmltv_id="Ava Mtv Fi">Ava Mtv Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="axess.se" xmltv_id="Axess Se">Axess Se</channel>
+    <channel update="i" site="xmltv.se" site_id="axntv.de" xmltv_id="Axntv De">Axntv De</channel>
+    <channel update="i" site="xmltv.se" site_id="bandit.se" xmltv_id="Bandit Se">Bandit Se</channel>
+    <channel update="i" site="xmltv.se" site_id="bangutv.com" xmltv_id="Bangutv Com">Bangutv Com</channel>
+    <channel update="i" site="xmltv.se" site_id="bbcentertainment.com" xmltv_id="Bbcentertainment Com">Bbcentertainment Com</channel>
+    <channel update="i" site="xmltv.se" site_id="bbcentertainment.dk" xmltv_id="Bbcentertainment Dk">Bbcentertainment Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="bbcentertainment.fi" xmltv_id="Bbcentertainment Fi">Bbcentertainment Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="bbcknowledge.com" xmltv_id="Bbcknowledge Com">Bbcknowledge Com</channel>
+    <channel update="i" site="xmltv.se" site_id="bbcknowledge.dk" xmltv_id="Bbcknowledge Dk">Bbcknowledge Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="bbcknowledge.fi" xmltv_id="Bbcknowledge Fi">Bbcknowledge Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="bbcworldnews.com" xmltv_id="Bbcworldnews Com">Bbcworldnews Com</channel>
+    <channel update="i" site="xmltv.se" site_id="beate-uhse.tv" xmltv_id="Beate Uhse Tv">Beate Uhse Tv</channel>
+    <channel update="i" site="xmltv.se" site_id="belsat.eu" xmltv_id="Belsat Eu">Belsat Eu</channel>
+    <channel update="i" site="xmltv.se" site_id="berl.rbb-online.de" xmltv_id="Berl Rbb Online De">Berl Rbb Online De</channel>
+    <channel update="i" site="xmltv.se" site_id="bfs.daserste.de" xmltv_id="Bfs Daserste De">Bfs Daserste De</channel>
+    <channel update="i" site="xmltv.se" site_id="bibeltv.de" xmltv_id="Bibeltv De">Bibeltv De</channel>
+    <channel update="i" site="xmltv.se" site_id="bliss.tv2.no" xmltv_id="Bliss Tv2 No">Bliss Tv2 No</channel>
+    <channel update="i" site="xmltv.se" site_id="blizztv.de" xmltv_id="Blizztv De">Blizztv De</channel>
+    <channel update="i" site="xmltv.se" site_id="bongusto.tv" xmltv_id="Bongusto Tv">Bongusto Tv</channel>
+    <channel update="i" site="xmltv.se" site_id="bornholm.p4.dr.dk" xmltv_id="Bornholm P4 Dr. Dk">Bornholm P4 Dr. Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="br-alpha.daserste.de" xmltv_id="Br Alpha Daserste De">Br Alpha Daserste De</channel>
+    <channel update="i" site="xmltv.se" site_id="brandnew.mtv.de" xmltv_id="Brandnew Mtv De">Brandnew Mtv De</channel>
+    <channel update="i" site="xmltv.se" site_id="brazzerstveurope.com" xmltv_id="Brazzerstveurope Com">Brazzerstveurope Com</channel>
+    <channel update="i" site="xmltv.se" site_id="bundesliga1.sky.de" xmltv_id="Bundesliga1 Sky De">Bundesliga1 Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="bundesliga10.sky.de" xmltv_id="Bundesliga10 Sky De">Bundesliga10 Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="bundesliga2.sky.de" xmltv_id="Bundesliga2 Sky De">Bundesliga2 Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="bundesliga3.sky.de" xmltv_id="Bundesliga3 Sky De">Bundesliga3 Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="bundesliga4.sky.de" xmltv_id="Bundesliga4 Sky De">Bundesliga4 Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="bundesliga5.sky.de" xmltv_id="Bundesliga5 Sky De">Bundesliga5 Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="bundesliga6.sky.de" xmltv_id="Bundesliga6 Sky De">Bundesliga6 Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="bundesliga7.sky.de" xmltv_id="Bundesliga7 Sky De">Bundesliga7 Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="bundesliga8.sky.de" xmltv_id="Bundesliga8 Sky De">Bundesliga8 Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="bundesliga9.sky.de" xmltv_id="Bundesliga9 Sky De">Bundesliga9 Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="bundesligahd1.sky.de" xmltv_id="Bundesligahd1 Sky De">Bundesligahd1 Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="bundesligahd10.sky.de" xmltv_id="Bundesligahd10 Sky De">Bundesligahd10 Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="bundesligahd2.sky.de" xmltv_id="Bundesligahd2 Sky De">Bundesligahd2 Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="bundesligahd3.sky.de" xmltv_id="Bundesligahd3 Sky De">Bundesligahd3 Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="bundesligahd4.sky.de" xmltv_id="Bundesligahd4 Sky De">Bundesligahd4 Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="bundesligahd5.sky.de" xmltv_id="Bundesligahd5 Sky De">Bundesligahd5 Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="bundesligahd6.sky.de" xmltv_id="Bundesligahd6 Sky De">Bundesligahd6 Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="bundesligahd7.sky.de" xmltv_id="Bundesligahd7 Sky De">Bundesligahd7 Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="bundesligahd8.sky.de" xmltv_id="Bundesligahd8 Sky De">Bundesligahd8 Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="bundesligahd9.sky.de" xmltv_id="Bundesligahd9 Sky De">Bundesligahd9 Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="bundesligauhd.sky.de" xmltv_id="Bundesligauhd Sky De">Bundesligauhd Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="bw.swr.daserste.de" xmltv_id="Bw Swr Daserste De">Bw Swr Daserste De</channel>
+    <channel update="i" site="xmltv.se" site_id="canal24h.rtve.es" xmltv_id="Canal24h Rtve Es">Canal24h Rtve Es</channel>
+    <channel update="i" site="xmltv.se" site_id="canal9.dk" xmltv_id="Canal9 Dk">Canal9 Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="canale5.mediaset.it" xmltv_id="Canale5 Mediaset It">Canale5 Mediaset It</channel>
+    <channel update="i" site="xmltv.se" site_id="cbsreality.tv" xmltv_id="Cbsreality Tv">Cbsreality Tv</channel>
+    <channel update="i" site="xmltv.se" site_id="ch.viva.tv" xmltv_id="Ch Viva Tv">Ch Viva Tv</channel>
+    <channel update="i" site="xmltv.se" site_id="channels-Austria.xml.gz&lt;/a.gz&quot;&gt;" xmltv_id="Channels Austria Xml Gz&lt;/a Gz&quot;&gt;">Channels Austria Xml Gz&lt;/a Gz"&gt;</channel>
+    <channel update="i" site="xmltv.se" site_id="channels-Croatia.xml.gz&lt;/a.gz&quot;&gt;" xmltv_id="Channels Croatia Xml Gz&lt;/a Gz&quot;&gt;">Channels Croatia Xml Gz&lt;/a Gz"&gt;</channel>
+    <channel update="i" site="xmltv.se" site_id="channels-DEV.xml.gz&lt;/a.gz&quot;&gt;" xmltv_id="Channels Dev Xml Gz&lt;/a Gz&quot;&gt;">Channels Dev Xml Gz&lt;/a Gz"&gt;</channel>
+    <channel update="i" site="xmltv.se" site_id="channels-Denmark.xml.gz&lt;/a.gz&quot;&gt;" xmltv_id="Channels Denmark Xml Gz&lt;/a Gz&quot;&gt;">Channels Denmark Xml Gz&lt;/a Gz"&gt;</channel>
+    <channel update="i" site="xmltv.se" site_id="channels-Estonia.xml.gz&lt;/a.gz&quot;&gt;" xmltv_id="Channels Estonia Xml Gz&lt;/a Gz&quot;&gt;">Channels Estonia Xml Gz&lt;/a Gz"&gt;</channel>
+    <channel update="i" site="xmltv.se" site_id="channels-Finland.xml.gz&lt;/a.gz&quot;&gt;" xmltv_id="Channels Finland Xml Gz&lt;/a Gz&quot;&gt;">Channels Finland Xml Gz&lt;/a Gz"&gt;</channel>
+    <channel update="i" site="xmltv.se" site_id="channels-Germany.xml.gz&lt;/a.gz&quot;&gt;" xmltv_id="Channels Germany Xml Gz&lt;/a Gz&quot;&gt;">Channels Germany Xml Gz&lt;/a Gz"&gt;</channel>
+    <channel update="i" site="xmltv.se" site_id="channels-Hungary.xml.gz&lt;/a.gz&quot;&gt;" xmltv_id="Channels Hungary Xml Gz&lt;/a Gz&quot;&gt;">Channels Hungary Xml Gz&lt;/a Gz"&gt;</channel>
+    <channel update="i" site="xmltv.se" site_id="channels-Italy.xml.gz&lt;/a.gz&quot;&gt;" xmltv_id="Channels Italy Xml Gz&lt;/a Gz&quot;&gt;">Channels Italy Xml Gz&lt;/a Gz"&gt;</channel>
+    <channel update="i" site="xmltv.se" site_id="channels-Latvia.xml.gz&lt;/a.gz&quot;&gt;" xmltv_id="Channels Latvia Xml Gz&lt;/a Gz&quot;&gt;">Channels Latvia Xml Gz&lt;/a Gz"&gt;</channel>
+    <channel update="i" site="xmltv.se" site_id="channels-Lithuania.xml.gz&lt;/a.gz&quot;&gt;" xmltv_id="Channels Lithuania Xml Gz&lt;/a Gz&quot;&gt;">Channels Lithuania Xml Gz&lt;/a Gz"&gt;</channel>
+    <channel update="i" site="xmltv.se" site_id="channels-Netherlands.xml.gz&lt;/a.gz&quot;&gt;" xmltv_id="Channels Netherlands Xml Gz&lt;/a Gz&quot;&gt;">Channels Netherlands Xml Gz&lt;/a Gz"&gt;</channel>
+    <channel update="i" site="xmltv.se" site_id="channels-Norway.xml.gz&lt;/a.gz&quot;&gt;" xmltv_id="Channels Norway Xml Gz&lt;/a Gz&quot;&gt;">Channels Norway Xml Gz&lt;/a Gz"&gt;</channel>
+    <channel update="i" site="xmltv.se" site_id="channels-Poland.xml.gz&lt;/a.gz&quot;&gt;" xmltv_id="Channels Poland Xml Gz&lt;/a Gz&quot;&gt;">Channels Poland Xml Gz&lt;/a Gz"&gt;</channel>
+    <channel update="i" site="xmltv.se" site_id="channels-RADIO.xml.gz&lt;/a.gz&quot;&gt;" xmltv_id="Channels Radio Xml Gz&lt;/a Gz&quot;&gt;">Channels Radio Xml Gz&lt;/a Gz"&gt;</channel>
+    <channel update="i" site="xmltv.se" site_id="channels-Sweden.xml.gz&lt;/a.gz&quot;&gt;" xmltv_id="Channels Sweden Xml Gz&lt;/a Gz&quot;&gt;">Channels Sweden Xml Gz&lt;/a Gz"&gt;</channel>
+    <channel update="i" site="xmltv.se" site_id="channels-Switzerland.xml.gz&lt;/a.gz&quot;&gt;" xmltv_id="Channels Switzerland Xml Gz&lt;/a Gz&quot;&gt;">Channels Switzerland Xml Gz&lt;/a Gz"&gt;</channel>
+    <channel update="i" site="xmltv.se" site_id="channels-TV.xml.gz&lt;/a.gz&quot;&gt;" xmltv_id="Channels Tv Xml Gz&lt;/a Gz&quot;&gt;">Channels Tv Xml Gz&lt;/a Gz"&gt;</channel>
+    <channel update="i" site="xmltv.se" site_id="channels.xml.gz&lt;/a.gz&quot;&gt;" xmltv_id="Channels Xml Gz&lt;/a Gz&quot;&gt;">Channels Xml Gz&lt;/a Gz"&gt;</channel>
+    <channel update="i" site="xmltv.se" site_id="charlie.tv2.dk" xmltv_id="Charlie Tv2 Dk">Charlie Tv2 Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="cinema.sky.de" xmltv_id="Cinema Sky De">Cinema Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="cinemagic.disneychannel.de" xmltv_id="Cinemagic Disneychannel De">Cinemagic Disneychannel De</channel>
+    <channel update="i" site="xmltv.se" site_id="cinemahd.sky.de" xmltv_id="Cinemahd Sky De">Cinemahd Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="cinemax.hr" xmltv_id="Cinemax Hr">Cinemax Hr</channel>
+    <channel update="i" site="xmltv.se" site_id="cinemax.si" xmltv_id="Cinemax Si">Cinemax Si</channel>
+    <channel update="i" site="xmltv.se" site_id="cinemax2.cinemax.hr" xmltv_id="Cinemax2 Cinemax Hr">Cinemax2 Cinemax Hr</channel>
+    <channel update="i" site="xmltv.se" site_id="cinemax2.cinemax.si" xmltv_id="Cinemax2 Cinemax Si">Cinemax2 Cinemax Si</channel>
+    <channel update="i" site="xmltv.se" site_id="clan.rtve.es" xmltv_id="Clan Rtve Es">Clan Rtve Es</channel>
+    <channel update="i" site="xmltv.se" site_id="classic.uptown.dk" xmltv_id="Classic Uptown Dk">Classic Uptown Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="classic.vh1.se" xmltv_id="Classic Vh1 Se">Classic Vh1 Se</channel>
+    <channel update="i" site="xmltv.se" site_id="classica.de" xmltv_id="Classica De">Classica De</channel>
+    <channel update="i" site="xmltv.se" site_id="classics.kabel1.de" xmltv_id="Classics Kabel1 De">Classics Kabel1 De</channel>
+    <channel update="i" site="xmltv.se" site_id="classicshd.kabel1.de" xmltv_id="Classicshd Kabel1 De">Classicshd Kabel1 De</channel>
+    <channel update="i" site="xmltv.se" site_id="comedy.sky.de" xmltv_id="Comedy Sky De">Comedy Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="comedycentral.at" xmltv_id="Comedycentral At">Comedycentral At</channel>
+    <channel update="i" site="xmltv.se" site_id="comedycentral.ch" xmltv_id="Comedycentral Ch">Comedycentral Ch</channel>
+    <channel update="i" site="xmltv.se" site_id="comedycentral.de" xmltv_id="Comedycentral De">Comedycentral De</channel>
+    <channel update="i" site="xmltv.se" site_id="comedycentral.dk" xmltv_id="Comedycentral Dk">Comedycentral Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="comedycentral.no" xmltv_id="Comedycentral No">Comedycentral No</channel>
+    <channel update="i" site="xmltv.se" site_id="comedycentral.pl" xmltv_id="Comedycentral Pl">Comedycentral Pl</channel>
+    <channel update="i" site="xmltv.se" site_id="comedycentral.tv" xmltv_id="Comedycentral Tv">Comedycentral Tv</channel>
+    <channel update="i" site="xmltv.se" site_id="crimeandinvestigation.eu" xmltv_id="Crimeandinvestigation Eu">Crimeandinvestigation Eu</channel>
+    <channel update="i" site="xmltv.se" site_id="crimeandinvestigation.pl" xmltv_id="Crimeandinvestigation Pl">Crimeandinvestigation Pl</channel>
+    <channel update="i" site="xmltv.se" site_id="crimehd.rtl.de" xmltv_id="Crimehd Rtl De">Crimehd Rtl De</channel>
+    <channel update="i" site="xmltv.se" site_id="dance.mtv.no" xmltv_id="Dance Mtv No">Dance Mtv No</channel>
+    <channel update="i" site="xmltv.se" site_id="dance.mtv.se" xmltv_id="Dance Mtv Se">Dance Mtv Se</channel>
+    <channel update="i" site="xmltv.se" site_id="daserste.de" xmltv_id="Daserste De">Daserste De</channel>
+    <channel update="i" site="xmltv.se" site_id="datalist.xml.gz&lt;/a.gz&quot;&gt;" xmltv_id="Datalist Xml Gz&lt;/a Gz&quot;&gt;">Datalist Xml Gz&lt;/a Gz"&gt;</channel>
+    <channel update="i" site="xmltv.se" site_id="de.eonline.com" xmltv_id="De Eonline Com">De Eonline Com</channel>
+    <channel update="i" site="xmltv.se" site_id="deluxemusic.tv" xmltv_id="Deluxemusic Tv">Deluxemusic Tv</channel>
+    <channel update="i" site="xmltv.se" site_id="deutschplus.dw.de" xmltv_id="Deutschplus Dw De">Deutschplus Dw De</channel>
+    <channel update="i" site="xmltv.se" site_id="discovery.de" xmltv_id="Discovery De">Discovery De</channel>
+    <channel update="i" site="xmltv.se" site_id="discovery.dk" xmltv_id="Discovery Dk">Discovery Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="discovery.fi" xmltv_id="Discovery Fi">Discovery Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="discovery.no" xmltv_id="Discovery No">Discovery No</channel>
+    <channel update="i" site="xmltv.se" site_id="discoverychannel.se" xmltv_id="Discoverychannel Se">Discoverychannel Se</channel>
+    <channel update="i" site="xmltv.se" site_id="disneychannel.com" xmltv_id="Disneychannel Com">Disneychannel Com</channel>
+    <channel update="i" site="xmltv.se" site_id="disneychannel.de" xmltv_id="Disneychannel De">Disneychannel De</channel>
+    <channel update="i" site="xmltv.se" site_id="disneychannel.dk" xmltv_id="Disneychannel Dk">Disneychannel Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="disneychannel.fi" xmltv_id="Disneychannel Fi">Disneychannel Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="disneychannel.no" xmltv_id="Disneychannel No">Disneychannel No</channel>
+    <channel update="i" site="xmltv.se" site_id="disneychannel.se" xmltv_id="Disneychannel Se">Disneychannel Se</channel>
+    <channel update="i" site="xmltv.se" site_id="disneyxd.boxer.se" xmltv_id="Disneyxd Boxer Se">Disneyxd Boxer Se</channel>
+    <channel update="i" site="xmltv.se" site_id="dk.eonline.com" xmltv_id="Dk Eonline Com">Dk Eonline Com</channel>
+    <channel update="i" site="xmltv.se" site_id="dk4.dk" xmltv_id="Dk4 Dk">Dk4 Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="dmax.discovery.de" xmltv_id="Dmax Discovery De">Dmax Discovery De</channel>
+    <channel update="i" site="xmltv.se" site_id="dmaxhd.discovery.de" xmltv_id="Dmaxhd Discovery De">Dmaxhd Discovery De</channel>
+    <channel update="i" site="xmltv.se" site_id="docubox.spi.pl" xmltv_id="Docubox Spi Pl">Docubox Spi Pl</channel>
+    <channel update="i" site="xmltv.se" site_id="doku.kabel1.de" xmltv_id="Doku Kabel1 De">Doku Kabel1 De</channel>
+    <channel update="i" site="xmltv.se" site_id="domatv.hr" xmltv_id="Domatv Hr">Domatv Hr</channel>
+    <channel update="i" site="xmltv.se" site_id="dr1.dr.dk" xmltv_id="Dr1 Dr. Dk">Dr1 Dr. Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="dr1hd.dr.dk" xmltv_id="Dr1hd Dr. Dk">Dr1hd Dr. Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="dr2.dr.dk" xmltv_id="Dr2 Dr. Dk">Dr2 Dr. Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="dr3.dr.dk" xmltv_id="Dr3 Dr. Dk">Dr3 Dr. Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="dr3hd.dr.dk" xmltv_id="Dr3hd Dr. Dk">Dr3hd Dr. Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="dw.de" xmltv_id="Dw De">Dw De</channel>
+    <channel update="i" site="xmltv.se" site_id="eins.sky.de" xmltv_id="Eins Sky De">Eins Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="einsextra.daserste.de" xmltv_id="Einsextra Daserste De">Einsextra Daserste De</channel>
+    <channel update="i" site="xmltv.se" site_id="einsfestival.daserste.de" xmltv_id="Einsfestival Daserste De">Einsfestival Daserste De</channel>
+    <channel update="i" site="xmltv.se" site_id="einshd.sky.de" xmltv_id="Einshd Sky De">Einshd Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="emotion.cmore.dk" xmltv_id="Emotion Cmore Dk">Emotion Cmore Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="emotion.cmore.fi" xmltv_id="Emotion Cmore Fi">Emotion Cmore Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="emotion.cmore.no" xmltv_id="Emotion Cmore No">Emotion Cmore No</channel>
+    <channel update="i" site="xmltv.se" site_id="emotion.cmore.se" xmltv_id="Emotion Cmore Se">Emotion Cmore Se</channel>
+    <channel update="i" site="xmltv.se" site_id="emotion.sky.de" xmltv_id="Emotion Sky De">Emotion Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="emotions.sat1.de" xmltv_id="Emotions Sat1 De">Emotions Sat1 De</channel>
+    <channel update="i" site="xmltv.se" site_id="en.discovery.dk" xmltv_id="En Discovery Dk">En Discovery Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="en.discovery.no" xmltv_id="En Discovery No">En Discovery No</channel>
+    <channel update="i" site="xmltv.se" site_id="en.discoverychannel.se" xmltv_id="En Discoverychannel Se">En Discoverychannel Se</channel>
+    <channel update="i" site="xmltv.se" site_id="en.tlc.discovery.dk" xmltv_id="En Tlc Discovery Dk">En Tlc Discovery Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="en.tlc.discovery.no" xmltv_id="En Tlc Discovery No">En Tlc Discovery No</channel>
+    <channel update="i" site="xmltv.se" site_id="en.tlc.discovery.se" xmltv_id="En Tlc Discovery Se">En Tlc Discovery Se</channel>
+    <channel update="i" site="xmltv.se" site_id="epicdrama.ee.viasatworld.com" xmltv_id="Epicdrama Ee Viasatworld Com">Epicdrama Ee Viasatworld Com</channel>
+    <channel update="i" site="xmltv.se" site_id="epicdrama.lt.viasatworld.com" xmltv_id="Epicdrama Lt Viasatworld Com">Epicdrama Lt Viasatworld Com</channel>
+    <channel update="i" site="xmltv.se" site_id="epicdrama.lv.viasatworld.com" xmltv_id="Epicdrama Lv Viasatworld Com">Epicdrama Lv Viasatworld Com</channel>
+    <channel update="i" site="xmltv.se" site_id="erox.spi.pl" xmltv_id="Erox Spi Pl">Erox Spi Pl</channel>
+    <channel update="i" site="xmltv.se" site_id="eroxxx.spi.pl" xmltv_id="Eroxxx Spi Pl">Eroxxx Spi Pl</channel>
+    <channel update="i" site="xmltv.se" site_id="esbjerg.p4.dr.dk" xmltv_id="Esbjerg P4 Dr. Dk">Esbjerg P4 Dr. Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="esports.viasat.dk" xmltv_id="Esports Viasat Dk">Esports Viasat Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="esports.viasat.fi" xmltv_id="Esports Viasat Fi">Esports Viasat Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="esports.viasat.no" xmltv_id="Esports Viasat No">Esports Viasat No</channel>
+    <channel update="i" site="xmltv.se" site_id="esports.viasat.se" xmltv_id="Esports Viasat Se">Esports Viasat Se</channel>
+    <channel update="i" site="xmltv.se" site_id="etv1.err.ee" xmltv_id="Etv1 Err Ee">Etv1 Err Ee</channel>
+    <channel update="i" site="xmltv.se" site_id="etv2.err.ee" xmltv_id="Etv2 Err Ee">Etv2 Err Ee</channel>
+    <channel update="i" site="xmltv.se" site_id="etvplus.err.ee" xmltv_id="Etvplus Err Ee">Etvplus Err Ee</channel>
+    <channel update="i" site="xmltv.se" site_id="euronews.com" xmltv_id="Euronews Com">Euronews Com</channel>
+    <channel update="i" site="xmltv.se" site_id="europa.tve.es" xmltv_id="Europa Tve Es">Europa Tve Es</channel>
+    <channel update="i" site="xmltv.se" site_id="europe.bloomberg.com" xmltv_id="Europe Bloomberg Com">Europe Bloomberg Com</channel>
+    <channel update="i" site="xmltv.se" site_id="europe.bluehustler.com" xmltv_id="Europe Bluehustler Com">Europe Bluehustler Com</channel>
+    <channel update="i" site="xmltv.se" site_id="europe.cnbc.com" xmltv_id="Europe Cnbc Com">Europe Cnbc Com</channel>
+    <channel update="i" site="xmltv.se" site_id="europe.daringtv.com" xmltv_id="Europe Daringtv Com">Europe Daringtv Com</channel>
+    <channel update="i" site="xmltv.se" site_id="europe.hustlertv.com" xmltv_id="Europe Hustlertv Com">Europe Hustlertv Com</channel>
+    <channel update="i" site="xmltv.se" site_id="europe.playboytv.com" xmltv_id="Europe Playboytv Com">Europe Playboytv Com</channel>
+    <channel update="i" site="xmltv.se" site_id="europe.realitykings.com" xmltv_id="Europe Realitykings Com">Europe Realitykings Com</channel>
+    <channel update="i" site="xmltv.se" site_id="eurosport.de" xmltv_id="Eurosport De">Eurosport De</channel>
+    <channel update="i" site="xmltv.se" site_id="eurosport.dk" xmltv_id="Eurosport Dk">Eurosport Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="eurosport.fi" xmltv_id="Eurosport Fi">Eurosport Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="eurosport.it" xmltv_id="Eurosport It">Eurosport It</channel>
+    <channel update="i" site="xmltv.se" site_id="eurosport.no" xmltv_id="Eurosport No">Eurosport No</channel>
+    <channel update="i" site="xmltv.se" site_id="eurosport.pl" xmltv_id="Eurosport Pl">Eurosport Pl</channel>
+    <channel update="i" site="xmltv.se" site_id="eurosport.sbsdiscovery.no" xmltv_id="Eurosport Sbsdiscovery No">Eurosport Sbsdiscovery No</channel>
+    <channel update="i" site="xmltv.se" site_id="eurosport.sbstv.dk" xmltv_id="Eurosport Sbstv Dk">Eurosport Sbstv Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="eurosport.se" xmltv_id="Eurosport Se">Eurosport Se</channel>
+    <channel update="i" site="xmltv.se" site_id="eurosport2.eurosport.it" xmltv_id="Eurosport2 Eurosport It">Eurosport2 Eurosport It</channel>
+    <channel update="i" site="xmltv.se" site_id="eurosport2.fi" xmltv_id="Eurosport2 Fi">Eurosport2 Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="eurosport2.no" xmltv_id="Eurosport2 No">Eurosport2 No</channel>
+    <channel update="i" site="xmltv.se" site_id="eurosport2.pl" xmltv_id="Eurosport2 Pl">Eurosport2 Pl</channel>
+    <channel update="i" site="xmltv.se" site_id="eurosport2.se" xmltv_id="Eurosport2 Se">Eurosport2 Se</channel>
+    <channel update="i" site="xmltv.se" site_id="eurosporthd.sbsdiscovery.no" xmltv_id="Eurosporthd Sbsdiscovery No">Eurosporthd Sbsdiscovery No</channel>
+    <channel update="i" site="xmltv.se" site_id="explore.ee.viasatworld.com" xmltv_id="Explore Ee Viasatworld Com">Explore Ee Viasatworld Com</channel>
+    <channel update="i" site="xmltv.se" site_id="explore.hr.viasatworld.com" xmltv_id="Explore Hr Viasatworld Com">Explore Hr Viasatworld Com</channel>
+    <channel update="i" site="xmltv.se" site_id="explore.hu.viasatworld.com" xmltv_id="Explore Hu Viasatworld Com">Explore Hu Viasatworld Com</channel>
+    <channel update="i" site="xmltv.se" site_id="explore.lt.viasatworld.com" xmltv_id="Explore Lt Viasatworld Com">Explore Lt Viasatworld Com</channel>
+    <channel update="i" site="xmltv.se" site_id="explore.lv.viasatworld.com" xmltv_id="Explore Lv Viasatworld Com">Explore Lv Viasatworld Com</channel>
+    <channel update="i" site="xmltv.se" site_id="explore.viasat.pl" xmltv_id="Explore Viasat Pl">Explore Viasat Pl</channel>
+    <channel update="i" site="xmltv.se" site_id="explorehd.viasat.dk" xmltv_id="Explorehd Viasat Dk">Explorehd Viasat Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="explorehd.viasat.fi" xmltv_id="Explorehd Viasat Fi">Explorehd Viasat Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="explorehd.viasat.no" xmltv_id="Explorehd Viasat No">Explorehd Viasat No</channel>
+    <channel update="i" site="xmltv.se" site_id="explorehd.viasat.se" xmltv_id="Explorehd Viasat Se">Explorehd Viasat Se</channel>
+    <channel update="i" site="xmltv.se" site_id="explorer.viasat.dk" xmltv_id="Explorer Viasat Dk">Explorer Viasat Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="explorer.viasat.fi" xmltv_id="Explorer Viasat Fi">Explorer Viasat Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="explorer.viasat.no" xmltv_id="Explorer Viasat No">Explorer Viasat No</channel>
+    <channel update="i" site="xmltv.se" site_id="explorer.viasat.se" xmltv_id="Explorer Viasat Se">Explorer Viasat Se</channel>
+    <channel update="i" site="xmltv.se" site_id="extra.mediaset.it" xmltv_id="Extra Mediaset It">Extra Mediaset It</channel>
+    <channel update="i" site="xmltv.se" site_id="extremesports.com" xmltv_id="Extremesports Com">Extremesports Com</channel>
+    <channel update="i" site="xmltv.se" site_id="fakta.tv4.se" xmltv_id="Fakta Tv4 Se">Fakta Tv4 Se</channel>
+    <channel update="i" site="xmltv.se" site_id="family.cinema.sky.de" xmltv_id="Family Cinema Sky De">Family Cinema Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="family.comedycentral.pl" xmltv_id="Family Comedycentral Pl">Family Comedycentral Pl</channel>
+    <channel update="i" site="xmltv.se" site_id="family.film.viasat.dk" xmltv_id="Family Film Viasat Dk">Family Film Viasat Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="family.film.viasat.fi" xmltv_id="Family Film Viasat Fi">Family Film Viasat Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="family.film.viasat.no" xmltv_id="Family Film Viasat No">Family Film Viasat No</channel>
+    <channel update="i" site="xmltv.se" site_id="family.film.viasat.se" xmltv_id="Family Film Viasat Se">Family Film Viasat Se</channel>
+    <channel update="i" site="xmltv.se" site_id="familyhd.cinema.sky.de" xmltv_id="Familyhd Cinema Sky De">Familyhd Cinema Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="familyhd.film.viasat.se" xmltv_id="Familyhd Film Viasat Se">Familyhd Film Viasat Se</channel>
+    <channel update="i" site="xmltv.se" site_id="familytv.de" xmltv_id="Familytv De">Familytv De</channel>
+    <channel update="i" site="xmltv.se" site_id="fashionbox.spi.pl" xmltv_id="Fashionbox Spi Pl">Fashionbox Spi Pl</channel>
+    <channel update="i" site="xmltv.se" site_id="fastandfun.spi.pl" xmltv_id="Fastandfun Spi Pl">Fastandfun Spi Pl</channel>
+    <channel update="i" site="xmltv.se" site_id="fatstone.tv" xmltv_id="Fatstone Tv">Fatstone Tv</channel>
+    <channel update="i" site="xmltv.se" site_id="fem.no" xmltv_id="Fem No">Fem No</channel>
+    <channel update="i" site="xmltv.se" site_id="fem.yle.fi" xmltv_id="Fem Yle Fi">Fem Yle Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="fightbox.spi.pl" xmltv_id="Fightbox Spi Pl">Fightbox Spi Pl</channel>
+    <channel update="i" site="xmltv.se" site_id="film.tv4.se" xmltv_id="Film Tv4 Se">Film Tv4 Se</channel>
+    <channel update="i" site="xmltv.se" site_id="film.viasat.dk" xmltv_id="Film Viasat Dk">Film Viasat Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="film.viasat.fi" xmltv_id="Film Viasat Fi">Film Viasat Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="film.viasat.no" xmltv_id="Film Viasat No">Film Viasat No</channel>
+    <channel update="i" site="xmltv.se" site_id="film.viasat.se" xmltv_id="Film Viasat Se">Film Viasat Se</channel>
+    <channel update="i" site="xmltv.se" site_id="filmboxbasic.spi.pl" xmltv_id="Filmboxbasic Spi Pl">Filmboxbasic Spi Pl</channel>
+    <channel update="i" site="xmltv.se" site_id="filmboxfamily.spi.pl" xmltv_id="Filmboxfamily Spi Pl">Filmboxfamily Spi Pl</channel>
+    <channel update="i" site="xmltv.se" site_id="filmboxhd.spi.pl" xmltv_id="Filmboxhd Spi Pl">Filmboxhd Spi Pl</channel>
+    <channel update="i" site="xmltv.se" site_id="filmboxplus.spi.pl" xmltv_id="Filmboxplus Spi Pl">Filmboxplus Spi Pl</channel>
+    <channel update="i" site="xmltv.se" site_id="filmboxpremium.spi.pl" xmltv_id="Filmboxpremium Spi Pl">Filmboxpremium Spi Pl</channel>
+    <channel update="i" site="xmltv.se" site_id="first.cmore.dk" xmltv_id="First Cmore Dk">First Cmore Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="first.cmore.fi" xmltv_id="First Cmore Fi">First Cmore Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="first.cmore.no" xmltv_id="First Cmore No">First Cmore No</channel>
+    <channel update="i" site="xmltv.se" site_id="first.cmore.se" xmltv_id="First Cmore Se">First Cmore Se</channel>
+    <channel update="i" site="xmltv.se" site_id="firsthd.cmore.se" xmltv_id="Firsthd Cmore Se">Firsthd Cmore Se</channel>
+    <channel update="i" site="xmltv.se" site_id="fixundfoxi.tv" xmltv_id="Fixundfoxi Tv">Fixundfoxi Tv</channel>
+    <channel update="i" site="xmltv.se" site_id="focus.mediaset.it" xmltv_id="Focus Mediaset It">Focus Mediaset It</channel>
+    <channel update="i" site="xmltv.se" site_id="fotball.viasat.no" xmltv_id="Fotball Viasat No">Fotball Viasat No</channel>
+    <channel update="i" site="xmltv.se" site_id="fotboll-hockey-kids.cmore.se" xmltv_id="Fotboll Hockey Kids Cmore Se">Fotboll Hockey Kids Cmore Se</channel>
+    <channel update="i" site="xmltv.se" site_id="fotboll.cmore.se" xmltv_id="Fotboll Cmore Se">Fotboll Cmore Se</channel>
+    <channel update="i" site="xmltv.se" site_id="fotboll.viasat.se" xmltv_id="Fotboll Viasat Se">Fotboll Viasat Se</channel>
+    <channel update="i" site="xmltv.se" site_id="fox.fi" xmltv_id="Fox Fi">Fox Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="foxchannel.de" xmltv_id="Foxchannel De">Foxchannel De</channel>
+    <channel update="i" site="xmltv.se" site_id="foxtv.ee" xmltv_id="Foxtv Ee">Foxtv Ee</channel>
+    <channel update="i" site="xmltv.se" site_id="foxtv.lt" xmltv_id="Foxtv Lt">Foxtv Lt</channel>
+    <channel update="i" site="xmltv.se" site_id="foxtv.lv" xmltv_id="Foxtv Lv">Foxtv Lv</channel>
+    <channel update="i" site="xmltv.se" site_id="foxtv.no" xmltv_id="Foxtv No">Foxtv No</channel>
+    <channel update="i" site="xmltv.se" site_id="foxtv.se" xmltv_id="Foxtv Se">Foxtv Se</channel>
+    <channel update="i" site="xmltv.se" site_id="fr.france24.com" xmltv_id="Fr France24 Com">Fr France24 Com</channel>
+    <channel update="i" site="xmltv.se" site_id="france24.com" xmltv_id="France24 Com">France24 Com</channel>
+    <channel update="i" site="xmltv.se" site_id="fri.tv2.dk" xmltv_id="Fri Tv2 Dk">Fri Tv2 Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="frii.sbs.fi" xmltv_id="Frii Sbs Fi">Frii Sbs Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="frikanalen.tv" xmltv_id="Frikanalen Tv">Frikanalen Tv</channel>
+    <channel update="i" site="xmltv.se" site_id="fsf.fightsports.tv" xmltv_id="Fsf Fightsports Tv">Fsf Fightsports Tv</channel>
+    <channel update="i" site="xmltv.se" site_id="ft.dk" xmltv_id="Ft Dk">Ft Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="ftv.com" xmltv_id="Ftv Com">Ftv Com</channel>
+    <channel update="i" site="xmltv.se" site_id="fuel.tv" xmltv_id="Fuel Tv">Fuel Tv</channel>
+    <channel update="i" site="xmltv.se" site_id="fun.prosieben.de" xmltv_id="Fun Prosieben De">Fun Prosieben De</channel>
+    <channel update="i" site="xmltv.se" site_id="fyn.p4.dr.dk" xmltv_id="Fyn P4 Dr. Dk">Fyn P4 Dr. Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="ginx.tv" xmltv_id="Ginx Tv">Ginx Tv</channel>
+    <channel update="i" site="xmltv.se" site_id="god.tv" xmltv_id="God Tv">God Tv</channel>
+    <channel update="i" site="xmltv.se" site_id="gold.sat1.de" xmltv_id="Gold Sat1 De">Gold Sat1 De</channel>
+    <channel update="i" site="xmltv.se" site_id="goldhd.sat1.de" xmltv_id="Goldhd Sat1 De">Goldhd Sat1 De</channel>
+    <channel update="i" site="xmltv.se" site_id="golf.cmore.dk" xmltv_id="Golf Cmore Dk">Golf Cmore Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="golf.cmore.fi" xmltv_id="Golf Cmore Fi">Golf Cmore Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="golf.cmore.se" xmltv_id="Golf Cmore Se">Golf Cmore Se</channel>
+    <channel update="i" site="xmltv.se" site_id="golf.viasat.dk" xmltv_id="Golf Viasat Dk">Golf Viasat Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="golf.viasat.fi" xmltv_id="Golf Viasat Fi">Golf Viasat Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="golf.viasat.no" xmltv_id="Golf Viasat No">Golf Viasat No</channel>
+    <channel update="i" site="xmltv.se" site_id="golf.viasat.se" xmltv_id="Golf Viasat Se">Golf Viasat Se</channel>
+    <channel update="i" site="xmltv.se" site_id="gospel.tv" xmltv_id="Gospel Tv">Gospel Tv</channel>
+    <channel update="i" site="xmltv.se" site_id="guld.tv4.se" xmltv_id="Guld Tv4 Se">Guld Tv4 Se</channel>
+    <channel update="i" site="xmltv.se" site_id="h2.historytv.dk" xmltv_id="H2 Historytv Dk">H2 Historytv Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="h2.historytv.eu" xmltv_id="H2 Historytv Eu">H2 Historytv Eu</channel>
+    <channel update="i" site="xmltv.se" site_id="h2.historytv.fi" xmltv_id="H2 Historytv Fi">H2 Historytv Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="h2.historytv.no" xmltv_id="H2 Historytv No">H2 Historytv No</channel>
+    <channel update="i" site="xmltv.se" site_id="h2.historytv.pl" xmltv_id="H2 Historytv Pl">H2 Historytv Pl</channel>
+    <channel update="i" site="xmltv.se" site_id="h2.historytv.se" xmltv_id="H2 Historytv Se">H2 Historytv Se</channel>
+    <channel update="i" site="xmltv.se" site_id="hbo.hr" xmltv_id="Hbo Hr">Hbo Hr</channel>
+    <channel update="i" site="xmltv.se" site_id="hbo.si" xmltv_id="Hbo Si">Hbo Si</channel>
+    <channel update="i" site="xmltv.se" site_id="hbo2.hbo.hr" xmltv_id="Hbo2 Hbo Hr">Hbo2 Hbo Hr</channel>
+    <channel update="i" site="xmltv.se" site_id="hbo2.hbo.si" xmltv_id="Hbo2 Hbo Si">Hbo2 Hbo Si</channel>
+    <channel update="i" site="xmltv.se" site_id="hbo3.hbo.hr" xmltv_id="Hbo3 Hbo Hr">Hbo3 Hbo Hr</channel>
+    <channel update="i" site="xmltv.se" site_id="hbo3.hbo.si" xmltv_id="Hbo3 Hbo Si">Hbo3 Hbo Si</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.13thstreet.de" xmltv_id="Hd 13thstreet De">Hd 13thstreet De</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.3sat.de" xmltv_id="Hd 3sat De">Hd 3sat De</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.6-eren.dk" xmltv_id="Hd 6 Eren Dk">Hd 6 Eren Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.animalplanet.discovery.dk" xmltv_id="Hd Animalplanet Discovery Dk">Hd Animalplanet Discovery Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.animalplanet.discovery.no" xmltv_id="Hd Animalplanet Discovery No">Hd Animalplanet Discovery No</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.animalplanet.se" xmltv_id="Hd Animalplanet Se">Hd Animalplanet Se</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.anixehd.tv" xmltv_id="Hd Anixehd Tv">Hd Anixehd Tv</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.arte.de" xmltv_id="Hd Arte De">Hd Arte De</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.bbcentertainment.com" xmltv_id="Hd Bbcentertainment Com">Hd Bbcentertainment Com</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.bbcentertainment.dk" xmltv_id="Hd Bbcentertainment Dk">Hd Bbcentertainment Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.bbcentertainment.fi" xmltv_id="Hd Bbcentertainment Fi">Hd Bbcentertainment Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.bbcentertainment.no" xmltv_id="Hd Bbcentertainment No">Hd Bbcentertainment No</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.bbcknowledge.com" xmltv_id="Hd Bbcknowledge Com">Hd Bbcknowledge Com</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.bbcknowledge.dk" xmltv_id="Hd Bbcknowledge Dk">Hd Bbcknowledge Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.bbcknowledge.fi" xmltv_id="Hd Bbcknowledge Fi">Hd Bbcknowledge Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.bbcknowledge.no" xmltv_id="Hd Bbcknowledge No">Hd Bbcknowledge No</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.bibeltv.de" xmltv_id="Hd Bibeltv De">Hd Bibeltv De</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.comedycentral.de" xmltv_id="Hd Comedycentral De">Hd Comedycentral De</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.comedycentral.no" xmltv_id="Hd Comedycentral No">Hd Comedycentral No</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.daserste.de" xmltv_id="Hd Daserste De">Hd Daserste De</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.deluxemusic.tv" xmltv_id="Hd Deluxemusic Tv">Hd Deluxemusic Tv</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.discovery.de" xmltv_id="Hd Discovery De">Hd Discovery De</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.discovery.dk" xmltv_id="Hd Discovery Dk">Hd Discovery Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.discovery.eu" xmltv_id="Hd Discovery Eu">Hd Discovery Eu</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.discovery.fi" xmltv_id="Hd Discovery Fi">Hd Discovery Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.discovery.no" xmltv_id="Hd Discovery No">Hd Discovery No</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.discoverychannel.se" xmltv_id="Hd Discoverychannel Se">Hd Discoverychannel Se</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.disneychannel.de" xmltv_id="Hd Disneychannel De">Hd Disneychannel De</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.disneychannel.dk" xmltv_id="Hd Disneychannel Dk">Hd Disneychannel Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.disneychannel.fi" xmltv_id="Hd Disneychannel Fi">Hd Disneychannel Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.disneychannel.no" xmltv_id="Hd Disneychannel No">Hd Disneychannel No</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.disneychannel.se" xmltv_id="Hd Disneychannel Se">Hd Disneychannel Se</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.eurosport.de" xmltv_id="Hd Eurosport De">Hd Eurosport De</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.eurosport.se" xmltv_id="Hd Eurosport Se">Hd Eurosport Se</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.eurosport2.se" xmltv_id="Hd Eurosport2 Se">Hd Eurosport2 Se</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.fem.no" xmltv_id="Hd Fem No">Hd Fem No</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.film.viasat.se" xmltv_id="Hd Film Viasat Se">Hd Film Viasat Se</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.first.cmore.dk" xmltv_id="Hd First Cmore Dk">Hd First Cmore Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.first.cmore.fi" xmltv_id="Hd First Cmore Fi">Hd First Cmore Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.first.cmore.no" xmltv_id="Hd First Cmore No">Hd First Cmore No</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.fotboll.cmore.se" xmltv_id="Hd Fotboll Cmore Se">Hd Fotboll Cmore Se</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.foxchannel.de" xmltv_id="Hd Foxchannel De">Hd Foxchannel De</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.foxtv.no" xmltv_id="Hd Foxtv No">Hd Foxtv No</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.foxtv.se" xmltv_id="Hd Foxtv Se">Hd Foxtv Se</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.ftv.com" xmltv_id="Hd Ftv Com">Hd Ftv Com</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.h2.historytv.se" xmltv_id="Hd H2 Historytv Se">Hd H2 Historytv Se</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.historytv.de" xmltv_id="Hd Historytv De">Hd Historytv De</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.historytv.se" xmltv_id="Hd Historytv Se">Hd Historytv Se</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.hits.cmore.dk" xmltv_id="Hd Hits Cmore Dk">Hd Hits Cmore Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.hits.cmore.fi" xmltv_id="Hd Hits Cmore Fi">Hd Hits Cmore Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.hits.cmore.no" xmltv_id="Hd Hits Cmore No">Hd Hits Cmore No</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.kabel1.de" xmltv_id="Hd Kabel1 De">Hd Kabel1 De</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.kanal5.dk" xmltv_id="Hd Kanal5 Dk">Hd Kanal5 Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.kanal5.se" xmltv_id="Hd Kanal5 Se">Hd Kanal5 Se</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.kanal9.se" xmltv_id="Hd Kanal9 Se">Hd Kanal9 Se</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.kinowelt.tv" xmltv_id="Hd Kinowelt Tv">Hd Kinowelt Tv</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.max.no" xmltv_id="Hd Max No">Hd Max No</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.mezzo.tv" xmltv_id="Hd Mezzo Tv">Hd Mezzo Tv</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.mtv.de" xmltv_id="Hd Mtv De">Hd Mtv De</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.mtv.se" xmltv_id="Hd Mtv Se">Hd Mtv Se</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.n-tv.de" xmltv_id="Hd N Tv De">Hd N Tv De</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.natgeo.de" xmltv_id="Hd Natgeo De">Hd Natgeo De</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.natgeo.se" xmltv_id="Hd Natgeo Se">Hd Natgeo Se</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.nick.de" xmltv_id="Hd Nick De">Hd Nick De</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.nickelodeon.dk" xmltv_id="Hd Nickelodeon Dk">Hd Nickelodeon Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.nickelodeon.fi" xmltv_id="Hd Nickelodeon Fi">Hd Nickelodeon Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.nickelodeon.no" xmltv_id="Hd Nickelodeon No">Hd Nickelodeon No</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.nickelodeon.se" xmltv_id="Hd Nickelodeon Se">Hd Nickelodeon Se</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.prosieben.de" xmltv_id="Hd Prosieben De">Hd Prosieben De</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.rtl.de" xmltv_id="Hd Rtl De">Hd Rtl De</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.rtl2.de" xmltv_id="Hd Rtl2 De">Hd Rtl2 De</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.sat1.de" xmltv_id="Hd Sat1 De">Hd Sat1 De</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.series.cmore.dk" xmltv_id="Hd Series Cmore Dk">Hd Series Cmore Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.series.cmore.fi" xmltv_id="Hd Series Cmore Fi">Hd Series Cmore Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.series.cmore.no" xmltv_id="Hd Series Cmore No">Hd Series Cmore No</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.servustv.com" xmltv_id="Hd Servustv Com">Hd Servustv Com</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.servustv.de" xmltv_id="Hd Servustv De">Hd Servustv De</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.sixx.de" xmltv_id="Hd Sixx De">Hd Sixx De</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.spiegel-geschichte.tv" xmltv_id="Hd Spiegel Geschichte Tv">Hd Spiegel Geschichte Tv</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.sport1.mtv.fi" xmltv_id="Hd Sport1 Mtv Fi">Hd Sport1 Mtv Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.sport2.mtv.fi" xmltv_id="Hd Sport2 Mtv Fi">Hd Sport2 Mtv Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.syfy.de" xmltv_id="Hd Syfy De">Hd Syfy De</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.tele5.de" xmltv_id="Hd Tele5 De">Hd Tele5 De</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.tlcsverige.se" xmltv_id="Hd Tlcsverige Se">Hd Tlcsverige Se</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.travelchanneltv.se" xmltv_id="Hd Travelchanneltv Se">Hd Travelchanneltv Se</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.tv12.tv4.se" xmltv_id="Hd Tv12 Tv4 Se">Hd Tv12 Tv4 Se</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.tv2.dk" xmltv_id="Hd Tv2 Dk">Hd Tv2 Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.tv2.no" xmltv_id="Hd Tv2 No">Hd Tv2 No</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.tv3.no" xmltv_id="Hd Tv3 No">Hd Tv3 No</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.tv3.se" xmltv_id="Hd Tv3 Se">Hd Tv3 Se</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.tv4.se" xmltv_id="Hd Tv4 Se">Hd Tv4 Se</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.tv6.se" xmltv_id="Hd Tv6 Se">Hd Tv6 Se</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.tvnorge.no" xmltv_id="Hd Tvnorge No">Hd Tvnorge No</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.tvp.pl" xmltv_id="Hd Tvp Pl">Hd Tvp Pl</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.viasat4.no" xmltv_id="Hd Viasat4 No">Hd Viasat4 No</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.viva.tv" xmltv_id="Hd Viva Tv">Hd Viva Tv</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.vox.de" xmltv_id="Hd Vox De">Hd Vox De</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.voxtv.no" xmltv_id="Hd Voxtv No">Hd Voxtv No</channel>
+    <channel update="i" site="xmltv.se" site_id="hd.zdf.de" xmltv_id="Hd Zdf De">Hd Zdf De</channel>
+    <channel update="i" site="xmltv.se" site_id="hdshowcase.discovery.dk" xmltv_id="Hdshowcase Discovery Dk">Hdshowcase Discovery Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="hdshowcase.discovery.no" xmltv_id="Hdshowcase Discovery No">Hdshowcase Discovery No</channel>
+    <channel update="i" site="xmltv.se" site_id="hdshowcase.discoverychannel.com" xmltv_id="Hdshowcase Discoverychannel Com">Hdshowcase Discoverychannel Com</channel>
+    <channel update="i" site="xmltv.se" site_id="heaventv7.se" xmltv_id="Heaventv7 Se">Heaventv7 Se</channel>
+    <channel update="i" site="xmltv.se" site_id="heimatkanal.de" xmltv_id="Heimatkanal De">Heimatkanal De</channel>
+    <channel update="i" site="xmltv.se" site_id="herotv.fi" xmltv_id="Herotv Fi">Herotv Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="historia.tvp.pl" xmltv_id="Historia Tvp Pl">Historia Tvp Pl</channel>
+    <channel update="i" site="xmltv.se" site_id="history.ee.viasatworld.com" xmltv_id="History Ee Viasatworld Com">History Ee Viasatworld Com</channel>
+    <channel update="i" site="xmltv.se" site_id="history.hr.viasatworld.com" xmltv_id="History Hr Viasatworld Com">History Hr Viasatworld Com</channel>
+    <channel update="i" site="xmltv.se" site_id="history.hu.viasatworld.com" xmltv_id="History Hu Viasatworld Com">History Hu Viasatworld Com</channel>
+    <channel update="i" site="xmltv.se" site_id="history.lt.viasatworld.com" xmltv_id="History Lt Viasatworld Com">History Lt Viasatworld Com</channel>
+    <channel update="i" site="xmltv.se" site_id="history.lv.viasatworld.com" xmltv_id="History Lv Viasatworld Com">History Lv Viasatworld Com</channel>
+    <channel update="i" site="xmltv.se" site_id="history.viasat.dk" xmltv_id="History Viasat Dk">History Viasat Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="history.viasat.fi" xmltv_id="History Viasat Fi">History Viasat Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="history.viasat.no" xmltv_id="History Viasat No">History Viasat No</channel>
+    <channel update="i" site="xmltv.se" site_id="history.viasat.pl" xmltv_id="History Viasat Pl">History Viasat Pl</channel>
+    <channel update="i" site="xmltv.se" site_id="history.viasat.se" xmltv_id="History Viasat Se">History Viasat Se</channel>
+    <channel update="i" site="xmltv.se" site_id="historyhd.viasat.dk" xmltv_id="Historyhd Viasat Dk">Historyhd Viasat Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="historyhd.viasat.fi" xmltv_id="Historyhd Viasat Fi">Historyhd Viasat Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="historyhd.viasat.no" xmltv_id="Historyhd Viasat No">Historyhd Viasat No</channel>
+    <channel update="i" site="xmltv.se" site_id="historyhd.viasat.se" xmltv_id="Historyhd Viasat Se">Historyhd Viasat Se</channel>
+    <channel update="i" site="xmltv.se" site_id="historytv.dk" xmltv_id="Historytv Dk">Historytv Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="historytv.eu" xmltv_id="Historytv Eu">Historytv Eu</channel>
+    <channel update="i" site="xmltv.se" site_id="historytv.fi" xmltv_id="Historytv Fi">Historytv Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="historytv.no" xmltv_id="Historytv No">Historytv No</channel>
+    <channel update="i" site="xmltv.se" site_id="historytv.pl" xmltv_id="Historytv Pl">Historytv Pl</channel>
+    <channel update="i" site="xmltv.se" site_id="historytv.se" xmltv_id="Historytv Se">Historytv Se</channel>
+    <channel update="i" site="xmltv.se" site_id="hits.cmore.dk" xmltv_id="Hits Cmore Dk">Hits Cmore Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="hits.cmore.fi" xmltv_id="Hits Cmore Fi">Hits Cmore Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="hits.cmore.no" xmltv_id="Hits Cmore No">Hits Cmore No</channel>
+    <channel update="i" site="xmltv.se" site_id="hits.cmore.se" xmltv_id="Hits Cmore Se">Hits Cmore Se</channel>
+    <channel update="i" site="xmltv.se" site_id="hits.film.viasat.dk" xmltv_id="Hits Film Viasat Dk">Hits Film Viasat Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="hits.film.viasat.fi" xmltv_id="Hits Film Viasat Fi">Hits Film Viasat Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="hits.film.viasat.no" xmltv_id="Hits Film Viasat No">Hits Film Viasat No</channel>
+    <channel update="i" site="xmltv.se" site_id="hits.film.viasat.se" xmltv_id="Hits Film Viasat Se">Hits Film Viasat Se</channel>
+    <channel update="i" site="xmltv.se" site_id="hits.mtv.no" xmltv_id="Hits Mtv No">Hits Mtv No</channel>
+    <channel update="i" site="xmltv.se" site_id="hits.mtv.se" xmltv_id="Hits Mtv Se">Hits Mtv Se</channel>
+    <channel update="i" site="xmltv.se" site_id="hits.sky.de" xmltv_id="Hits Sky De">Hits Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="hitshd.cmore.se" xmltv_id="Hitshd Cmore Se">Hitshd Cmore Se</channel>
+    <channel update="i" site="xmltv.se" site_id="hitshd.sky.de" xmltv_id="Hitshd Sky De">Hitshd Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="hockey.cmore.se" xmltv_id="Hockey Cmore Se">Hockey Cmore Se</channel>
+    <channel update="i" site="xmltv.se" site_id="hockey.viasat.fi" xmltv_id="Hockey Viasat Fi">Hockey Viasat Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="hockey.viasat.no" xmltv_id="Hockey Viasat No">Hockey Viasat No</channel>
+    <channel update="i" site="xmltv.se" site_id="hockey.viasat.se" xmltv_id="Hockey Viasat Se">Hockey Viasat Se</channel>
+    <channel update="i" site="xmltv.se" site_id="hockeyfinland.viasat.fi" xmltv_id="Hockeyfinland Viasat Fi">Hockeyfinland Viasat Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="hockeyhd.cmore.se" xmltv_id="Hockeyhd Cmore Se">Hockeyhd Cmore Se</channel>
+    <channel update="i" site="xmltv.se" site_id="hope-channel.de" xmltv_id="Hope Channel De">Hope Channel De</channel>
+    <channel update="i" site="xmltv.se" site_id="horseandcountry.tv" xmltv_id="Horseandcountry Tv">Horseandcountry Tv</channel>
+    <channel update="i" site="xmltv.se" site_id="hr.daserste.de" xmltv_id="Hr Daserste De">Hr Daserste De</channel>
+    <channel update="i" site="xmltv.se" site_id="hr1.hrt.hr" xmltv_id="Hr1 Hrt Hr">Hr1 Hrt Hr</channel>
+    <channel update="i" site="xmltv.se" site_id="hr2.hrt.hr" xmltv_id="Hr2 Hrt Hr">Hr2 Hrt Hr</channel>
+    <channel update="i" site="xmltv.se" site_id="hr3.hrt.hr" xmltv_id="Hr3 Hrt Hr">Hr3 Hrt Hr</channel>
+    <channel update="i" site="xmltv.se" site_id="hrhd.daserste.de" xmltv_id="Hrhd Daserste De">Hrhd Daserste De</channel>
+    <channel update="i" site="xmltv.se" site_id="htv1.hrt.hr" xmltv_id="Htv1 Hrt Hr">Htv1 Hrt Hr</channel>
+    <channel update="i" site="xmltv.se" site_id="htv2.hrt.hr" xmltv_id="Htv2 Hrt Hr">Htv2 Hrt Hr</channel>
+    <channel update="i" site="xmltv.se" site_id="htv3.hrt.hr" xmltv_id="Htv3 Hrt Hr">Htv3 Hrt Hr</channel>
+    <channel update="i" site="xmltv.se" site_id="htv4.hrt.hr" xmltv_id="Htv4 Hrt Hr">Htv4 Hrt Hr</channel>
+    <channel update="i" site="xmltv.se" site_id="humor.tv2.no" xmltv_id="Humor Tv2 No">Humor Tv2 No</channel>
+    <channel update="i" site="xmltv.se" site_id="humorhd.tv2.no" xmltv_id="Humorhd Tv2 No">Humorhd Tv2 No</channel>
+    <channel update="i" site="xmltv.se" site_id="info.tvp.pl" xmltv_id="Info Tvp Pl">Info Tvp Pl</channel>
+    <channel update="i" site="xmltv.se" site_id="infokanal.zdf.de" xmltv_id="Infokanal Zdf De">Infokanal Zdf De</channel>
+    <channel update="i" site="xmltv.se" site_id="int.kinopolska.pl" xmltv_id="Int Kinopolska Pl">Int Kinopolska Pl</channel>
+    <channel update="i" site="xmltv.se" site_id="int.kinopolskamuzyka.pl" xmltv_id="Int Kinopolskamuzyka Pl">Int Kinopolskamuzyka Pl</channel>
+    <channel update="i" site="xmltv.se" site_id="international.rt.com" xmltv_id="International Rt Com">International Rt Com</channel>
+    <channel update="i" site="xmltv.se" site_id="international.skynews.com" xmltv_id="International Skynews Com">International Skynews Com</channel>
+    <channel update="i" site="xmltv.se" site_id="investigation.discovery.dk" xmltv_id="Investigation Discovery Dk">Investigation Discovery Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="investigation.discovery.it" xmltv_id="Investigation Discovery It">Investigation Discovery It</channel>
+    <channel update="i" site="xmltv.se" site_id="investigation.discovery.no" xmltv_id="Investigation Discovery No">Investigation Discovery No</channel>
+    <channel update="i" site="xmltv.se" site_id="investigation.discoverychannel.se" xmltv_id="Investigation Discoverychannel Se">Investigation Discoverychannel Se</channel>
+    <channel update="i" site="xmltv.se" site_id="iris.mediaset.it" xmltv_id="Iris Mediaset It">Iris Mediaset It</channel>
+    <channel update="i" site="xmltv.se" site_id="italia1.mediaset.it" xmltv_id="Italia1 Mediaset It">Italia1 Mediaset It</channel>
+    <channel update="i" site="xmltv.se" site_id="italia2.mediaset.it" xmltv_id="Italia2 Mediaset It">Italia2 Mediaset It</channel>
+    <channel update="i" site="xmltv.se" site_id="jaakiekkohd.viasat.fi" xmltv_id="Jaakiekkohd Viasat Fi">Jaakiekkohd Viasat Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="jalkapallohd.viasat.fi" xmltv_id="Jalkapallohd Viasat Fi">Jalkapallohd Viasat Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="jim.nelonen.fi" xmltv_id="Jim Nelonen Fi">Jim Nelonen Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="joi.mediaset.it" xmltv_id="Joi Mediaset It">Joi Mediaset It</channel>
+    <channel update="i" site="xmltv.se" site_id="jr.disneychannel.de" xmltv_id=", Jr. Disneychannel De">, Jr. Disneychannel De</channel>
+    <channel update="i" site="xmltv.se" site_id="jr.nick.com.pl" xmltv_id=", Jr. Nick Com Pl">, Jr. Nick Com Pl</channel>
+    <channel update="i" site="xmltv.se" site_id="jr.nick.de" xmltv_id=", Jr. Nick De">, Jr. Nick De</channel>
+    <channel update="i" site="xmltv.se" site_id="jukebox-tv.de" xmltv_id="Jukebox Tv De">Jukebox Tv De</channel>
+    <channel update="i" site="xmltv.se" site_id="junior.disney.se" xmltv_id="Junior Disney Se">Junior Disney Se</channel>
+    <channel update="i" site="xmltv.se" site_id="junior.disneychannel.com" xmltv_id="Junior Disneychannel Com">Junior Disneychannel Com</channel>
+    <channel update="i" site="xmltv.se" site_id="junior.disneychannel.dk" xmltv_id="Junior Disneychannel Dk">Junior Disneychannel Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="junior.disneychannel.fi" xmltv_id="Junior Disneychannel Fi">Junior Disneychannel Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="junior.disneychannel.no" xmltv_id="Junior Disneychannel No">Junior Disneychannel No</channel>
+    <channel update="i" site="xmltv.se" site_id="junior.tv" xmltv_id="Junior Tv">Junior Tv</channel>
+    <channel update="i" site="xmltv.se" site_id="juniori.mtv.fi" xmltv_id="Juniori Mtv Fi">Juniori Mtv Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="k.dr.dk" xmltv_id="K Dr. Dk">K Dr. Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="kabel1.de" xmltv_id="Kabel1 De">Kabel1 De</channel>
+    <channel update="i" site="xmltv.se" site_id="kanal10.no" xmltv_id="Kanal10 No">Kanal10 No</channel>
+    <channel update="i" site="xmltv.se" site_id="kanal10.se" xmltv_id="Kanal10 Se">Kanal10 Se</channel>
+    <channel update="i" site="xmltv.se" site_id="kanal11.ee" xmltv_id="Kanal11 Ee">Kanal11 Ee</channel>
+    <channel update="i" site="xmltv.se" site_id="kanal12.ee" xmltv_id="Kanal12 Ee">Kanal12 Ee</channel>
+    <channel update="i" site="xmltv.se" site_id="kanal2.ee" xmltv_id="Kanal2 Ee">Kanal2 Ee</channel>
+    <channel update="i" site="xmltv.se" site_id="kanal4.dk" xmltv_id="Kanal4 Dk">Kanal4 Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="kanal5.dk" xmltv_id="Kanal5 Dk">Kanal5 Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="kanal5.se" xmltv_id="Kanal5 Se">Kanal5 Se</channel>
+    <channel update="i" site="xmltv.se" site_id="kanal9.se" xmltv_id="Kanal9 Se">Kanal9 Se</channel>
+    <channel update="i" site="xmltv.se" site_id="kanalhovedstaden.dk" xmltv_id="Kanalhovedstaden Dk">Kanalhovedstaden Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="kanals2.lv" xmltv_id="Kanals2 Lv">Kanals2 Lv</channel>
+    <channel update="i" site="xmltv.se" site_id="kika.daserste.de" xmltv_id="Kika Daserste De">Kika Daserste De</channel>
+    <channel update="i" site="xmltv.se" site_id="kikahd.daserste.de" xmltv_id="Kikahd Daserste De">Kikahd Daserste De</channel>
+    <channel update="i" site="xmltv.se" site_id="kinopolska.pl" xmltv_id="Kinopolska Pl">Kinopolska Pl</channel>
+    <channel update="i" site="xmltv.se" site_id="kinopolskamuzyka.pl" xmltv_id="Kinopolskamuzyka Pl">Kinopolskamuzyka Pl</channel>
+    <channel update="i" site="xmltv.se" site_id="kinowelt.tv" xmltv_id="Kinowelt Tv">Kinowelt Tv</channel>
+    <channel update="i" site="xmltv.se" site_id="kobenhavn.p4.dr.dk" xmltv_id="Kobenhavn P4 Dr. Dk">Kobenhavn P4 Dr. Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="krimi.sky.de" xmltv_id="Krimi Sky De">Krimi Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="kultura.tvp.pl" xmltv_id="Kultura Tvp Pl">Kultura Tvp Pl</channel>
+    <channel update="i" site="xmltv.se" site_id="kunskapskanalen.svt.se" xmltv_id="Kunskapskanalen Svt Se">Kunskapskanalen Svt Se</channel>
+    <channel update="i" site="xmltv.se" site_id="kunskapskanalenhd.svt.se" xmltv_id="Kunskapskanalenhd Svt Se">Kunskapskanalenhd Svt Se</channel>
+    <channel update="i" site="xmltv.se" site_id="kutonen.fi" xmltv_id="Kutonen Fi">Kutonen Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="la.dw.de" xmltv_id="La Dw De">La Dw De</channel>
+    <channel update="i" site="xmltv.se" site_id="la1.rtve.es" xmltv_id="La1 Rtve Es">La1 Rtve Es</channel>
+    <channel update="i" site="xmltv.se" site_id="la2.rtve.es" xmltv_id="La2 Rtve Es">La2 Rtve Es</channel>
+    <channel update="i" site="xmltv.se" site_id="la5.mediaset.it" xmltv_id="La5 Mediaset It">La5 Mediaset It</channel>
+    <channel update="i" site="xmltv.se" site_id="langbolge.dr.dk" xmltv_id="Langbolge Dr. Dk">Langbolge Dr. Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="life.foxtv.ee" xmltv_id="Life Foxtv Ee">Life Foxtv Ee</channel>
+    <channel update="i" site="xmltv.se" site_id="life.foxtv.lt" xmltv_id="Life Foxtv Lt">Life Foxtv Lt</channel>
+    <channel update="i" site="xmltv.se" site_id="life.foxtv.lv" xmltv_id="Life Foxtv Lv">Life Foxtv Lv</channel>
+    <channel update="i" site="xmltv.se" site_id="lifestyletv.se" xmltv_id="Lifestyletv Se">Lifestyletv Se</channel>
+    <channel update="i" site="xmltv.se" site_id="lifetimetv.pl" xmltv_id="Lifetimetv Pl">Lifetimetv Pl</channel>
+    <channel update="i" site="xmltv.se" site_id="liv.nelonen.fi" xmltv_id="Liv Nelonen Fi">Liv Nelonen Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="live.cmore.se" xmltv_id="Live Cmore Se">Live Cmore Se</channel>
+    <channel update="i" site="xmltv.se" site_id="live2.cmore.se" xmltv_id="Live2 Cmore Se">Live2 Cmore Se</channel>
+    <channel update="i" site="xmltv.se" site_id="live2hd.cmore.se" xmltv_id="Live2hd Cmore Se">Live2hd Cmore Se</channel>
+    <channel update="i" site="xmltv.se" site_id="live3.cmore.se" xmltv_id="Live3 Cmore Se">Live3 Cmore Se</channel>
+    <channel update="i" site="xmltv.se" site_id="live3hd.cmore.se" xmltv_id="Live3hd Cmore Se">Live3hd Cmore Se</channel>
+    <channel update="i" site="xmltv.se" site_id="live4.cmore.se" xmltv_id="Live4 Cmore Se">Live4 Cmore Se</channel>
+    <channel update="i" site="xmltv.se" site_id="live4hd.cmore.se" xmltv_id="Live4hd Cmore Se">Live4hd Cmore Se</channel>
+    <channel update="i" site="xmltv.se" site_id="live5.cmore.se" xmltv_id="Live5 Cmore Se">Live5 Cmore Se</channel>
+    <channel update="i" site="xmltv.se" site_id="live5hd.cmore.se" xmltv_id="Live5hd Cmore Se">Live5hd Cmore Se</channel>
+    <channel update="i" site="xmltv.se" site_id="livehd.cmore.se" xmltv_id="Livehd Cmore Se">Livehd Cmore Se</channel>
+    <channel update="i" site="xmltv.se" site_id="livehdhitshd.cmore.boxer.se" xmltv_id="Livehdhitshd Cmore Boxer Se">Livehdhitshd Cmore Boxer Se</channel>
+    <channel update="i" site="xmltv.se" site_id="livsstilhd.tv2.no" xmltv_id="Livsstilhd Tv2 No">Livsstilhd Tv2 No</channel>
+    <channel update="i" site="xmltv.se" site_id="lnt.lv" xmltv_id="Lnt Lv">Lnt Lv</channel>
+    <channel update="i" site="xmltv.se" site_id="lugnafavoriter.se" xmltv_id="Lugnafavoriter Se">Lugnafavoriter Se</channel>
+    <channel update="i" site="xmltv.se" site_id="luxe.tv" xmltv_id="Luxe Tv">Luxe Tv</channel>
+    <channel update="i" site="xmltv.se" site_id="marcopolo.de" xmltv_id="Marcopolo De">Marcopolo De</channel>
+    <channel update="i" site="xmltv.se" site_id="matkanalen.tv" xmltv_id="Matkanalen Tv">Matkanalen Tv</channel>
+    <channel update="i" site="xmltv.se" site_id="max.mtv.fi" xmltv_id="Max Mtv Fi">Max Mtv Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="max.no" xmltv_id="Max No">Max No</channel>
+    <channel update="i" site="xmltv.se" site_id="max.tv3.dk" xmltv_id="Max Tv3 Dk">Max Tv3 Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="maxx.prosieben.de" xmltv_id="Maxx Prosieben De">Maxx Prosieben De</channel>
+    <channel update="i" site="xmltv.se" site_id="maxxhd.prosieben.de" xmltv_id="Maxxhd Prosieben De">Maxxhd Prosieben De</channel>
+    <channel update="i" site="xmltv.se" site_id="mdr.daserste.de" xmltv_id="Mdr Daserste De">Mdr Daserste De</channel>
+    <channel update="i" site="xmltv.se" site_id="mdrhd.daserste.de" xmltv_id="Mdrhd Daserste De">Mdrhd Daserste De</channel>
+    <channel update="i" site="xmltv.se" site_id="mezzo.tv" xmltv_id="Mezzo Tv">Mezzo Tv</channel>
+    <channel update="i" site="xmltv.se" site_id="midtvest.p4.dr.dk" xmltv_id="Midtvest P4 Dr. Dk">Midtvest P4 Dr. Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="mojamini.tv" xmltv_id="Mojamini Tv">Mojamini Tv</channel>
+    <channel update="i" site="xmltv.se" site_id="motor.viasat.no" xmltv_id="Motor Viasat No">Motor Viasat No</channel>
+    <channel update="i" site="xmltv.se" site_id="motor.viasat.se" xmltv_id="Motor Viasat Se">Motor Viasat Se</channel>
+    <channel update="i" site="xmltv.se" site_id="motorhd.viasat.se" xmltv_id="Motorhd Viasat Se">Motorhd Viasat Se</channel>
+    <channel update="i" site="xmltv.se" site_id="motorvision.de" xmltv_id="Motorvision De">Motorvision De</channel>
+    <channel update="i" site="xmltv.se" site_id="mtv.ch" xmltv_id="Mtv Ch">Mtv Ch</channel>
+    <channel update="i" site="xmltv.se" site_id="mtv.de" xmltv_id="Mtv De">Mtv De</channel>
+    <channel update="i" site="xmltv.se" site_id="mtv.dk" xmltv_id="Mtv Dk">Mtv Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="mtv.no" xmltv_id="Mtv No">Mtv No</channel>
+    <channel update="i" site="xmltv.se" site_id="mtv.pl" xmltv_id="Mtv Pl">Mtv Pl</channel>
+    <channel update="i" site="xmltv.se" site_id="mtv.se" xmltv_id="Mtv Se">Mtv Se</channel>
+    <channel update="i" site="xmltv.se" site_id="mtv3.fi" xmltv_id="Mtv3 Fi">Mtv3 Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="music.mtv.pl" xmltv_id="Music Mtv Pl">Music Mtv Pl</channel>
+    <channel update="i" site="xmltv.se" site_id="musictelevision.fi" xmltv_id="Musictelevision Fi">Musictelevision Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="n-tv.de" xmltv_id="N Tv De">N Tv De</channel>
+    <channel update="i" site="xmltv.se" site_id="n24doku.de" xmltv_id="N24doku De">N24doku De</channel>
+    <channel update="i" site="xmltv.se" site_id="natgeo.de" xmltv_id="Natgeo De">Natgeo De</channel>
+    <channel update="i" site="xmltv.se" site_id="natgeo.dk" xmltv_id="Natgeo Dk">Natgeo Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="natgeo.ee" xmltv_id="Natgeo Ee">Natgeo Ee</channel>
+    <channel update="i" site="xmltv.se" site_id="natgeo.fi" xmltv_id="Natgeo Fi">Natgeo Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="natgeo.lt" xmltv_id="Natgeo Lt">Natgeo Lt</channel>
+    <channel update="i" site="xmltv.se" site_id="natgeo.lv" xmltv_id="Natgeo Lv">Natgeo Lv</channel>
+    <channel update="i" site="xmltv.se" site_id="natgeo.no" xmltv_id="Natgeo No">Natgeo No</channel>
+    <channel update="i" site="xmltv.se" site_id="natgeo.pl" xmltv_id="Natgeo Pl">Natgeo Pl</channel>
+    <channel update="i" site="xmltv.se" site_id="natgeo.se" xmltv_id="Natgeo Se">Natgeo Se</channel>
+    <channel update="i" site="xmltv.se" site_id="nature-crime.viasat.se" xmltv_id="Nature Crime Viasat Se">Nature Crime Viasat Se</channel>
+    <channel update="i" site="xmltv.se" site_id="nature-history.hr.viasatworld.com" xmltv_id="Nature History Hr Viasatworld Com">Nature History Hr Viasatworld Com</channel>
+    <channel update="i" site="xmltv.se" site_id="nature-history.hu.viasatworld.com" xmltv_id="Nature History Hu Viasatworld Com">Nature History Hu Viasatworld Com</channel>
+    <channel update="i" site="xmltv.se" site_id="nature-history.viasat.pl" xmltv_id="Nature History Viasat Pl">Nature History Viasat Pl</channel>
+    <channel update="i" site="xmltv.se" site_id="nature-playboy.sat.viasat.se" xmltv_id="Nature Playboy Sat Viasat Se">Nature Playboy Sat Viasat Se</channel>
+    <channel update="i" site="xmltv.se" site_id="nature.hr.viasatworld.com" xmltv_id="Nature Hr Viasatworld Com">Nature Hr Viasatworld Com</channel>
+    <channel update="i" site="xmltv.se" site_id="nature.hu.viasatworld.com" xmltv_id="Nature Hu Viasatworld Com">Nature Hu Viasatworld Com</channel>
+    <channel update="i" site="xmltv.se" site_id="nature.viasat.dk" xmltv_id="Nature Viasat Dk">Nature Viasat Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="nature.viasat.no" xmltv_id="Nature Viasat No">Nature Viasat No</channel>
+    <channel update="i" site="xmltv.se" site_id="nature.viasat.pl" xmltv_id="Nature Viasat Pl">Nature Viasat Pl</channel>
+    <channel update="i" site="xmltv.se" site_id="naturecee.ee.viasatworld.com" xmltv_id="Naturecee Ee Viasatworld Com">Naturecee Ee Viasatworld Com</channel>
+    <channel update="i" site="xmltv.se" site_id="naturecee.lt.viasatworld.com" xmltv_id="Naturecee Lt Viasatworld Com">Naturecee Lt Viasatworld Com</channel>
+    <channel update="i" site="xmltv.se" site_id="naturecee.lv.viasatworld.com" xmltv_id="Naturecee Lv Viasatworld Com">Naturecee Lv Viasatworld Com</channel>
+    <channel update="i" site="xmltv.se" site_id="naturecrime.viasat.fi" xmltv_id="Naturecrime Viasat Fi">Naturecrime Viasat Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="naturehd.viasat.dk" xmltv_id="Naturehd Viasat Dk">Naturehd Viasat Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="naturehd.viasat.fi" xmltv_id="Naturehd Viasat Fi">Naturehd Viasat Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="naturehd.viasat.no" xmltv_id="Naturehd Viasat No">Naturehd Viasat No</channel>
+    <channel update="i" site="xmltv.se" site_id="naturehd.viasat.se" xmltv_id="Naturehd Viasat Se">Naturehd Viasat Se</channel>
+    <channel update="i" site="xmltv.se" site_id="nauticalchannel.net" xmltv_id="Nauticalchannel Net">Nauticalchannel Net</channel>
+    <channel update="i" site="xmltv.se" site_id="ndr.daserste.de" xmltv_id="Ndr Daserste De">Ndr Daserste De</channel>
+    <channel update="i" site="xmltv.se" site_id="ndrhd.daserste.de" xmltv_id="Ndrhd Daserste De">Ndrhd Daserste De</channel>
+    <channel update="i" site="xmltv.se" site_id="nelonen.fi" xmltv_id="Nelonen Fi">Nelonen Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="neo.zdf.de" xmltv_id="Neo Zdf De">Neo Zdf De</channel>
+    <channel update="i" site="xmltv.se" site_id="neohd.zdf.de" xmltv_id="Neohd Zdf De">Neohd Zdf De</channel>
+    <channel update="i" site="xmltv.se" site_id="neokika.zdfmobil.de" xmltv_id="Neokika Zdfmobil De">Neokika Zdfmobil De</channel>
+    <channel update="i" site="xmltv.se" site_id="news.tv2.dk" xmltv_id="News Tv2 Dk">News Tv2 Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="news.tv2.no" xmltv_id="News Tv2 No">News Tv2 No</channel>
+    <channel update="i" site="xmltv.se" site_id="newshd.tv2.no" xmltv_id="Newshd Tv2 No">Newshd Tv2 No</channel>
+    <channel update="i" site="xmltv.se" site_id="nick.ch" xmltv_id="Nick Ch">Nick Ch</channel>
+    <channel update="i" site="xmltv.se" site_id="nick.com.pl" xmltv_id="Nick Com Pl">Nick Com Pl</channel>
+    <channel update="i" site="xmltv.se" site_id="nick.de" xmltv_id="Nick De">Nick De</channel>
+    <channel update="i" site="xmltv.se" site_id="nickdk-mtvhits.sat.viasat.dk" xmltv_id="Nickdk Mtvhits Sat Viasat Dk">Nickdk Mtvhits Sat Viasat Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="nickelodeon.at" xmltv_id="Nickelodeon At">Nickelodeon At</channel>
+    <channel update="i" site="xmltv.se" site_id="nickelodeon.dk" xmltv_id="Nickelodeon Dk">Nickelodeon Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="nickelodeon.fi" xmltv_id="Nickelodeon Fi">Nickelodeon Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="nickelodeon.no" xmltv_id="Nickelodeon No">Nickelodeon No</channel>
+    <channel update="i" site="xmltv.se" site_id="nickelodeon.se" xmltv_id="Nickelodeon Se">Nickelodeon Se</channel>
+    <channel update="i" site="xmltv.se" site_id="nickjr.dk" xmltv_id="Nickjr Dk">Nickjr Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="nickjr.fi" xmltv_id="Nickjr Fi">Nickjr Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="nickjr.no" xmltv_id="Nickjr No">Nickjr No</channel>
+    <channel update="i" site="xmltv.se" site_id="nickjr.se" xmltv_id="Nickjr Se">Nickjr Se</channel>
+    <channel update="i" site="xmltv.se" site_id="nickjrse-vh1se.sat.viasat.se" xmltv_id="Nickjrse Vh1se Sat Viasat Se">Nickjrse Vh1se Sat Viasat Se</channel>
+    <channel update="i" site="xmltv.se" site_id="nickno-vh1classic.sat.viasat.no" xmltv_id="Nickno Vh1classic Sat Viasat No">Nickno Vh1classic Sat Viasat No</channel>
+    <channel update="i" site="xmltv.se" site_id="nitro.rtl.de" xmltv_id="Nitro Rtl De">Nitro Rtl De</channel>
+    <channel update="i" site="xmltv.se" site_id="nitrohd.rtl.de" xmltv_id="Nitrohd Rtl De">Nitrohd Rtl De</channel>
+    <channel update="i" site="xmltv.se" site_id="no.bbcentertainment.no" xmltv_id="No Bbcentertainment No">No Bbcentertainment No</channel>
+    <channel update="i" site="xmltv.se" site_id="no.bbcknowledge.no" xmltv_id="No Bbcknowledge No">No Bbcknowledge No</channel>
+    <channel update="i" site="xmltv.se" site_id="no.eonline.com" xmltv_id="No Eonline Com">No Eonline Com</channel>
+    <channel update="i" site="xmltv.se" site_id="nordjylland.p4.dr.dk" xmltv_id="Nordjylland P4 Dr. Dk">Nordjylland P4 Dr. Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="nostalgie.sky.de" xmltv_id="Nostalgie Sky De">Nostalgie Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="novatv.hr" xmltv_id="Novatv Hr">Novatv Hr</channel>
+    <channel update="i" site="xmltv.se" site_id="nrk1.nrk.no" xmltv_id="Nrk1 Nrk No">Nrk1 Nrk No</channel>
+    <channel update="i" site="xmltv.se" site_id="nrk1hd.nrk.no" xmltv_id="Nrk1hd Nrk No">Nrk1hd Nrk No</channel>
+    <channel update="i" site="xmltv.se" site_id="nrk2.nrk.no" xmltv_id="Nrk2 Nrk No">Nrk2 Nrk No</channel>
+    <channel update="i" site="xmltv.se" site_id="nrk2hd.nrk.no" xmltv_id="Nrk2hd Nrk No">Nrk2hd Nrk No</channel>
+    <channel update="i" site="xmltv.se" site_id="nrk3.nrk.no" xmltv_id="Nrk3 Nrk No">Nrk3 Nrk No</channel>
+    <channel update="i" site="xmltv.se" site_id="nrk3super.nrk.no" xmltv_id="Nrk3super Nrk No">Nrk3super Nrk No</channel>
+    <channel update="i" site="xmltv.se" site_id="nrk3superhd.nrk.no" xmltv_id="Nrk3superhd Nrk No">Nrk3superhd Nrk No</channel>
+    <channel update="i" site="xmltv.se" site_id="ok-kl.de" xmltv_id="Ok Kl De">Ok Kl De</channel>
+    <channel update="i" site="xmltv.se" site_id="ok-nahetv.de" xmltv_id="Ok Nahetv De">Ok Nahetv De</channel>
+    <channel update="i" site="xmltv.se" site_id="ok-weinstrasse.de" xmltv_id="Ok Weinstrasse De">Ok Weinstrasse De</channel>
+    <channel update="i" site="xmltv.se" site_id="ok-worms.de" xmltv_id="Ok Worms De">Ok Worms De</channel>
+    <channel update="i" site="xmltv.se" site_id="ok4.tv" xmltv_id="Ok4 Tv">Ok4 Tv</channel>
+    <channel update="i" site="xmltv.se" site_id="ok54.de" xmltv_id="Ok54 De">Ok54 De</channel>
+    <channel update="i" site="xmltv.se" site_id="oktv-lu.de" xmltv_id="Oktv Lu De">Oktv Lu De</channel>
+    <channel update="i" site="xmltv.se" site_id="oktv-mainz.de" xmltv_id="Oktv Mainz De">Oktv Mainz De</channel>
+    <channel update="i" site="xmltv.se" site_id="oktv-suedwestpfalz.de" xmltv_id="Oktv Suedwestpfalz De">Oktv Suedwestpfalz De</channel>
+    <channel update="i" site="xmltv.se" site_id="okv.se" xmltv_id="Okv Se">Okv Se</channel>
+    <channel update="i" site="xmltv.se" site_id="one.tv3sport.dk" xmltv_id="One Tv3sport Dk">One Tv3sport Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="onehd.tv3sport.dk" xmltv_id="Onehd Tv3sport Dk">Onehd Tv3sport Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="orf1.orf.at" xmltv_id="Orf1 Orf At">Orf1 Orf At</channel>
+    <channel update="i" site="xmltv.se" site_id="orf2.orf.at" xmltv_id="Orf2 Orf At">Orf2 Orf At</channel>
+    <channel update="i" site="xmltv.se" site_id="orf3.orf.at" xmltv_id="Orf3 Orf At">Orf3 Orf At</channel>
+    <channel update="i" site="xmltv.se" site_id="ostjylland.p4.dr.dk" xmltv_id="Ostjylland P4 Dr. Dk">Ostjylland P4 Dr. Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="outdoorchannel.com" xmltv_id="Outdoorchannel Com">Outdoorchannel Com</channel>
+    <channel update="i" site="xmltv.se" site_id="outtv.se" xmltv_id="Outtv Se">Outtv Se</channel>
+    <channel update="i" site="xmltv.se" site_id="p1.cinema.sky.de" xmltv_id="P1 Cinema Sky De">P1 Cinema Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="p1.dr.dk" xmltv_id="P1 Dr. Dk">P1 Dr. Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="p1.sr.se" xmltv_id="P1, Sr. Se">P1, Sr. Se</channel>
+    <channel update="i" site="xmltv.se" site_id="p1hd.cinema.sky.de" xmltv_id="P1hd Cinema Sky De">P1hd Cinema Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="p2.dr.dk" xmltv_id="P2 Dr. Dk">P2 Dr. Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="p2.sr.se" xmltv_id="P2, Sr. Se">P2, Sr. Se</channel>
+    <channel update="i" site="xmltv.se" site_id="p24.cinema.sky.de" xmltv_id="P24 Cinema Sky De">P24 Cinema Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="p24hd.cinema.sky.de" xmltv_id="P24hd Cinema Sky De">P24hd Cinema Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="p3.dr.dk" xmltv_id="P3 Dr. Dk">P3 Dr. Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="p3.sr.se" xmltv_id="P3, Sr. Se">P3, Sr. Se</channel>
+    <channel update="i" site="xmltv.se" site_id="p4gbg.sr.se" xmltv_id="P4gbg, Sr. Se">P4gbg, Sr. Se</channel>
+    <channel update="i" site="xmltv.se" site_id="p4malm.sr.se" xmltv_id="P4malm, Sr. Se">P4malm, Sr. Se</channel>
+    <channel update="i" site="xmltv.se" site_id="p4sth.sr.se" xmltv_id="P4sth, Sr. Se">P4sth, Sr. Se</channel>
+    <channel update="i" site="xmltv.se" site_id="p5.dr.dk" xmltv_id="P5 Dr. Dk">P5 Dr. Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="p5sthlm.sr.se" xmltv_id="P5sthlm, Sr. Se">P5sthlm, Sr. Se</channel>
+    <channel update="i" site="xmltv.se" site_id="p6.dr.dk" xmltv_id="P6 Dr. Dk">P6 Dr. Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="p7.dr.dk" xmltv_id="P7 Dr. Dk">P7 Dr. Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="p8.dr.dk" xmltv_id="P8 Dr. Dk">P8 Dr. Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="paramountchannel.pl" xmltv_id="Paramountchannel Pl">Paramountchannel Pl</channel>
+    <channel update="i" site="xmltv.se" site_id="passion.de" xmltv_id="Passion De">Passion De</channel>
+    <channel update="i" site="xmltv.se" site_id="people.natgeo.dk" xmltv_id="People Natgeo Dk">People Natgeo Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="phoenix.daserste.de" xmltv_id="Phoenix Daserste De">Phoenix Daserste De</channel>
+    <channel update="i" site="xmltv.se" site_id="phoenixhd.daserste.de" xmltv_id="Phoenixhd Daserste De">Phoenixhd Daserste De</channel>
+    <channel update="i" site="xmltv.se" site_id="pl1.tv2.no" xmltv_id="Pl1 Tv2 No">Pl1 Tv2 No</channel>
+    <channel update="i" site="xmltv.se" site_id="pl2.tv2.no" xmltv_id="Pl2 Tv2 No">Pl2 Tv2 No</channel>
+    <channel update="i" site="xmltv.se" site_id="pl3.tv2.no" xmltv_id="Pl3 Tv2 No">Pl3 Tv2 No</channel>
+    <channel update="i" site="xmltv.se" site_id="planet-tv.de" xmltv_id="Planet Tv De">Planet Tv De</channel>
+    <channel update="i" site="xmltv.se" site_id="plus.toggo.de" xmltv_id="Plus Toggo De">Plus Toggo De</channel>
+    <channel update="i" site="xmltv.se" site_id="polonia.tvp.pl" xmltv_id="Polonia Tvp Pl">Polonia Tvp Pl</channel>
+    <channel update="i" site="xmltv.se" site_id="premium.tv1000.ee" xmltv_id="Premium Tv1000 Ee">Premium Tv1000 Ee</channel>
+    <channel update="i" site="xmltv.se" site_id="premium.tv1000.lt" xmltv_id="Premium Tv1000 Lt">Premium Tv1000 Lt</channel>
+    <channel update="i" site="xmltv.se" site_id="premium.tv1000.lv" xmltv_id="Premium Tv1000 Lv">Premium Tv1000 Lv</channel>
+    <channel update="i" site="xmltv.se" site_id="premiumactionhd.mediaset.it" xmltv_id="Premiumactionhd Mediaset It">Premiumactionhd Mediaset It</channel>
+    <channel update="i" site="xmltv.se" site_id="premiumcalcio1.mediaset.it" xmltv_id="Premiumcalcio1 Mediaset It">Premiumcalcio1 Mediaset It</channel>
+    <channel update="i" site="xmltv.se" site_id="premiumcalcio2.mediaset.it" xmltv_id="Premiumcalcio2 Mediaset It">Premiumcalcio2 Mediaset It</channel>
+    <channel update="i" site="xmltv.se" site_id="premiumcinema2hd.mediaset.it" xmltv_id="Premiumcinema2hd Mediaset It">Premiumcinema2hd Mediaset It</channel>
+    <channel update="i" site="xmltv.se" site_id="premiumcinemacomedy.mediaset.it" xmltv_id="Premiumcinemacomedy Mediaset It">Premiumcinemacomedy Mediaset It</channel>
+    <channel update="i" site="xmltv.se" site_id="premiumcinemaemotion.mediaset.it" xmltv_id="Premiumcinemaemotion Mediaset It">Premiumcinemaemotion Mediaset It</channel>
+    <channel update="i" site="xmltv.se" site_id="premiumcinemaenergyhd.mediaset.it" xmltv_id="Premiumcinemaenergyhd Mediaset It">Premiumcinemaenergyhd Mediaset It</channel>
+    <channel update="i" site="xmltv.se" site_id="premiumcinemahd.mediaset.it" xmltv_id="Premiumcinemahd Mediaset It">Premiumcinemahd Mediaset It</channel>
+    <channel update="i" site="xmltv.se" site_id="premiumcrimehd.mediaset.it" xmltv_id="Premiumcrimehd Mediaset It">Premiumcrimehd Mediaset It</channel>
+    <channel update="i" site="xmltv.se" site_id="premiumsport.mediaset.it" xmltv_id="Premiumsport Mediaset It">Premiumsport Mediaset It</channel>
+    <channel update="i" site="xmltv.se" site_id="premiumsport2.mediaset.it" xmltv_id="Premiumsport2 Mediaset It">Premiumsport2 Mediaset It</channel>
+    <channel update="i" site="xmltv.se" site_id="premiumstories.mediaset.it" xmltv_id="Premiumstories Mediaset It">Premiumstories Mediaset It</channel>
+    <channel update="i" site="xmltv.se" site_id="prosieben.de" xmltv_id="Prosieben De">Prosieben De</channel>
+    <channel update="i" site="xmltv.se" site_id="protv.ro" xmltv_id="Protv Ro">Protv Ro</channel>
+    <channel update="i" site="xmltv.se" site_id="puls.tv3.dk" xmltv_id="Puls Tv3 Dk">Puls Tv3 Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="puls4.at" xmltv_id="Puls4 At">Puls4 At</channel>
+    <channel update="i" site="xmltv.se" site_id="puls8.ch" xmltv_id="Puls8 Ch">Puls8 Ch</channel>
+    <channel update="i" site="xmltv.se" site_id="radio1.srf.ch" xmltv_id="Radio1 Srf Ch">Radio1 Srf Ch</channel>
+    <channel update="i" site="xmltv.se" site_id="radio2.srf.ch" xmltv_id="Radio2 Srf Ch">Radio2 Srf Ch</channel>
+    <channel update="i" site="xmltv.se" site_id="radio3.srf.ch" xmltv_id="Radio3 Srf Ch">Radio3 Srf Ch</channel>
+    <channel update="i" site="xmltv.se" site_id="radio4.srf.ch" xmltv_id="Radio4 Srf Ch">Radio4 Srf Ch</channel>
+    <channel update="i" site="xmltv.se" site_id="radiom.srf.ch" xmltv_id="Radiom Srf Ch">Radiom Srf Ch</channel>
+    <channel update="i" site="xmltv.se" site_id="ramasjang.dr.dk" xmltv_id="Ramasjang Dr. Dk">Ramasjang Dr. Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="rbb.daserste.de" xmltv_id="Rbb Daserste De">Rbb Daserste De</channel>
+    <channel update="i" site="xmltv.se" site_id="rbb.rbb-online.de" xmltv_id="Rbb Rbb Online De">Rbb Rbb Online De</channel>
+    <channel update="i" site="xmltv.se" site_id="rbbberl.rbb-online.de" xmltv_id="Rbbberl Rbb Online De">Rbbberl Rbb Online De</channel>
+    <channel update="i" site="xmltv.se" site_id="rbbbra.rbb-online.de" xmltv_id="Rbbbra Rbb Online De">Rbbbra Rbb Online De</channel>
+    <channel update="i" site="xmltv.se" site_id="rbbhd.daserste.de" xmltv_id="Rbbhd Daserste De">Rbbhd Daserste De</channel>
+    <channel update="i" site="xmltv.se" site_id="rck-tv.de" xmltv_id="Rck Tv De">Rck Tv De</channel>
+    <channel update="i" site="xmltv.se" site_id="retequattro.mediaset.it" xmltv_id="Retequattro Mediaset It">Retequattro Mediaset It</channel>
+    <channel update="i" site="xmltv.se" site_id="rheinmaintv.de" xmltv_id="Rheinmaintv De">Rheinmaintv De</channel>
+    <channel update="i" site="xmltv.se" site_id="rictv.de" xmltv_id="Rictv De">Rictv De</channel>
+    <channel update="i" site="xmltv.se" site_id="rixfm.se" xmltv_id="Rixfm Se">Rixfm Se</channel>
+    <channel update="i" site="xmltv.se" site_id="rocks.mtv.no" xmltv_id="Rocks Mtv No">Rocks Mtv No</channel>
+    <channel update="i" site="xmltv.se" site_id="rocks.mtv.se" xmltv_id="Rocks Mtv Se">Rocks Mtv Se</channel>
+    <channel update="i" site="xmltv.se" site_id="romance-tv.de" xmltv_id="Romance Tv De">Romance Tv De</channel>
+    <channel update="i" site="xmltv.se" site_id="rozrywka.tvp.pl" xmltv_id="Rozrywka Tvp Pl">Rozrywka Tvp Pl</channel>
+    <channel update="i" site="xmltv.se" site_id="rp.swr.daserste.de" xmltv_id="Rp Swr Daserste De">Rp Swr Daserste De</channel>
+    <channel update="i" site="xmltv.se" site_id="rtl.de" xmltv_id="Rtl De">Rtl De</channel>
+    <channel update="i" site="xmltv.se" site_id="rtl2.de" xmltv_id="Rtl2 De">Rtl2 De</channel>
+    <channel update="i" site="xmltv.se" site_id="rtlplus.de" xmltv_id="Rtlplus De">Rtlplus De</channel>
+    <channel update="i" site="xmltv.se" site_id="rts1.rts.ch" xmltv_id="Rts1 Rts Ch">Rts1 Rts Ch</channel>
+    <channel update="i" site="xmltv.se" site_id="rts2.rts.ch" xmltv_id="Rts2 Rts Ch">Rts2 Rts Ch</channel>
+    <channel update="i" site="xmltv.se" site_id="russia.rt.com" xmltv_id="Russia Rt Com">Russia Rt Com</channel>
+    <channel update="i" site="xmltv.se" site_id="s1tv.ch" xmltv_id="S1tv Ch">S1tv Ch</channel>
+    <channel update="i" site="xmltv.se" site_id="sat1.de" xmltv_id="Sat1 De">Sat1 De</channel>
+    <channel update="i" site="xmltv.se" site_id="science.discovery.dk" xmltv_id="Science Discovery Dk">Science Discovery Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="science.discovery.fi" xmltv_id="Science Discovery Fi">Science Discovery Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="science.discovery.no" xmltv_id="Science Discovery No">Science Discovery No</channel>
+    <channel update="i" site="xmltv.se" site_id="science.discoverychannel.com" xmltv_id="Science Discoverychannel Com">Science Discoverychannel Com</channel>
+    <channel update="i" site="xmltv.se" site_id="sd.anixehd.tv" xmltv_id="Sd Anixehd Tv">Sd Anixehd Tv</channel>
+    <channel update="i" site="xmltv.se" site_id="se.eonline.com" xmltv_id="Se Eonline Com">Se Eonline Com</channel>
+    <channel update="i" site="xmltv.se" site_id="select.sky.de" xmltv_id="Select Sky De">Select Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="selecthd.sky.de" xmltv_id="Selecthd Sky De">Selecthd Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="seriale.tvp.pl" xmltv_id="Seriale Tvp Pl">Seriale Tvp Pl</channel>
+    <channel update="i" site="xmltv.se" site_id="series.cmore.dk" xmltv_id="Series Cmore Dk">Series Cmore Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="series.cmore.fi" xmltv_id="Series Cmore Fi">Series Cmore Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="series.cmore.no" xmltv_id="Series Cmore No">Series Cmore No</channel>
+    <channel update="i" site="xmltv.se" site_id="series.cmore.se" xmltv_id="Series Cmore Se">Series Cmore Se</channel>
+    <channel update="i" site="xmltv.se" site_id="series.viasat.dk" xmltv_id="Series Viasat Dk">Series Viasat Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="series.viasat.no" xmltv_id="Series Viasat No">Series Viasat No</channel>
+    <channel update="i" site="xmltv.se" site_id="series.viasat.se" xmltv_id="Series Viasat Se">Series Viasat Se</channel>
+    <channel update="i" site="xmltv.se" site_id="serieshd.cmore.se" xmltv_id="Serieshd Cmore Se">Serieshd Cmore Se</channel>
+    <channel update="i" site="xmltv.se" site_id="servustv.com" xmltv_id="Servustv Com">Servustv Com</channel>
+    <channel update="i" site="xmltv.se" site_id="servustv.de" xmltv_id="Servustv De">Servustv De</channel>
+    <channel update="i" site="xmltv.se" site_id="sf-kanalen.cmore.dk" xmltv_id="Sf Kanalen Cmore Dk">Sf Kanalen Cmore Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="sf-kanalen.cmore.no" xmltv_id="Sf Kanalen Cmore No">Sf Kanalen Cmore No</channel>
+    <channel update="i" site="xmltv.se" site_id="sf-kanalen.cmore.se" xmltv_id="Sf Kanalen Cmore Se">Sf Kanalen Cmore Se</channel>
+    <channel update="i" site="xmltv.se" site_id="sf1.srf.ch" xmltv_id="Sf1 Srf Ch">Sf1 Srf Ch</channel>
+    <channel update="i" site="xmltv.se" site_id="sf2.srf.ch" xmltv_id="Sf2 Srf Ch">Sf2 Srf Ch</channel>
+    <channel update="i" site="xmltv.se" site_id="sfi.srf.ch" xmltv_id="Sfi Srf Ch">Sfi Srf Ch</channel>
+    <channel update="i" site="xmltv.se" site_id="sfkanalen.cmore.fi" xmltv_id="Sfkanalen Cmore Fi">Sfkanalen Cmore Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="sixx.de" xmltv_id="Sixx De">Sixx De</channel>
+    <channel update="i" site="xmltv.se" site_id="sjaelland.p4.dr.dk" xmltv_id="Sjaelland P4 Dr. Dk">Sjaelland P4 Dr. Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="sjuan.se" xmltv_id="Sjuan Se">Sjuan Se</channel>
+    <channel update="i" site="xmltv.se" site_id="sonyentertainment.tv" xmltv_id="Sonyentertainment Tv">Sonyentertainment Tv</channel>
+    <channel update="i" site="xmltv.se" site_id="spiegel-geschichte.tv" xmltv_id="Spiegel Geschichte Tv">Spiegel Geschichte Tv</channel>
+    <channel update="i" site="xmltv.se" site_id="sport-filmhd.cmore.se" xmltv_id="Sport Filmhd Cmore Se">Sport Filmhd Cmore Se</channel>
+    <channel update="i" site="xmltv.se" site_id="sport-sf.cmore.se" xmltv_id="Sport Sf Cmore Se">Sport Sf Cmore Se</channel>
+    <channel update="i" site="xmltv.se" site_id="sport.cmore.se" xmltv_id="Sport Cmore Se">Sport Cmore Se</channel>
+    <channel update="i" site="xmltv.se" site_id="sport.tv2.dk" xmltv_id="Sport Tv2 Dk">Sport Tv2 Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="sport.tv2.no" xmltv_id="Sport Tv2 No">Sport Tv2 No</channel>
+    <channel update="i" site="xmltv.se" site_id="sport.tv3.se" xmltv_id="Sport Tv3 Se">Sport Tv3 Se</channel>
+    <channel update="i" site="xmltv.se" site_id="sport.tvp.pl" xmltv_id="Sport Tvp Pl">Sport Tvp Pl</channel>
+    <channel update="i" site="xmltv.se" site_id="sport.viasat.fi" xmltv_id="Sport Viasat Fi">Sport Viasat Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="sport.viasat.no" xmltv_id="Sport Viasat No">Sport Viasat No</channel>
+    <channel update="i" site="xmltv.se" site_id="sport.viasat.se" xmltv_id="Sport Viasat Se">Sport Viasat Se</channel>
+    <channel update="i" site="xmltv.se" site_id="sport1.mtv.fi" xmltv_id="Sport1 Mtv Fi">Sport1 Mtv Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="sport1.sky.de" xmltv_id="Sport1 Sky De">Sport1 Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="sport10.sky.de" xmltv_id="Sport10 Sky De">Sport10 Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="sport11.sky.de" xmltv_id="Sport11 Sky De">Sport11 Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="sport2.mtv.fi" xmltv_id="Sport2 Mtv Fi">Sport2 Mtv Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="sport2.sky.de" xmltv_id="Sport2 Sky De">Sport2 Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="sport3.sky.de" xmltv_id="Sport3 Sky De">Sport3 Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="sport4.sky.de" xmltv_id="Sport4 Sky De">Sport4 Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="sport5.sky.de" xmltv_id="Sport5 Sky De">Sport5 Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="sport6.sky.de" xmltv_id="Sport6 Sky De">Sport6 Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="sport7.sky.de" xmltv_id="Sport7 Sky De">Sport7 Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="sport8.sky.de" xmltv_id="Sport8 Sky De">Sport8 Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="sport9.sky.de" xmltv_id="Sport9 Sky De">Sport9 Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="sportaustria.sky.de" xmltv_id="Sportaustria Sky De">Sportaustria Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="sportbaltic.viasat.ee" xmltv_id="Sportbaltic Viasat Ee">Sportbaltic Viasat Ee</channel>
+    <channel update="i" site="xmltv.se" site_id="sportbaltic.viasat.lt" xmltv_id="Sportbaltic Viasat Lt">Sportbaltic Viasat Lt</channel>
+    <channel update="i" site="xmltv.se" site_id="sportbaltic.viasat.lv" xmltv_id="Sportbaltic Viasat Lv">Sportbaltic Viasat Lv</channel>
+    <channel update="i" site="xmltv.se" site_id="sportdigital.tv" xmltv_id="Sportdigital Tv">Sportdigital Tv</channel>
+    <channel update="i" site="xmltv.se" site_id="sporthd.cmore.se" xmltv_id="Sporthd Cmore Se">Sporthd Cmore Se</channel>
+    <channel update="i" site="xmltv.se" site_id="sporthd.tv2.dk" xmltv_id="Sporthd Tv2 Dk">Sporthd Tv2 Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="sporthd.tv2.no" xmltv_id="Sporthd Tv2 No">Sporthd Tv2 No</channel>
+    <channel update="i" site="xmltv.se" site_id="sporthd.tv3.se" xmltv_id="Sporthd Tv3 Se">Sporthd Tv3 Se</channel>
+    <channel update="i" site="xmltv.se" site_id="sporthd1.sky.de" xmltv_id="Sporthd1 Sky De">Sporthd1 Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="sporthd10.sky.de" xmltv_id="Sporthd10 Sky De">Sporthd10 Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="sporthd11.sky.de" xmltv_id="Sporthd11 Sky De">Sporthd11 Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="sporthd2.sky.de" xmltv_id="Sporthd2 Sky De">Sporthd2 Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="sporthd3.sky.de" xmltv_id="Sporthd3 Sky De">Sporthd3 Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="sporthd4.sky.de" xmltv_id="Sporthd4 Sky De">Sporthd4 Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="sporthd5.sky.de" xmltv_id="Sporthd5 Sky De">Sporthd5 Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="sporthd6.sky.de" xmltv_id="Sporthd6 Sky De">Sporthd6 Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="sporthd7.sky.de" xmltv_id="Sporthd7 Sky De">Sporthd7 Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="sporthd8.sky.de" xmltv_id="Sporthd8 Sky De">Sporthd8 Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="sporthd9.sky.de" xmltv_id="Sporthd9 Sky De">Sporthd9 Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="sportkanalen.se" xmltv_id="Sportkanalen Se">Sportkanalen Se</channel>
+    <channel update="i" site="xmltv.se" site_id="sportnews.sky.de" xmltv_id="Sportnews Sky De">Sportnews Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="sportnewshd.sky.de" xmltv_id="Sportnewshd Sky De">Sportnewshd Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="sportplus.orf.at" xmltv_id="Sportplus Orf At">Sportplus Orf At</channel>
+    <channel update="i" site="xmltv.se" site_id="sportpremium.viasat.fi" xmltv_id="Sportpremium Viasat Fi">Sportpremium Viasat Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="sportpremium.viasat.se" xmltv_id="Sportpremium Viasat Se">Sportpremium Viasat Se</channel>
+    <channel update="i" site="xmltv.se" site_id="sportuhd.sky.de" xmltv_id="Sportuhd Sky De">Sportuhd Sky De</channel>
+    <channel update="i" site="xmltv.se" site_id="sr.swr.daserste.de" xmltv_id=", Sr. Swr Daserste De">, Sr. Swr Daserste De</channel>
+    <channel update="i" site="xmltv.se" site_id="srifm.sr.se" xmltv_id="Srifm, Sr. Se">Srifm, Sr. Se</channel>
+    <channel update="i" site="xmltv.se" site_id="studiouniversal.it" xmltv_id="Studiouniversal It">Studiouniversal It</channel>
+    <channel update="i" site="xmltv.se" site_id="sub.fi" xmltv_id="Sub Fi">Sub Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="super.rtl.de" xmltv_id="Super Rtl De">Super Rtl De</channel>
+    <channel update="i" site="xmltv.se" site_id="superhd.rtl.de" xmltv_id="Superhd Rtl De">Superhd Rtl De</channel>
+    <channel update="i" site="xmltv.se" site_id="supertv.nrk.no" xmltv_id="Supertv Nrk No">Supertv Nrk No</channel>
+    <channel update="i" site="xmltv.se" site_id="svt1.svt.dev" xmltv_id="Svt1 Svt Dev">Svt1 Svt Dev</channel>
+    <channel update="i" site="xmltv.se" site_id="svt1.svt.se" xmltv_id="Svt1 Svt Se">Svt1 Svt Se</channel>
+    <channel update="i" site="xmltv.se" site_id="svt1hd.svt.se" xmltv_id="Svt1hd Svt Se">Svt1hd Svt Se</channel>
+    <channel update="i" site="xmltv.se" site_id="svt2.svt.se" xmltv_id="Svt2 Svt Se">Svt2 Svt Se</channel>
+    <channel update="i" site="xmltv.se" site_id="svt24.svt.se" xmltv_id="Svt24 Svt Se">Svt24 Svt Se</channel>
+    <channel update="i" site="xmltv.se" site_id="svt24hd.svt.se" xmltv_id="Svt24hd Svt Se">Svt24hd Svt Se</channel>
+    <channel update="i" site="xmltv.se" site_id="svt2hd.svt.se" xmltv_id="Svt2hd Svt Se">Svt2hd Svt Se</channel>
+    <channel update="i" site="xmltv.se" site_id="svtb-svt24.svt.se" xmltv_id="Svtb Svt24 Svt Se">Svtb Svt24 Svt Se</channel>
+    <channel update="i" site="xmltv.se" site_id="svtb.svt.se" xmltv_id="Svtb Svt Se">Svtb Svt Se</channel>
+    <channel update="i" site="xmltv.se" site_id="svtbhd.svt.se" xmltv_id="Svtbhd Svt Se">Svtbhd Svt Se</channel>
+    <channel update="i" site="xmltv.se" site_id="syd.p4.dr.dk" xmltv_id="Syd P4 Dr. Dk">Syd P4 Dr. Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="syfy.de" xmltv_id="Syfy De">Syfy De</channel>
+    <channel update="i" site="xmltv.se" site_id="tele5.de" xmltv_id="Tele5 De">Tele5 De</channel>
+    <channel update="i" site="xmltv.se" site_id="teledeporte.rtve.es" xmltv_id="Teledeporte Rtve Es">Teledeporte Rtve Es</channel>
+    <channel update="i" site="xmltv.se" site_id="tlc.discovery.de" xmltv_id="Tlc Discovery De">Tlc Discovery De</channel>
+    <channel update="i" site="xmltv.se" site_id="tlc.discovery.dk" xmltv_id="Tlc Discovery Dk">Tlc Discovery Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="tlc.discovery.eu" xmltv_id="Tlc Discovery Eu">Tlc Discovery Eu</channel>
+    <channel update="i" site="xmltv.se" site_id="tlc.discovery.no" xmltv_id="Tlc Discovery No">Tlc Discovery No</channel>
+    <channel update="i" site="xmltv.se" site_id="tlc.discoverynetworks.fi" xmltv_id="Tlc Discoverynetworks Fi">Tlc Discoverynetworks Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="tlchd.discovery.no" xmltv_id="Tlchd Discovery No">Tlchd Discovery No</channel>
+    <channel update="i" site="xmltv.se" site_id="tlcsverige.se" xmltv_id="Tlcsverige Se">Tlcsverige Se</channel>
+    <channel update="i" site="xmltv.se" site_id="toons.nick.com.pl" xmltv_id="Toons Nick Com Pl">Toons Nick Com Pl</channel>
+    <channel update="i" site="xmltv.se" site_id="toons.nick.de" xmltv_id="Toons Nick De">Toons Nick De</channel>
+    <channel update="i" site="xmltv.se" site_id="toons.nickelodeon.dk" xmltv_id="Toons Nickelodeon Dk">Toons Nickelodeon Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="toons.nickelodeon.fi" xmltv_id="Toons Nickelodeon Fi">Toons Nickelodeon Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="toons.nickelodeon.no" xmltv_id="Toons Nickelodeon No">Toons Nickelodeon No</channel>
+    <channel update="i" site="xmltv.se" site_id="toons.nickelodeon.se" xmltv_id="Toons Nickelodeon Se">Toons Nickelodeon Se</channel>
+    <channel update="i" site="xmltv.se" site_id="topcrime.mediaset.it" xmltv_id="Topcrime Mediaset It">Topcrime Mediaset It</channel>
+    <channel update="i" site="xmltv.se" site_id="travelchanneltv.eu" xmltv_id="Travelchanneltv Eu">Travelchanneltv Eu</channel>
+    <channel update="i" site="xmltv.se" site_id="travelchanneltv.se" xmltv_id="Travelchanneltv Se">Travelchanneltv Se</channel>
+    <channel update="i" site="xmltv.se" site_id="trekanten.p4.dr.dk" xmltv_id="Trekanten P4 Dr. Dk">Trekanten P4 Dr. Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="tv1.yle.dev" xmltv_id="Tv1 Yle Dev">Tv1 Yle Dev</channel>
+    <channel update="i" site="xmltv.se" site_id="tv1.yle.fi" xmltv_id="Tv1 Yle Fi">Tv1 Yle Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="tv10.se" xmltv_id="Tv10 Se">Tv10 Se</channel>
+    <channel update="i" site="xmltv.se" site_id="tv1000.ee.viasatworld.com" xmltv_id="Tv1000 Ee Viasatworld Com">Tv1000 Ee Viasatworld Com</channel>
+    <channel update="i" site="xmltv.se" site_id="tv1000.lt.viasatworld.com" xmltv_id="Tv1000 Lt Viasatworld Com">Tv1000 Lt Viasatworld Com</channel>
+    <channel update="i" site="xmltv.se" site_id="tv1000.lv.viasatworld.com" xmltv_id="Tv1000 Lv Viasatworld Com">Tv1000 Lv Viasatworld Com</channel>
+    <channel update="i" site="xmltv.se" site_id="tv1000action.ee.viasatworld.com" xmltv_id="Tv1000action Ee Viasatworld Com">Tv1000action Ee Viasatworld Com</channel>
+    <channel update="i" site="xmltv.se" site_id="tv1000action.lt.viasatworld.com" xmltv_id="Tv1000action Lt Viasatworld Com">Tv1000action Lt Viasatworld Com</channel>
+    <channel update="i" site="xmltv.se" site_id="tv1000action.lv.viasatworld.com" xmltv_id="Tv1000action Lv Viasatworld Com">Tv1000action Lv Viasatworld Com</channel>
+    <channel update="i" site="xmltv.se" site_id="tv1000balkans.hr.viasatworld.com" xmltv_id="Tv1000balkans Hr Viasatworld Com">Tv1000balkans Hr Viasatworld Com</channel>
+    <channel update="i" site="xmltv.se" site_id="tv1000comedyhd.ee.viasatworld.com" xmltv_id="Tv1000comedyhd Ee Viasatworld Com">Tv1000comedyhd Ee Viasatworld Com</channel>
+    <channel update="i" site="xmltv.se" site_id="tv1000comedyhd.lt.viasatworld.com" xmltv_id="Tv1000comedyhd Lt Viasatworld Com">Tv1000comedyhd Lt Viasatworld Com</channel>
+    <channel update="i" site="xmltv.se" site_id="tv1000comedyhd.lv.viasatworld.com" xmltv_id="Tv1000comedyhd Lv Viasatworld Com">Tv1000comedyhd Lv Viasatworld Com</channel>
+    <channel update="i" site="xmltv.se" site_id="tv1000kino.ee.viasatworld.com" xmltv_id="Tv1000kino Ee Viasatworld Com">Tv1000kino Ee Viasatworld Com</channel>
+    <channel update="i" site="xmltv.se" site_id="tv1000kino.lt.viasatworld.com" xmltv_id="Tv1000kino Lt Viasatworld Com">Tv1000kino Lt Viasatworld Com</channel>
+    <channel update="i" site="xmltv.se" site_id="tv1000kino.lv.viasatworld.com" xmltv_id="Tv1000kino Lv Viasatworld Com">Tv1000kino Lv Viasatworld Com</channel>
+    <channel update="i" site="xmltv.se" site_id="tv11.sbstv.se" xmltv_id="Tv11 Sbstv Se">Tv11 Sbstv Se</channel>
+    <channel update="i" site="xmltv.se" site_id="tv11hd.sbstv.se" xmltv_id="Tv11hd Sbstv Se">Tv11hd Sbstv Se</channel>
+    <channel update="i" site="xmltv.se" site_id="tv12.tv4.se" xmltv_id="Tv12 Tv4 Se">Tv12 Tv4 Se</channel>
+    <channel update="i" site="xmltv.se" site_id="tv2.dk" xmltv_id="Tv2 Dk">Tv2 Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="tv2.no" xmltv_id="Tv2 No">Tv2 No</channel>
+    <channel update="i" site="xmltv.se" site_id="tv2.yle.fi" xmltv_id="Tv2 Yle Fi">Tv2 Yle Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="tv24.ch" xmltv_id="Tv24 Ch">Tv24 Ch</channel>
+    <channel update="i" site="xmltv.se" site_id="tv25.ch" xmltv_id="Tv25 Ch">Tv25 Ch</channel>
+    <channel update="i" site="xmltv.se" site_id="tv2bornholm.dk" xmltv_id="Tv2bornholm Dk">Tv2bornholm Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="tv2fyn.dk" xmltv_id="Tv2fyn Dk">Tv2fyn Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="tv2lorry.dk" xmltv_id="Tv2lorry Dk">Tv2lorry Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="tv2nord.dk" xmltv_id="Tv2nord Dk">Tv2nord Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="tv2oj.dk" xmltv_id="Tv2oj Dk">Tv2oj Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="tv3.dk" xmltv_id="Tv3 Dk">Tv3 Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="tv3.ee" xmltv_id="Tv3 Ee">Tv3 Ee</channel>
+    <channel update="i" site="xmltv.se" site_id="tv3.lt" xmltv_id="Tv3 Lt">Tv3 Lt</channel>
+    <channel update="i" site="xmltv.se" site_id="tv3.lv" xmltv_id="Tv3 Lv">Tv3 Lv</channel>
+    <channel update="i" site="xmltv.se" site_id="tv3.no" xmltv_id="Tv3 No">Tv3 No</channel>
+    <channel update="i" site="xmltv.se" site_id="tv3.se" xmltv_id="Tv3 Se">Tv3 Se</channel>
+    <channel update="i" site="xmltv.se" site_id="tv3plus.dk" xmltv_id="Tv3plus Dk">Tv3plus Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="tv4.se" xmltv_id="Tv4 Se">Tv4 Se</channel>
+    <channel update="i" site="xmltv.se" site_id="tv4fakta.boxer.se" xmltv_id="Tv4fakta Boxer Se">Tv4fakta Boxer Se</channel>
+    <channel update="i" site="xmltv.se" site_id="tv4film.boxer.se" xmltv_id="Tv4film Boxer Se">Tv4film Boxer Se</channel>
+    <channel update="i" site="xmltv.se" site_id="tv5.fi" xmltv_id="Tv5 Fi">Tv5 Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="tv5monde.org" xmltv_id="Tv5monde Org">Tv5monde Org</channel>
+    <channel update="i" site="xmltv.se" site_id="tv6.ee" xmltv_id="Tv6 Ee">Tv6 Ee</channel>
+    <channel update="i" site="xmltv.se" site_id="tv6.lt" xmltv_id="Tv6 Lt">Tv6 Lt</channel>
+    <channel update="i" site="xmltv.se" site_id="tv6.lv" xmltv_id="Tv6 Lv">Tv6 Lv</channel>
+    <channel update="i" site="xmltv.se" site_id="tv6.se" xmltv_id="Tv6 Se">Tv6 Se</channel>
+    <channel update="i" site="xmltv.se" site_id="tv6norge.no" xmltv_id="Tv6norge No">Tv6norge No</channel>
+    <channel update="i" site="xmltv.se" site_id="tv7.fi" xmltv_id="Tv7 Fi">Tv7 Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="tv7plus.fi" xmltv_id="Tv7plus Fi">Tv7plus Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="tv8.lt" xmltv_id="Tv8 Lt">Tv8 Lt</channel>
+    <channel update="i" site="xmltv.se" site_id="tv8.se" xmltv_id="Tv8 Se">Tv8 Se</channel>
+    <channel update="i" site="xmltv.se" site_id="tveast.dk" xmltv_id="Tveast Dk">Tveast Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="tvfinland.yle.fi" xmltv_id="Tvfinland Yle Fi">Tvfinland Yle Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="tvmidtvest.dk" xmltv_id="Tvmidtvest Dk">Tvmidtvest Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="tvnorge.no" xmltv_id="Tvnorge No">Tvnorge No</channel>
+    <channel update="i" site="xmltv.se" site_id="tvp1.tvp.pl" xmltv_id="Tvp1 Tvp Pl">Tvp1 Tvp Pl</channel>
+    <channel update="i" site="xmltv.se" site_id="tvp2.tvp.pl" xmltv_id="Tvp2 Tvp Pl">Tvp2 Tvp Pl</channel>
+    <channel update="i" site="xmltv.se" site_id="tvsyd.dk" xmltv_id="Tvsyd Dk">Tvsyd Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="ultra.dr.dk" xmltv_id="Ultra Dr. Dk">Ultra Dr. Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="ultrahd.viasat.dk" xmltv_id="Ultrahd Viasat Dk">Ultrahd Viasat Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="ultrahd.viasat.fi" xmltv_id="Ultrahd Viasat Fi">Ultrahd Viasat Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="ultrahd.viasat.no" xmltv_id="Ultrahd Viasat No">Ultrahd Viasat No</channel>
+    <channel update="i" site="xmltv.se" site_id="ultrahd.viasat.se" xmltv_id="Ultrahd Viasat Se">Ultrahd Viasat Se</channel>
+    <channel update="i" site="xmltv.se" site_id="universalchannel.de" xmltv_id="Universalchannel De">Universalchannel De</channel>
+    <channel update="i" site="xmltv.se" site_id="urbanint.trace.tv" xmltv_id="Urbanint Trace Tv">Urbanint Trace Tv</channel>
+    <channel update="i" site="xmltv.se" site_id="vh1.eu" xmltv_id="Vh1 Eu">Vh1 Eu</channel>
+    <channel update="i" site="xmltv.se" site_id="vh1.fi" xmltv_id="Vh1 Fi">Vh1 Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="vh1.mtv.dk" xmltv_id="Vh1 Mtv Dk">Vh1 Mtv Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="vh1.mtv.pl" xmltv_id="Vh1 Mtv Pl">Vh1 Mtv Pl</channel>
+    <channel update="i" site="xmltv.se" site_id="vh1.no" xmltv_id="Vh1 No">Vh1 No</channel>
+    <channel update="i" site="xmltv.se" site_id="vh1.se" xmltv_id="Vh1 Se">Vh1 Se</channel>
+    <channel update="i" site="xmltv.se" site_id="viasat3.hu" xmltv_id="Viasat3 Hu">Viasat3 Hu</channel>
+    <channel update="i" site="xmltv.se" site_id="viasat4.no" xmltv_id="Viasat4 No">Viasat4 No</channel>
+    <channel update="i" site="xmltv.se" site_id="viasat6.hu" xmltv_id="Viasat6 Hu">Viasat6 Hu</channel>
+    <channel update="i" site="xmltv.se" site_id="visionsverige.com" xmltv_id="Visionsverige Com">Visionsverige Com</channel>
+    <channel update="i" site="xmltv.se" site_id="visjonnorge.com" xmltv_id="Visjonnorge Com">Visjonnorge Com</channel>
+    <channel update="i" site="xmltv.se" site_id="viva-tv.pl" xmltv_id="Viva Tv Pl">Viva Tv Pl</channel>
+    <channel update="i" site="xmltv.se" site_id="viva.tv" xmltv_id="Viva Tv">Viva Tv</channel>
+    <channel update="i" site="xmltv.se" site_id="vox.de" xmltv_id="Vox De">Vox De</channel>
+    <channel update="i" site="xmltv.se" site_id="voxtv.no" xmltv_id="Voxtv No">Voxtv No</channel>
+    <channel update="i" site="xmltv.se" site_id="wdr.daserste.de" xmltv_id="Wdr Daserste De">Wdr Daserste De</channel>
+    <channel update="i" site="xmltv.se" site_id="wdrhd.daserste.de" xmltv_id="Wdrhd Daserste De">Wdrhd Daserste De</channel>
+    <channel update="i" site="xmltv.se" site_id="welt.de" xmltv_id="Welt De">Welt De</channel>
+    <channel update="i" site="xmltv.se" site_id="wild.natgeo.de" xmltv_id="Wild Natgeo De">Wild Natgeo De</channel>
+    <channel update="i" site="xmltv.se" site_id="wild.natgeo.dk" xmltv_id="Wild Natgeo Dk">Wild Natgeo Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="wild.natgeo.fi" xmltv_id="Wild Natgeo Fi">Wild Natgeo Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="wild.natgeo.no" xmltv_id="Wild Natgeo No">Wild Natgeo No</channel>
+    <channel update="i" site="xmltv.se" site_id="wild.natgeo.pl" xmltv_id="Wild Natgeo Pl">Wild Natgeo Pl</channel>
+    <channel update="i" site="xmltv.se" site_id="wild.natgeo.se" xmltv_id="Wild Natgeo Se">Wild Natgeo Se</channel>
+    <channel update="i" site="xmltv.se" site_id="wildhd.natgeo.de" xmltv_id="Wildhd Natgeo De">Wildhd Natgeo De</channel>
+    <channel update="i" site="xmltv.se" site_id="wildhd.natgeo.se" xmltv_id="Wildhd Natgeo Se">Wildhd Natgeo Se</channel>
+    <channel update="i" site="xmltv.se" site_id="world.discovery.dk" xmltv_id="World Discovery Dk">World Discovery Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="world.discovery.eu" xmltv_id="World Discovery Eu">World Discovery Eu</channel>
+    <channel update="i" site="xmltv.se" site_id="world.discovery.no" xmltv_id="World Discovery No">World Discovery No</channel>
+    <channel update="i" site="xmltv.se" site_id="world.discoveryworld.se" xmltv_id="World Discoveryworld Se">World Discoveryworld Se</channel>
+    <channel update="i" site="xmltv.se" site_id="world.kbs.co.kr" xmltv_id="World Kbs Co Kr">World Kbs Co Kr</channel>
+    <channel update="i" site="xmltv.se" site_id="xd.disneychannel.com" xmltv_id="Xd Disneychannel Com">Xd Disneychannel Com</channel>
+    <channel update="i" site="xmltv.se" site_id="xd.disneychannel.de" xmltv_id="Xd Disneychannel De">Xd Disneychannel De</channel>
+    <channel update="i" site="xmltv.se" site_id="xd.disneychannel.dk" xmltv_id="Xd Disneychannel Dk">Xd Disneychannel Dk</channel>
+    <channel update="i" site="xmltv.se" site_id="xd.disneychannel.fi" xmltv_id="Xd Disneychannel Fi">Xd Disneychannel Fi</channel>
+    <channel update="i" site="xmltv.se" site_id="xd.disneychannel.no" xmltv_id="Xd Disneychannel No">Xd Disneychannel No</channel>
+    <channel update="i" site="xmltv.se" site_id="xd.disneychannel.se" xmltv_id="Xd Disneychannel Se">Xd Disneychannel Se</channel>
+    <channel update="i" site="xmltv.se" site_id="xee.fox.com" xmltv_id="Xee Fox Com">Xee Fox Com</channel>
+    <channel update="i" site="xmltv.se" site_id="xite.tv" xmltv_id="Xite Tv">Xite Tv</channel>
+    <channel update="i" site="xmltv.se" site_id="zdf.de" xmltv_id="Zdf De">Zdf De</channel>
+    <channel update="i" site="xmltv.se" site_id="zebra.tv2.no" xmltv_id="Zebra Tv2 No">Zebra Tv2 No</channel>
+    <channel update="i" site="xmltv.se" site_id="zebrahd.tv2.no" xmltv_id="Zebrahd Tv2 No">Zebrahd Tv2 No</channel>
+    <channel update="i" site="xmltv.se" site_id="zulu.tv2.dk" xmltv_id="Zulu Tv2 Dk">Zulu Tv2 Dk</channel>
+  </channels>
+</site>
